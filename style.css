@@ -1,0 +1,111 @@
+/* AI Slop Alert — National Slop Service
+   Teletype-bulletin aesthetic: paper, ink, one severity color per day. */
+
+:root {
+  --paper: #f7f3e9;
+  --ink: #211f1a;
+  --faded: #6e6a5e;
+  --rule: #211f1a;
+  --lv1: #2e7d32;
+  --lv2: #b58900;
+  --lv3: #d2691e;
+  --lv4: #c0392b;
+  --lv5: #7b1fa2;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  background: var(--paper);
+  background-image: repeating-linear-gradient(
+    0deg, transparent, transparent 2px, rgba(33, 31, 26, 0.025) 2px, rgba(33, 31, 26, 0.025) 4px
+  );
+  color: var(--ink);
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+  font-size: 15px;
+  line-height: 1.6;
+  max-width: 46rem;
+  margin: 0 auto;
+  padding: 1.5rem 1rem 3rem;
+}
+
+a { color: inherit; }
+a:hover { background: var(--ink); color: var(--paper); text-decoration: none; }
+
+/* Masthead */
+.masthead { text-align: center; border-bottom: 4px double var(--rule); padding-bottom: 1rem; margin-bottom: 1.5rem; }
+.masthead .home { text-decoration: none; }
+.masthead .home:hover { background: none; color: inherit; }
+.masthead h1 {
+  font-size: clamp(1.7rem, 6vw, 2.6rem);
+  letter-spacing: 0.18em;
+  margin: 0.25rem 0 0.25rem;
+}
+.masthead h1::before, .masthead h1::after { content: " 🚨 "; font-size: 0.6em; vertical-align: middle; }
+.tagline { font-size: 0.72rem; letter-spacing: 0.12em; color: var(--faded); margin: 0 0 0.6rem; }
+.masthead nav { font-size: 0.8rem; letter-spacing: 0.08em; }
+
+/* Bulletin */
+.bulletin { border: 2px solid var(--rule); padding: 1.25rem 1.25rem 1rem; background: rgba(255, 255, 255, 0.45); }
+.meta-line {
+  display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem;
+  font-size: 0.72rem; letter-spacing: 0.1em; color: var(--faded);
+  border-bottom: 1px solid var(--faded); padding-bottom: 0.5rem; margin-bottom: 0.9rem;
+}
+.sev-banner {
+  display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 0.5rem;
+  color: #fff; padding: 0.45rem 0.7rem; margin-bottom: 1rem;
+  letter-spacing: 0.1em; font-weight: 700; font-size: 0.85rem;
+}
+.sev-1 .sev-banner { background: var(--lv1); }
+.sev-2 .sev-banner { background: var(--lv2); }
+.sev-3 .sev-banner { background: var(--lv3); }
+.sev-4 .sev-banner { background: var(--lv4); }
+.sev-5 .sev-banner { background: var(--lv5); animation: blink 1.2s step-end infinite; }
+@keyframes blink { 50% { filter: brightness(1.35); } }
+.sev-gauge .tick { opacity: 0.95; }
+
+.headline { font-size: 1.25rem; line-height: 1.35; text-transform: uppercase; margin: 0 0 0.8rem; }
+.advisory { font-size: 1rem; }
+
+.bulletin h3 {
+  font-size: 0.8rem; letter-spacing: 0.15em; color: var(--faded);
+  border-top: 1px dashed var(--faded); padding-top: 0.9rem; margin: 1.3rem 0 0.5rem;
+}
+
+/* Regional outlook + field guide */
+dl.outlook dt, dl.field-guide dt { font-weight: 700; margin-top: 0.55rem; }
+dl.outlook dt::before { content: "▸ "; }
+dl.outlook dd, dl.field-guide dd { margin: 0 0 0 1.1rem; color: #3a382f; }
+dl.field-guide dt { text-transform: uppercase; font-size: 0.72rem; letter-spacing: 0.1em; color: var(--faded); }
+.specimen-name { font-weight: 700; font-size: 1.05rem; margin: 0.3rem 0 0; }
+.specimen-name em { color: var(--faded); font-weight: 400; }
+dd.call { font-style: italic; }
+
+/* Archive */
+.page-title { letter-spacing: 0.12em; font-size: 1rem; color: var(--faded); }
+.archive-note { color: var(--faded); font-size: 0.85rem; }
+.archive-list { list-style: none; padding: 0; }
+.archive-list li { border-left: 6px solid var(--faded); margin-bottom: 0.6rem; }
+.archive-list li.sev-1 { border-color: var(--lv1); }
+.archive-list li.sev-2 { border-color: var(--lv2); }
+.archive-list li.sev-3 { border-color: var(--lv3); }
+.archive-list li.sev-4 { border-color: var(--lv4); }
+.archive-list li.sev-5 { border-color: var(--lv5); }
+.archive-list a { display: block; padding: 0.5rem 0.8rem; text-decoration: none; }
+.archive-list a:hover { background: rgba(33, 31, 26, 0.08); color: inherit; }
+.a-date { font-size: 0.75rem; color: var(--faded); letter-spacing: 0.08em; }
+.a-sev { font-size: 0.75rem; font-weight: 700; letter-spacing: 0.08em; margin-left: 0.4rem; }
+.a-head { display: block; font-size: 0.9rem; margin-top: 0.15rem; }
+.archive-link { text-align: center; margin-top: 1.5rem; letter-spacing: 0.08em; font-size: 0.85rem; }
+
+/* Footer */
+footer {
+  margin-top: 2.5rem; border-top: 4px double var(--rule); padding-top: 1rem;
+  font-size: 0.75rem; color: var(--faded); text-align: center;
+}
+
+@media (max-width: 480px) {
+  body { font-size: 14px; }
+  .bulletin { padding: 0.9rem; }
+}

@@ -1,0 +1,40 @@
+{
+  "date": "2026-06-07",
+  "severity_level": 2,
+  "severity_name": "SLOP WATCH",
+  "headline": "SLOP WATCH ISSUED FOR RECIPE COUNTRY AS BLOGS REPORT RECORD LEVELS OF CHILDHOOD MEMORIES NOBODY HAD",
+  "advisory": "A slow-moving system of artificially generated nostalgia is drifting across the recipe blogs, depositing sun-dappled kitchens, weathered hands, and grandmothers of no fixed address. Conditions are survivable but cloying. Readers attempting to reach the ingredients list should allow extra scrolling time and pack a snack, ironically.",
+  "regional_outlook": [
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Hazy. The phrase 'in today's fast-paced world' detected in 40% of inbound articles. Visibility of actual information: poor."
+    },
+    {
+      "region": "The Facebook Delta",
+      "conditions": "Standing water throughout. A 14-foot crocheted Jesus drew 80,000 amens; engagement farms operating at full capacity."
+    },
+    {
+      "region": "The LinkedIn Plateau",
+      "conditions": "Mild. Only scattered hustle. One man announced he wakes at 4 a.m. and was met with appropriate silence."
+    },
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Murky. Recipe images depict bread with anatomically impossible crumb structure. Do not attempt to bake what you see."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Rising newsletter levels. Several openers of 'I hope this email finds you well' confirmed to have been written by no one."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Phantom Grandmother",
+    "latin_name": "Nonna fabricata",
+    "status": "Invasive. Population: theoretically infinite.",
+    "habitat": "The first nine paragraphs of any recipe for 'rustic' anything.",
+    "field_marks": "Weathered hands, flour-dusted apron, a kitchen that smells of three adjectives. Never photographed. Never named. Owns a farmhouse in no particular country.",
+    "call": "My grandmother always said the secret ingredient was love — and exactly 2¼ cups of all-purpose flour.",
+    "confusion_species": "The Real Grandmother, a native species. Distinguish by specificity: the real one has a name, a town, and at least one strong opinion about your life choices."
+  },
+  "spotter_tip": "If a recipe describes the smell of a kitchen before it mentions a single ingredient, you are standing in slop. Back away slowly and scroll directly to the part with numbers.",
+  "tomorrow": "Slop levels expected to rise as the workweek begins and the LinkedIn Plateau warms."
+}

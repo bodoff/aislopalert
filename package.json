@@ -1,0 +1,15 @@
+{
+  "name": "aislopalert",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI Slop Alert — daily satirical bulletins from the National Slop Service",
+  "type": "module",
+  "scripts": {
+    "generate": "node generate.mjs",
+    "build": "node build.mjs",
+    "serve": "npx serve site"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.65.0"
+  }
+}

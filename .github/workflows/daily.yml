@@ -1,0 +1,61 @@
+name: Daily bulletin
+
+on:
+  schedule:
+    - cron: "0 11 * * *" # daily, 11:00 UTC (~7am ET)
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-bulletin
+  cancel-in-progress: false
+
+jobs:
+  bulletin:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      # Generate today's bulletin (skipped on plain pushes — those just redeploy the site)
+      - name: Generate bulletin
+        if: github.event_name != 'push'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node generate.mjs
+
+      - name: Commit new bulletin
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "national-slop-service[bot]"
+          git config user.email "bot@aislopalert.com"
+          git add content/
+          git diff --cached --quiet || git commit -m "Bulletin for $(date -u +%F)"
+          git push
+
+      - name: Build site
+        run: node build.mjs
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
