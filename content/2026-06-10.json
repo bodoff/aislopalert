@@ -1,0 +1,40 @@
+{
+  "date": "2026-06-10",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING",
+  "headline": "SUMMER TRAVEL ADVISORY: AI GUIDEBOOKS DIRECT VACATIONERS TO RESTAURANTS, BEACHES, AND ENTIRE TOWNS THAT DO NOT EXIST",
+  "advisory": "A persistent low-pressure system of machine-generated travel content has settled over peak vacation season, producing dense banks of itineraries citing landmarks no surveyor has ever confirmed. Residents are advised that a five-paragraph article promising a 'hidden gem locals don't want you to know about' frequently describes a location locals have also never heard of. The Service reminds travelers that a confidently captioned photo of a turquoise lagoon is not, by itself, evidence the lagoon has a parking lot, a coastline, or a continent.",
+  "regional_outlook": [
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Saturated. The top eight results for 'best things to do' in any given city are drifting from one another, each recommending a different museum housed in the same nonexistent building."
+    },
+    {
+      "region": "The Travel Blog Tablelands",
+      "conditions": "Heavy listicle accumulation overnight. Expect '17 Underrated European Villages,' three of which are stock-photo composites and one of which is technically a screensaver."
+    },
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Calm but deceptive. Saved itineraries are pinning charming cobblestone alleys that resolve, on closer inspection, into seven-fingered pedestrians and a café named 'Coffee Coffee.'"
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "A surge of 'Ultimate 2026 Travel Planner' apps making landfall, each containing the same hallucinated subway map. Refund visibility near zero."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Newsletter slop pooling in marked channels. 'This Tiny Town Will Be the Next Big Thing' arriving in volume; the tiny town remains, at press time, theoretical."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Phantom Trattoria",
+    "latin_name": "Ristorante nullus",
+    "status": "Abundant and rising; thrives wherever a travel guide needs a third bullet point.",
+    "habitat": "'Where to eat' sections, map pins with no street address, and reviews praising a sunset terrace the building does not have.",
+    "field_marks": "Suspiciously universal four-and-a-half stars; a name assembled from the words Bella, Casa, Rustico, and Authentic; opening hours of '9 AM to 11 PM, seven days a week, including the day it was invented.'",
+    "call": "Nestled in the heart of the old town, this charming family-run gem offers authentic local flavor that you simply must experience — reservations recommended.",
+    "confusion_species": "Easily mistaken for a real beloved restaurant. Distinguish by checking whether anyone has ever physically eaten there: genuine establishments accrue blurry photos of food and complaints about parking, while the Phantom Trattoria has only flawless lighting and no visible door."
+  },
+  "spotter_tip": "If an itinerary recommends a 'must-see hidden waterfall' but cannot name the trailhead, the road to it, or which hemisphere it is in, do not pack the hiking boots — pack skepticism.",
+  "tomorrow": "Phantom destinations weakening by afternoon; isolated outbreaks of fabricated festival dates expected through the weekend."
+}
