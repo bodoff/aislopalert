@@ -75,6 +75,11 @@ function renderBulletin(b, { number }) {
     </dl>
   </section>
 
+  ${b.confirmed_sighting ? `<section>
+    <h3>// CONFIRMED SIGHTING</h3>
+    <p>${esc(b.confirmed_sighting.report)} <span class="cite">[Field report verified — source: <a href="${esc(b.confirmed_sighting.source_url)}" rel="noopener">${esc(b.confirmed_sighting.source_name)}</a>]</span></p>
+  </section>` : ""}
+
   <section>
     <h3>// SPOTTER TIP</h3>
     <p>${esc(b.spotter_tip)}</p>

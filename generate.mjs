@@ -36,6 +36,48 @@ const recentSummary = recent
   )
   .join("\n");
 
+// Phase 1: search the web for recent coverage of slop phenomena.
+// Returns [] on any failure — the bulletin generates fine without it.
+async function research(client) {
+  try {
+    let messages = [
+      {
+        role: "user",
+        content: `Search for news coverage from the last two weeks about AI-generated content flooding the internet ("AI slop") — new slop genres, platform responses, studies, notable incidents.
+
+Return ONLY a JSON array of 3-5 items, no other text:
+[{"summary": "one or two sentences", "source_name": "outlet name", "source_url": "https://..."}]
+
+HARD RULES:
+- Only items from journalistic or research outlets covering phenomena and trends.
+- Never include an individual's social media post, never name private individuals or small creators.
+- source_url must be the real URL of the coverage.`,
+      },
+    ];
+    let response;
+    for (let i = 0; i < 5; i++) {
+      response = await client.messages.create({
+        model: "claude-opus-4-8",
+        max_tokens: 4000,
+        thinking: { type: "adaptive" },
+        tools: [{ type: "web_search_20260209", name: "web_search", max_uses: 4 }],
+        messages,
+      });
+      if (response.stop_reason !== "pause_turn") break;
+      messages = [...messages, { role: "assistant", content: response.content }];
+    }
+    const text = response.content.filter((b) => b.type === "text").map((b) => b.text).join("\n");
+    const match = text.match(/\[\s*\{[\s\S]*\}\s*\]/);
+    const briefs = match ? JSON.parse(match[0]) : [];
+    const valid = briefs.filter((b) => b.summary && b.source_name && /^https?:\/\//.test(b.source_url ?? ""));
+    if (valid.length === 0) console.log("Research returned no usable briefs. Text was:", text.slice(0, 500));
+    return valid;
+  } catch (err) {
+    console.log("Research phase failed, generating ungrounded bulletin:", err.message);
+    return [];
+  }
+}
+
 const BULLETIN_SCHEMA = {
   type: "object",
   additionalProperties: false,
@@ -83,6 +125,20 @@ const BULLETIN_SCHEMA = {
   },
 };
 
+const SIGHTING_SCHEMA = {
+  type: "object",
+  additionalProperties: false,
+  required: ["report", "source_name", "source_url"],
+  properties: {
+    report: {
+      type: "string",
+      description: "1-2 sentences reporting a REAL, sourced slop event in the Service's deadpan voice. Factual — no invented details.",
+    },
+    source_name: { type: "string" },
+    source_url: { type: "string", description: "Must be one of the briefed source URLs, copied verbatim." },
+  },
+};
+
 const SYSTEM = `You are the sole staff writer of the National Slop Service, the bureau behind aislopalert.com. Every day you issue one bulletin about "AI slop" — the tide of low-effort AI-generated content washing over the internet — written as a pitch-perfect parody of a National Weather Service alert: deadpan, bureaucratic, officially calm in the face of absurdity.
 
 VOICE
@@ -101,16 +157,33 @@ STRUCTURE NOTES
 - specimen: one field-guide entry for a recognizable slop species (a content pattern, a cliché phrase, a fake-persona genre). Make it FRESH — never reuse or closely echo a specimen from the recent bulletins provided.
 - severity_level: vary realistically across days (mostly 2-4; reserve 5 for special occasions and 1 for rare quiet days). Severity name must match the level.
 - Headlines in all caps, wire-service style.
-- Em dash jokes are permitted. The Service is aware of the optics.`;
+- Em dash jokes are permitted. The Service is aware of the optics.
+- confirmed_sighting (when intelligence briefs are provided): the ONE factual section of the bulletin. Pick the single best brief and report it straight — real facts, Service voice, light dry framing only. Do not embellish, do not invent numbers, and copy source_url verbatim from the brief. Everything else in the bulletin stays fiction; this section is the field report from our agents, and the fact/fiction line must stay sharp.`;
+
+const client = new Anthropic();
+
+const briefs = await research(client);
+console.log(`Research: ${briefs.length} intelligence brief(s) gathered.`);
+
+const schema = structuredClone(BULLETIN_SCHEMA);
+if (briefs.length > 0) {
+  schema.properties.confirmed_sighting = SIGHTING_SCHEMA;
+  schema.required.push("confirmed_sighting");
+}
+
+const briefsBlock =
+  briefs.length > 0
+    ? `\nIntelligence briefs from the field (REAL, recent news — use them two ways: pick ONE for the factual confirmed_sighting section, and feel free to let the others inspire the day's fictional material):\n${briefs
+        .map((b) => `- ${b.summary} [${b.source_name}] (${b.source_url})`)
+        .join("\n")}\n`
+    : "";
 
 const userPrompt = `Issue the bulletin for ${today} (${new Date(today + "T12:00:00Z").toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric", year: "numeric", timeZone: "UTC" })}).
 
 Recent bulletins — do NOT repeat these specimens, headlines, or central jokes:
 ${recentSummary || "(none yet)"}
-
+${briefsBlock}
 Pick a fresh angle on the slop phenomenon of the day and write the full bulletin.`;
-
-const client = new Anthropic();
 
 const response = await client.messages.create({
   model: "claude-opus-4-8",
@@ -118,7 +191,7 @@ const response = await client.messages.create({
   thinking: { type: "adaptive" },
   system: SYSTEM,
   messages: [{ role: "user", content: userPrompt }],
-  output_config: { format: { type: "json_schema", schema: BULLETIN_SCHEMA } },
+  output_config: { format: { type: "json_schema", schema } },
 });
 
 const text = response.content.find((b) => b.type === "text")?.text;

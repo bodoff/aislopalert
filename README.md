@@ -13,6 +13,7 @@ build.mjs     →  site/                     (static HTML: today + archive + RSS
 - **Content** lives as one JSON file per day in `content/` — that's the permanent archive.
 - **Site** is rebuilt from scratch on every run; `site/` is not committed.
 - The generator passes the last 10 bulletins back to the model so specimens and jokes don't repeat, and its system prompt enforces the editorial line: satirize content *patterns* and platform incentives, never people; no hate, no politics, no punching down.
+- **Research phase:** before writing, the generator web-searches recent news coverage of slop phenomena (journalism only — never individual posts or creators). One real, cited item becomes the bulletin's single factual section, `// CONFIRMED SIGHTING`; the rest may inspire the day's fiction. If research fails, the bulletin generates without the section.
 
 ## Local usage
 

@@ -81,6 +81,7 @@ dl.field-guide dt { text-transform: uppercase; font-size: 0.72rem; letter-spacin
 .specimen-name { font-weight: 700; font-size: 1.05rem; margin: 0.3rem 0 0; }
 .specimen-name em { color: var(--faded); font-weight: 400; }
 dd.call { font-style: italic; }
+.cite { font-size: 0.78rem; color: var(--faded); }
 
 /* Archive */
 .page-title { letter-spacing: 0.12em; font-size: 1rem; color: var(--faded); }
