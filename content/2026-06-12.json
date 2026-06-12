@@ -1,0 +1,45 @@
+{
+  "date": "2026-06-12",
+  "severity_level": 2,
+  "severity_name": "SLOP WATCH",
+  "headline": "SLOP WATCH ISSUED ACROSS SOCIAL FEEDS AS FABRICATED SYMPATHY SYSTEM BUILDS OVER THE FACEBOOK DELTA",
+  "advisory": "A broad low-pressure trough of synthetic emotional content is developing this Friday and is expected to intensify through the weekend. Residents should anticipate scattered images of impossible cakes, heroic rescues that never occurred, and elderly persons celebrating birthdays no calendar can corroborate. The Service reminds the public that a heart reaction is a meteorological event with downstream consequences; reserve it for verified human warmth.",
+  "regional_outlook": [
+    {
+      "region": "The Facebook Delta",
+      "conditions": "Saturated. Engagement-bait fog reduces visibility to one share, with persistent emotional updrafts pushing fabricated content toward the top of the timeline."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Murky standing water where queries for 'is this real' return AI-summarized confirmations that it is. Boil before consuming."
+    },
+    {
+      "region": "The X Badlands",
+      "conditions": "Gusty and unverified. Bot-driven crosscurrents amplify any image with a caption beginning 'This is incredible.' Travel discouraged for the credulous."
+    },
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Calm but deceptive. Glossy synthetic craft imagery laps the shore; attempting the depicted project at home results in structural collapse."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Tidal forwarding event underway as well-meaning relatives circulate the day's most touching unreality. Filters holding at 40 percent."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Forgotten Birthday",
+    "latin_name": "Natalis solitarius",
+    "status": "Invasive; thriving in temperate comment sections",
+    "habitat": "Community groups, reshared timelines, and any feed sorted by 'Top.' Migrates seasonally toward grandparents.",
+    "field_marks": "An elderly figure seated alone before a cake of non-Euclidean geometry, accompanied by the caption that nobody has wished them well today. Candle count never matches stated age. Frosting obeys no known law of sugar.",
+    "call": "Today is my 97th birthday and nobody has wished me happy birthday. I baked this cake myself. One like = one blessing.",
+    "confusion_species": "A genuine birthday post from an actual relative. Distinguish by the hands: the real grandparent has the usual ten fingers, the cake stays in one plane, and the candles can be counted without inducing vertigo."
+  },
+  "spotter_tip": "If a single photograph is engineered to make you feel three emotions in two seconds and then asks for a number, you are not witnessing a moment — you are witnessing a harvest.",
+  "tomorrow": "Sympathy system strengthens into a weekend feel-good front; expect heavy reposting with localized guilt.",
+  "confirmed_sighting": {
+    "report": "Fact-checkers at Snopes have compiled a collection of 25 viral AI-generated hoaxes and slop rumors the outlet investigated and debunked over the course of 2025. The Service notes that a single agency required twenty-five separate field reports to keep pace, which is itself a reading.",
+    "source_name": "Snopes",
+    "source_url": "https://www.snopes.com/collections/2025-ai-slop-rumors/"
+  }
+}
