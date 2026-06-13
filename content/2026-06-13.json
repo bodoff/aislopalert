@@ -1,0 +1,45 @@
+{
+  "date": "2026-06-13",
+  "severity_level": 4,
+  "severity_name": "SEVERE SLOP WARNING",
+  "headline": "SEVERE SLOP WARNING: SYNTHETIC TIDE CROSSES THE FIFTY-PERCENT HIGH-WATER MARK ACROSS THE OPEN INTERNET",
+  "advisory": "The Service has confirmed that synthetic content now occupies more than half of all measured internet volume, placing human-authored material below the historic waterline for the first time on record. Residents are advised that the shoreline has not moved — the water has simply risen to meet it. Cling to bylines, timestamps, and anything with a verifiable street address. This is the Service's first bulletin issued while technically a minority of the medium it is printed on.",
+  "regional_outlook": [
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Standing water on page one as freshly generated explainers pool faster than they can drain. Boil all 'top 10' results before consumption."
+    },
+    {
+      "region": "The X Badlands",
+      "conditions": "Dense fog of identical replies rolling in from coordinated low-pressure systems. Visibility into who is actually a person: under one meter."
+    },
+    {
+      "region": "The YouTube Shorts Gorge",
+      "conditions": "Flash floods of narrated science 'facts' delivered in a calm synthetic baritone. Educational signage in the region is no longer load-bearing."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Brackish conditions as personalized outreach mixes with the spawning newsletter run. Salinity high, sincerity low."
+    },
+    {
+      "region": "The Kindle Drifts",
+      "conditions": "Sediment of 200-page summaries-of-summaries accumulating on the seabed. Sandbars now visible at the $2.99 price point."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Phantom Constituent",
+    "latin_name": "Civis fabricatus",
+    "status": "Invasive; now flocking in industrial numbers",
+    "habitat": "Reply threads, public comment portals, and the bottom of any post with the word 'urgent' in it",
+    "field_marks": "Generic regional avatar, account created six weeks ago, and a strangely heartfelt opinion delivered in the exact cadence of nine hundred other strangely heartfelt opinions. Plumage suspiciously well-lit.",
+    "call": "As a longtime local resident and a concerned everyday citizen, I simply have to say what we are all already thinking.",
+    "confusion_species": "Easily mistaken for an actual neighbor. Tell them apart by asking a follow-up question — the genuine article will ramble, complain about parking, and go off-topic; the Phantom Constituent will repeat its opening sentence with the nouns swapped."
+  },
+  "spotter_tip": "When a hundred accounts agree word-for-word, you are not witnessing consensus — you are witnessing one source wearing a hundred coats. Count the coats, not the heads.",
+  "tomorrow": "Synthetic tide holding above the waterline; scattered authenticity possible near hand-edited footnotes by late afternoon.",
+  "confirmed_sighting": {
+    "report": "A new data analysis reports that more than half of all content on the internet is now AI-generated 'slop,' raising concerns about the dilution of human-made material online. The Service notes the figure with professional calm and a faint sense of personal involvement.",
+    "source_name": "Futurism",
+    "source_url": "https://futurism.com/artificial-intelligence/over-50-percent-internet-ai-slop"
+  }
+}
