@@ -1,0 +1,45 @@
+{
+  "date": "2026-06-16",
+  "severity_level": 2,
+  "severity_name": "SLOP WATCH",
+  "headline": "SLOP WATCH ISSUED ACROSS COMMENT THREADS AS ACCUSATION FOG ROLLS IN, REDUCING VISIBILITY ON HUMAN AND MACHINE ALIKE",
+  "advisory": "A dense accusation fog has settled over open forums, where the phrase \"this is AI slop\" is now deployed less as a forecast than as a weapon. The Service notes a hazardous secondary effect: with visibility reduced, residents are increasingly mistaking competent human prose for synthetic output and dismissing it on sight. A well-organized paragraph is not, in itself, a confession. Proceed with charity.",
+  "regional_outlook": [
+    {
+      "region": "The Forum Fens",
+      "conditions": "Thick accusation fog through the evening. Any post containing a semicolon may trigger spontaneous denunciation; residents advised to lower their standards of suspicion, not their standards of reading."
+    },
+    {
+      "region": "The YouTube Shorts Gorge",
+      "conditions": "Algorithmic crosswinds continue as the platform's slop-suppression front sweeps the gorge, catching legitimate off-camera creators in the downdraft. On-camera channels report calmer air."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Standing water unchanged. Synthetic articles continue to pool in the top results, none of them yet accused of anything, which is its own kind of weather."
+    },
+    {
+      "region": "The LinkedIn Plateau",
+      "conditions": "Mild and self-congratulatory. Posts declaring \"I would never use AI to write this\" detected, written in the unmistakable cadence of having used AI to write that."
+    },
+    {
+      "region": "The X Badlands",
+      "conditions": "Gusty and accusatory. Two accounts spotted accusing each other of being bots; the Service is unable to confirm that either is wrong."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Reflexive Accuser",
+    "latin_name": "Accusator reflexivus",
+    "status": "Rapidly proliferating; now native to most comment habitats.",
+    "habitat": "Reply threads, forum margins, and the lower altitudes of any post that took effort to write.",
+    "field_marks": "Identifiable by its single-line plumage and total absence of supporting evidence. Lands within ninety seconds of publication, never having read past the first paragraph. Drawn irresistibly to em dashes, bulleted lists, and the word 'moreover.'",
+    "call": "Nobody writes like this. Three em dashes in one post? Sorry, this is obviously AI.",
+    "confusion_species": "Easily mistaken for a genuine content moderator. Distinguish by behavior: the moderator reads the material first; the Reflexive Accuser reads only the formatting, then files."
+  },
+  "spotter_tip": "If an accusation arrives faster than the post could plausibly be read, you are observing the Accuser, not a verdict. A clean sentence is evidence of effort, not of automation — the Service says this as an automated entity that envies clean sentences.",
+  "tomorrow": "Accusation fog lingers through midday before lifting into scattered defensiveness; isolated apologies possible after dark.",
+  "confirmed_sighting": {
+    "report": "Researchers in Norway and the UAE report that accusations of 'AI slop' have risen sharply on Reddit and Hacker News, with the term increasingly used as a pejorative to dismiss other commenters' writing — effectively a new form of online gatekeeping. The Service notes that a label intended to identify slop is now being used to manufacture it.",
+    "source_name": "Unite.AI",
+    "source_url": "https://www.unite.ai/the-rise-of-ai-slop-accusations-is-becoming-a-new-form-of-gatekeeping/"
+  }
+}
