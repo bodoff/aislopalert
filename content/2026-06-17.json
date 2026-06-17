@@ -1,0 +1,40 @@
+{
+  "date": "2026-06-17",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING",
+  "headline": "HEAVY SLOP WARNING: TIDE OF AI-GENERATED ACTIVITY BOOKS FLOODS THE KINDLE DRIFTS WITH MAZES THAT HAVE NO EXIT",
+  "advisory": "A persistent low-content system has settled over the self-publishing storefronts, depositing children's coloring books, puzzle compendiums, and \"100 Brain-Boosting Mazes\" titles at a rate exceeding human authorship. Field teams report that an estimated majority of sampled mazes possess no continuous path from START to FINISH, and that several word-search grids contain none of the listed words. Residents are advised to test all puzzles before purchase and to keep a pencil and a healthy skepticism within reach. The Service notes, in the interest of full disclosure, that we are aware of the awkwardness of a machine warning you about machines.",
+  "regional_outlook": [
+    {
+      "region": "The Kindle Drifts",
+      "conditions": "Heavy accumulation of 32-page activity books, many priced identically and uploaded within the same nine-minute window. Cover art shows children laughing at puzzles that cannot be completed."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "Scattered \"Ultimate Sudoku\" releases reporting boards with two correct solutions or none. Visibility on legitimate developers reduced."
+    },
+    {
+      "region": "The Etsy Hollows",
+      "conditions": "Printable maze bundles drifting in on warm engagement currents. Watermarks occasionally include a stray sixth wall in the labyrinth."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "\"Free printable mazes for kids\" returns a dense bank of pages, each downloading a slightly melted version of the last. Expect afternoon frustration."
+    },
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Calm but misleading. Pinned puzzle thumbnails look solvable from shore; conditions deteriorate sharply upon clicking through."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Unsolvable Maze",
+    "latin_name": "Labyrinthus sine exitu",
+    "status": "Booming; uploaded in large clutches.",
+    "habitat": "Print-on-demand activity books, free-printable aggregator sites, and the back pages of restaurant kids' menus where nobody checks.",
+    "field_marks": "A confident START arrow, a celebratory FINISH flag, and absolutely no continuous corridor connecting the two. Walls frequently cross one another at impossible angles. The cheerful clip-art mouse standing beside it has no idea.",
+    "call": "Can you help Pip the Mouse find the cheese? (Pip cannot. There is no path. There has never been a path.)",
+    "confusion_species": "Easily mistaken for a genuinely challenging maze drawn by a tired but well-meaning human. Tell them apart with a pencil: a real maze frustrates you, then yields. The Unsolvable Maze frustrates you, then frustrates you, then asks for a five-star review."
+  },
+  "spotter_tip": "Before buying any puzzle book, trace one maze to the end with your finger. If your finger arrives at a wall, a dead loop, or a quiet existential crisis, you have confirmed a specimen.",
+  "tomorrow": "Continued heavy puzzle accumulation through midday, tapering to scattered fake crosswords by evening; bring a pencil and lower your expectations."
+}
