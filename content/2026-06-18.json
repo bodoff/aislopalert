@@ -1,0 +1,45 @@
+{
+  "date": "2026-06-18",
+  "severity_level": 2,
+  "severity_name": "SLOP WATCH",
+  "headline": "SLOP WATCH ISSUED ACROSS THE SPOTIFY LOWLANDS AS FABRICATED BANDS FLOOD STREAMING CHANNELS WITH MUSIC NO ONE PLAYED",
+  "advisory": "A diffuse system of fully synthetic musical acts has developed over the Spotify Lowlands and is expected to persist through the weekend. Residents are advised that several artists currently in heavy rotation possess no members, no instruments, and no verifiable past. The Service notes that liking a song that does not exist is not, by itself, hazardous — but residents are encouraged to verify whether their new favorite band has ever stood in a single room together.",
+  "regional_outlook": [
+    {
+      "region": "The Spotify Lowlands",
+      "conditions": "Saturated. A thick band of royalty-optimized ambient loops has settled over every 'focus' and 'chill' playlist, with phantom artists releasing forty-minute albums hourly. Visibility into who actually made the music is near zero."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "Scattered clone-app activity continues, with near-identical 'AI Music Maker' utilities precipitating in clusters of nine. Expect duplicate icons and suspiciously uniform five-star reviews drifting in after dark."
+    },
+    {
+      "region": "The Etsy Hollows",
+      "conditions": "Light listing-debris with patches of 'handmade' artwork that arrived fully formed at 3 a.m. Conditions clearing slightly as buyers request photos of an actual workshop."
+    },
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Persistent shimmer of recipe boards and craft tutorials that cannot be physically completed. Residents wading in are advised not to attempt the eleven-ingredient cake."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Standing water of 'best of' roundups for products that were generated before they were manufactured. Currents pushing genuine reviews steadily downstream."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Ghost Band",
+    "latin_name": "Grex phantasma streamabilis",
+    "status": "Charting; abundant and increasing.",
+    "habitat": "Algorithmic playlists, mood-based stations, and the lower verges of the streaming charts where vigilance is thinnest.",
+    "field_marks": "A complete discography with no live dates, a band photo in which every member shares the same flawless jawline and one extra finger, and a biography rich in adjectives and devoid of facts. Releases arrive on an inhuman schedule.",
+    "call": "We're an independent collective who met at a small festival you've never heard of, and our sound has been described as 'cinematic warmth' by sources we will not be naming.",
+    "confusion_species": "Easily mistaken for a genuine small independent act, which it is engineered to resemble. Distinguish by attempting to buy a concert ticket: the real band is exhausted and underpaid and playing a venue with a sticky floor on Thursday; the Ghost Band has never needed sleep, a venue, or a Thursday."
+  },
+  "spotter_tip": "If a brand-new artist has released six full albums this month and the bio uses the phrase 'sonic journey,' check the band photo for hands. Slop loves a chorus but struggles with knuckles.",
+  "tomorrow": "Synthetic playlists hold overnight; a weak front of human buskers moves in by afternoon, offering brief, off-key relief.",
+  "confirmed_sighting": {
+    "report": "The Service confirms that the term under observation has been formally recognized: in December 2025, dictionaries including Merriam-Webster and the Macquarie Dictionary, along with the American Dialect Society, named 'slop' their Word of the Year, citing the proliferation of low-quality AI content and AI-fabricated fake-crisis scams across platforms.",
+    "source_name": "Digital Watch Observatory",
+    "source_url": "https://dig.watch/updates/ai-slop-content-social-media"
+  }
+}
