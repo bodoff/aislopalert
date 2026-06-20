@@ -1,0 +1,45 @@
+{
+  "date": "2026-06-20",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING",
+  "headline": "HEAVY SLOP WARNING: SYNTHETIC MANUSCRIPT SURGE OVERTOPS PREPRINT SERVERS AS PEER REVIEWERS WADE THROUGH PAPERS THAT STUDY NOTHING",
+  "advisory": "A fast-developing front of machine-generated scholarship is moving across the Citation Marshes and submission portals nationwide. Reviewers are advised that abstracts may appear authoritative, well-formatted, and entirely vacant, with methodology sections describing experiments that were never run. The Service reminds editorial boards that a confident tone is not, and has never been, a control group.",
+  "regional_outlook": [
+    {
+      "region": "The Citation Marshes",
+      "conditions": "Standing water of fabricated references up to the ankles, with footnotes pointing to papers, journals, and authors that do not exist. Expect murky visibility through Sunday."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Query for any technical term now returns three synthetic survey articles before a single human result. Drainage remains poor."
+    },
+    {
+      "region": "The LinkedIn Plateau",
+      "conditions": "Scattered announcements of 'groundbreaking research' detected, none of which can be located. Thought-leadership ridge holding steady."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Predatory-journal solicitation fog rolling in, addressing recipients as 'esteemed colleague Dr. [FIRST NAME].' Tides high."
+    },
+    {
+      "region": "The YouTube Shorts Gorge",
+      "conditions": "Runoff of sixty-second explainers summarizing the nonexistent papers above. Audience retention paradoxically strong."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Hallucinated Citation",
+    "latin_name": "Bibliographia spectralis",
+    "status": "Invasive; spreading rapidly through bibliographies and reference lists.",
+    "habitat": "The back matter of otherwise plausible-looking manuscripts, term papers, and legal briefs.",
+    "field_marks": "Impeccable formatting — volume number, page range, DOI — leading to absolutely nothing. The journal name often sounds correct but is one word off, like a town that exists only on a map nobody printed.",
+    "call": "As demonstrated by Vollheimer et al. (2021), the effect is well established in the literature.",
+    "confusion_species": "Easily mistaken for a legitimate reference. To distinguish: attempt to retrieve the source. The genuine article will load; the spectral specimen will dissolve on contact with a search bar."
+  },
+  "spotter_tip": "When a paper cites a finding that sounds too tidy, click the reference. Slop tends to evaporate the moment you ask it where it lives.",
+  "tomorrow": "Submission portals remain saturated; intermittent reviewer despair clearing by late afternoon.",
+  "confirmed_sighting": {
+    "report": "Preprint servers and academic conference organizers are reportedly scrambling to filter a surge of AI-generated submissions, described as an emerging crisis for scientific publishing and computer science research. The Service notes that the slop is, at last, attempting peer review of itself.",
+    "source_name": "Nature",
+    "source_url": "https://www.nature.com/articles/d41586-025-03967-9"
+  }
+}
