@@ -1,0 +1,40 @@
+{
+  "date": "2026-06-21",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING",
+  "headline": "HEAVY SLOP WARNING: SYNTHETIC TRAVEL-GUIDE SURGE PEAKS ON THE SOLSTICE AS SUMMER ITINERARIES DIRECT TRAVELERS TO ATTRACTIONS THAT DO NOT EXIST",
+  "advisory": "The National Slop Service has issued a Heavy Slop Warning for the summer travel corridor, effective the longest day of the year through the duration of vacation season. A dense band of machine-generated destination guides is overtopping search results, recommending charming cafés at empty intersections, scenic viewpoints accessible only by walking into a lake, and museums that closed in 1998. Residents planning weekend excursions should treat all itineraries as unconfirmed until verified against a source that has, at minimum, physically eaten the breadsticks. The Service notes that we, too, generate text, and we accept the irony without further comment.",
+  "regional_outlook": [
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Saturated. The top eight results for 'best hidden gems near me' now describe the same fictional alleyway in eleven different cities. Verified human listings remain submerged below the fold."
+    },
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Heavy drift of aspirational itinerary boards depicting pastel villages that resolve, on inspection, to no known coordinates. Pinning advised against; the cobblestones are render artifacts."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Incoming tide of 'Your Personalized Summer Escape' newsletters, each booking flights to airports that were never built. Estuary running brackish with affiliate links."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "A pop-up squall of trip-planner apps generating five-day Tuscany schedules in under a second, all routing dinner through the same hallucinated trattoria. Star ratings inflated by synthetic gusts."
+    },
+    {
+      "region": "The YouTube Shorts Gorge",
+      "conditions": "Persistent fog of '10 SECRET BEACHES TOURISTS DON'T KNOW' clips narrated over stock drone footage of a beach that is, in fact, four different beaches. Visibility low; sunsets composited."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Phantom Bistro",
+    "latin_name": "Caupona spectralis",
+    "status": "Abundant and proliferating; peaks during peak booking season",
+    "habitat": "Search snippets, travel listicles, and 'where the locals eat' roundups",
+    "field_marks": "Glowing four-and-a-half-star rating with zero photographs; an address that maps to a tire shop, a roundabout, or open water; opening hours listed as 'Mon–Sun, 11:00–23:00' with no exceptions ever, anywhere; a menu of 'rustic seasonal small plates' that names no actual dishes.",
+    "call": "Tucked away on a quiet cobblestone lane, this hidden gem offers an unforgettable fusion of authentic local flavors that will delight every palate — be sure to try their signature dish!",
+    "confusion_species": "Easily mistaken for a genuine beloved restaurant that has quietly closed. Tell them apart by the reviews: a real shuttered bistro leaves grieving regulars in the comments; the Phantom Bistro leaves only five identical paragraphs praising 'the ambiance' in flawless, weatherless prose."
+  },
+  "spotter_tip": "Before driving anywhere, call the restaurant. If the phone number connects to a fax machine, a fish market, or the soft hum of a server farm, you have located a Phantom Bistro and should pack a sandwich.",
+  "tomorrow": "Synthetic itinerary surge continues; expect scattered fictional landmarks with a chance of a real one if you ask a neighbor instead."
+}
