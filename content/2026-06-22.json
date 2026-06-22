@@ -1,0 +1,45 @@
+{
+  "date": "2026-06-22",
+  "severity_level": 2,
+  "severity_name": "SLOP WATCH",
+  "headline": "SLOP WATCH ISSUED OVER THE LINKEDIN PLATEAU AS MONDAY MOTIVATION FRONT BUILDS, SEEDING FEEDS WITH TRIUMPHS THAT NEVER HAPPENED",
+  "advisory": "A slow-moving inspiration system has developed over the LinkedIn Plateau and is expected to intensify through the start of the work week. Residents are advised that the resulting precipitation — narrow columns of single-sentence wisdom, each followed by a load-bearing white space — does not require a response, despite its formatting. The Service reminds the public that no actual janitor, barista, or seven-year-old delivered a quarterly strategy lesson over the weekend.",
+  "regional_outlook": [
+    {
+      "region": "The LinkedIn Plateau",
+      "conditions": "Heavy broetry accumulation expected by 9 a.m. local time, with isolated columns of humblebrag reaching the upper feed. Visibility reduced to one sentence per line."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "A warm front of 'Quick question — circling back' newsletters pushes inland. Unsubscribe links remain hard to locate near the surface."
+    },
+    {
+      "region": "The X Badlands",
+      "conditions": "Gusty reply-guy activity continues, with synthetic threads forming behind every milestone announcement. Engagement bait drifting south by afternoon."
+    },
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Calm but cluttered, with a steady haze of AI-generated 'productivity aesthetic' desks no human has ever worked at."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "Scattered five-star reviews of identical journaling apps, all written in the same suspiciously grateful voice. Brief clearing unlikely."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Bootstrap Saga",
+    "latin_name": "Fabula cothurni ascendens",
+    "status": "Abundant; peaks sharply each Monday and recedes only slightly by Friday.",
+    "habitat": "Open updraft of the LinkedIn Plateau; occasionally drifts into the Inbox Estuary attached to a sponsored newsletter.",
+    "field_marks": "Opens with a rejection count ('I was turned down 47 times'). Mid-body features an unnamed stranger dispensing business wisdom. Closes with a one-word line, a question, and three hashtags. Paragraphs are exactly one sentence and surrounded by reverent white space.",
+    "call": "A stranger paid for my coffee this morning. What he whispered about Q3 alignment changed everything. Agree?",
+    "confusion_species": "Easily mistaken for a genuine career reflection from a real professional. Distinguishing feature: a real story names a real diner and gets a detail wrong; the Bootstrap Saga names no one, recalls everything perfectly, and ends by asking you to repost."
+  },
+  "spotter_tip": "If a heartwarming anecdote resolves cleanly into a business lesson within four sentences, you are not reading a memory — you are reading a template. Genuine wisdom rarely arrives pre-formatted for maximum reach.",
+  "tomorrow": "Tuesday: motivation system weakens to a 'just checking in' drizzle, with patchy synthetic gratitude lingering through midweek.",
+  "confirmed_sighting": {
+    "report": "An industry report finds that AI-generated slop flooded social media throughout 2025, and that the resulting public backlash is now pushing platforms toward policy reforms heading into 2026. The Service notes, without commentary, that the cleanup crews are finally being dispatched.",
+    "source_name": "WebProNews",
+    "source_url": "https://www.webpronews.com/ai-slop-floods-social-media-in-2025-backlash-spurs-2026-reforms/"
+  }
+}
