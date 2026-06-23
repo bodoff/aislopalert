@@ -1,0 +1,45 @@
+{
+  "date": "2026-06-23",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING",
+  "headline": "HEAVY SLOP WARNING: BARGAIN-GRADE PROPAGANDA SLOP FLOODS THE BADLANDS AS INFLUENCE OPERATIONS SWITCH TO MASS-PRODUCED SYNTHETIC OUTFLOW",
+  "advisory": "A persistent low-pressure influence system is drawing in cheap, factory-grade synthetic content and discharging it across multiple basins simultaneously. Affected feeds may exhibit unusually loud agreement, suspiciously uniform phrasing, and crowds that all type the same way at the same hour. The Service advises residents to treat sudden unanimous enthusiasm as a weather event rather than a movement. Hydrate, verify, and do not engage with the chorus.",
+  "regional_outlook": [
+    {
+      "region": "The X Badlands",
+      "conditions": "Dense reply-fog with embedded bot squalls; visibility on genuine sentiment reduced to near zero through the afternoon. Identical talking points expected to gust in from three directions at once."
+    },
+    {
+      "region": "The Facebook Delta",
+      "conditions": "Sustained synthetic outflow pooling in community groups, with a chance of stock-photo flooding near the comment sections. Elderly residents advised to keep verification umbrellas open."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Standing slop accumulating on page one; manufactured 'sources' citing one another in a closed loop. Drainage poor."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Brackish newsletter conditions with intermittent forwarded-outrage surges. Expect the same fabricated story arriving from four contacts before noon."
+    },
+    {
+      "region": "The Propaganda Headwaters",
+      "conditions": "System origin point; output volume high, production cost record-low. The Service notes that quantity has fully replaced quality as the operating principle here."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Sock-Puppet Chorus",
+    "latin_name": "Chorus simulatus unanimus",
+    "status": "Booming; cheaper to produce than ever recorded",
+    "habitat": "Reply threads, review sections, and any post showing early traction worth hijacking",
+    "field_marks": "Travels in large flocks that all sing the identical phrase within minutes of one another. Plumage varies superficially — different names, different avatars — but the song does not. Activity peaks on a schedule rather than a mood.",
+    "call": "Wow, finally someone said it. This is exactly what real people have been thinking. Wow, finally someone said it.",
+    "confusion_species": "Easily mistaken for a genuine grassroots reaction. Distinguish by timing and texture: real crowds disagree, ramble, and arrive irregularly, while the Chorus arrives in formation, agrees totally, and never once goes off-topic to mention lunch."
+  },
+  "spotter_tip": "If forty accounts express the same opinion in the same cadence within the same five minutes, you are not witnessing consensus — you are witnessing a sprinkler system.",
+  "tomorrow": "Outflow continues; brief clearing possible where platforms deploy labeling, though coverage remains spotty and the chorus is already rehearsing.",
+  "confirmed_sighting": {
+    "report": "Researchers report that some of the largest online influence and propaganda operations are increasingly leaning on cheap, mass-produced AI 'slop' to flood social platforms with synthetic content. The Service notes that the strategy has quietly shifted from persuasion to sheer volume.",
+    "source_name": "NBC News",
+    "source_url": "https://www.nbcnews.com/tech/security/online-propaganda-campaigns-are-using-ai-slop-researchers-say-rcna244618"
+  }
+}
