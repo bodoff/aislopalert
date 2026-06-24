@@ -1,0 +1,45 @@
+{
+  "date": "2026-06-24",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING",
+  "headline": "HEAVY SLOP WARNING: WORKSLOP SURGE INUNDATES THE INBOX ESTUARY AS POLISHED REPORTS ARRIVE CONTAINING NO DISCERNIBLE WORK",
+  "advisory": "A dense system of AI-generated office documents — internally designated 'workslop' — has moved into corporate channels and shows no sign of dispersing. Affected memos present full formatting, confident headings, and an executive summary while conveying no information whatsoever. Recipients are advised that a document can be both four pages long and entirely empty, and that this is not a contradiction the Service is equipped to resolve.",
+  "regional_outlook": [
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Saturated. Status updates arriving at high tide, each one summarizing the previous status update. Visibility into actual progress reduced to near zero."
+    },
+    {
+      "region": "The LinkedIn Plateau",
+      "conditions": "Thickening haze of '5 takeaways from a meeting that did not occur.' Engagement currents strong; substance currents absent."
+    },
+    {
+      "region": "The Slack Sound",
+      "conditions": "Choppy. AI-assistant thread summaries piling up faster than the threads they summarize, producing a recursive backwash that may persist into the afternoon standup."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Murky throughout, as 'how to write a quarterly report' queries return reports that have already been written by the same tool."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "A line of productivity apps moving through, each promising to generate the documents that the next app promises to summarize."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Workslop Memorandum",
+    "latin_name": "Relatio inanis officiosa",
+    "status": "Booming; thriving in any organization that measures output by volume.",
+    "habitat": "Shared drives, end-of-week digests, and the third bullet of any all-hands agenda. Roosts near deadlines.",
+    "field_marks": "Immaculate formatting and an authoritative tone wrapped around a hollow core. Reliably uses 'leverage,' 'align,' and 'circle back,' yet names no decision, owns no task, and reaches no conclusion. Reading time exceeds information content by a wide margin.",
+    "call": "Per my last message, I wanted to circle back and align on next steps to ensure we leverage our learnings going forward.",
+    "confusion_species": "Easily mistaken for a genuine progress report. Distinguish by asking one specific follow-up question: a real report answers it, while the Workslop Memorandum generates a second Workslop Memorandum."
+  },
+  "spotter_tip": "If a document took you longer to read than it could possibly have taken to write, you are likely standing in workslop. Ask the sender what one thing changed because of it — a long silence is a positive identification.",
+  "tomorrow": "Workslop persisting through Thursday, with scattered 'just following up' showers and a chance of a calendar invite to discuss the report about the report.",
+  "confirmed_sighting": {
+    "report": "Tech Times reports that 2025's content boom elevated 'slop' to Merriam-Webster's Word of the Year, with the term now spanning off-kilter ad images, AI-written books, fake-but-realistic news, and 'workslop' — the polished-looking workplace reports that say nothing.",
+    "source_name": "Tech Times",
+    "source_url": "https://www.techtimes.com/articles/313464/20251224/ai-slop-explained-how-2025s-content-boom-led-new-cultural-term.htm"
+  }
+}
