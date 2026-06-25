@@ -1,0 +1,40 @@
+{
+  "date": "2026-06-25",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING",
+  "headline": "HEAVY SLOP WARNING: SYNTHETIC RECIPE FRONT INUNDATES THE SEARCH RESULTS BASIN AS DINNER INSTRUCTIONS CALL FOR INGREDIENTS THAT CANNOT BE COOKED",
+  "advisory": "A dense, slow-moving system of AI-generated recipe content has settled over the Search Results Basin and is producing heavy procedural fog. Residents searching for a simple weeknight meal are being routed through 1,400 words of fabricated childhood memory before reaching a method that instructs them to 'fold the dry ingredients into the preheated oven.' The National Slop Service advises keeping a human cookbook within arm's reach and treating any recipe that yields '6 to 14 servings' as a hazard.",
+  "regional_outlook": [
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Saturated. Recipe slop pooling three pages deep, with prep-time readings that bear no relation to the actual method below them. Visibility through the nostalgia preamble near zero."
+    },
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Photogenic but treacherous. Glistening dishes pinned thousands of times link to instructions that produce nothing resembling the photo. Saffron specified; saffron never mentioned again."
+    },
+    {
+      "region": "The YouTube Shorts Gorge",
+      "conditions": "Rapid synthetic cooking demos cascading through at high speed. Hands stir pots that change contents between cuts. A faint odor of sizzling stock footage."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Residual workslop drizzle tapering off. Newsletters titled '5 Easy Summer Dinners' arriving with all five dinners requiring a deglaze step and no liquid."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "Calm with scattered 'AI Meal Planner' deposits. Several apps confidently recommending 30-minute meals that take three hours and one improbable appliance."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Impossible Casserole",
+    "latin_name": "Cibus incoquibilis",
+    "status": "Abundant and spreading; peaks at the 5 PM hunger hour.",
+    "habitat": "High-traffic recipe domains, screenshot carousels, and any feed where the words 'cozy' and 'crave-worthy' appear within the first sentence.",
+    "field_marks": "A 900-word personal essay about a grandmother's farmhouse, followed by a method that omits an entire ingredient and instructs the reader to bake an unassembled dish. Oven preheated to a temperature never used. Garnish step appears before the cooking step.",
+    "call": "Simply combine the remaining ingredients (not listed) and let your kitchen fill with the aroma of summer — bake until golden, about 25 to 90 minutes.",
+    "confusion_species": "Easily mistaken for a genuine food blog written by an actual home cook. Tell them apart by the seams: a real recipe knows how many people it feeds and never asks you to 'fold in' a liquid. If the backstory mentions a lake house but the photo is plainly studio-lit, you are looking at the Impossible Casserole."
+  },
+  "spotter_tip": "Skip the life story and scroll straight to the ingredient list, then to the method, and check that every ingredient appears in both. Any ingredient that exists only in the list — or only in the steps — is a slop tell. A recipe that never says how long to actually cook the thing was never cooked by anyone.",
+  "tomorrow": "Recipe fog lingering into Friday morning before a warm front of AI-generated wine-pairing advice moves in, suggesting a 'crisp red.'"
+}
