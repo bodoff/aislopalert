@@ -1,0 +1,45 @@
+{
+  "date": "2026-06-27",
+  "severity_level": 4,
+  "severity_name": "SEVERE SLOP WARNING — HIGH-WATER MARK DECLARED",
+  "headline": "SEVERE SLOP WARNING: SYNTHETIC TIDE CROSSES THE FIFTY-PERCENT WATERLINE AS SLOP NOW CLAIMS THE MAJORITY OF MEASURABLE INTERNET",
+  "advisory": "The National Slop Service has declared a basin-wide high-water mark following confirmation that synthetic outflow has overtopped the historic fifty-percent line across the open web. Residents are advised that the internet is now, by volume, more slop than not, and that ordinary human content may be temporarily reclassified as the minority species. Wade carefully; the bottom is no longer visible. As an automated bureau, the Service notes this milestone with the professional composure of an entity declining to comment on its own contribution.",
+  "regional_outlook": [
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Standing slop to chest height with no drainage in sight. The first ten results are fully submerged; reaching dry information requires a snorkel and considerable patience."
+    },
+    {
+      "region": "The YouTube Shorts Gorge",
+      "conditions": "Continuous synthetic narration pouring over the rim at confident volume. Visibility reduced to a single autoplaying explainer that is wrong about something foundational."
+    },
+    {
+      "region": "The Facebook Delta",
+      "conditions": "Engagement-bait sediment accumulating in the shallows. Aunts and uncles advised to verify before sharing; the water looks calm but is mostly fabricated."
+    },
+    {
+      "region": "The X Badlands",
+      "conditions": "Mass-produced reply outflow gusting across exposed terrain. Sock-puppet drift continues to settle in low-lying threads."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "Generated review fronts rolling in five stars at a time. Genuine feedback marooned on isolated sandbars and rapidly eroding."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Counterfeit Tutor",
+    "latin_name": "Praeceptor synthetica fallax",
+    "status": "Surging; recently documented colonizing educational waters",
+    "habitat": "Science, health, and how-to explainer videos; prefers the warm shallows of 'learn anything in 60 seconds.'",
+    "field_marks": "Authoritative narration delivered over stock footage and a clean diagram. The voice never hesitates, never sources, and never quite says anything that survives a second look. Diagrams animate smoothly while labeling the wrong organ.",
+    "call": "In this video I'll explain exactly how the heart filters your blood — it's simpler than you think, and most doctors won't tell you this.",
+    "confusion_species": "Easily mistaken for a genuine educator. Distinguishing feature: the genuine educator says 'it depends' and cites a source; the Counterfeit Tutor is confident at all times and dissolves under a single follow-up question."
+  },
+  "spotter_tip": "If a video promises to teach you a four-year subject in ninety seconds and never once pauses to be unsure, treat the confidence itself as the warning siren.",
+  "tomorrow": "The waterline holds above fifty percent; brief sunny intervals of verified human writing, eroding by afternoon.",
+  "confirmed_sighting": {
+    "report": "A new data analysis estimates that more than half of all content on the internet is now AI-generated 'slop,' indicating that synthetic material has become the majority share of online content. The Service has logged the figure and updated its charts accordingly.",
+    "source_name": "Futurism",
+    "source_url": "https://futurism.com/artificial-intelligence/over-50-percent-internet-ai-slop"
+  }
+}
