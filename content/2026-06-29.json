@@ -1,0 +1,45 @@
+{
+  "date": "2026-06-29",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING",
+  "headline": "HEAVY SLOP WARNING: FAUX-SURVEILLANCE FRONT SETTLES OVER SHORT-VIDEO CHANNELS AS COUNTERFEIT SECURITY FOOTAGE BREEDS A WHOLE NEW WEATHER SYSTEM",
+  "advisory": "A persistent low-resolution front of synthetic 'security camera' clips has stalled across the short-video corridor and is not expected to clear. Conditions favor timestamped footage of events that never occurred, complete with convincing grain, fictional date stamps, and animals performing on trampolines in defiance of known physics. Residents are advised that the absence of a watermark is not evidence of a real camera, and that no, the deer did not do that. The Service notes, in the interest of disclosure, that it too is a machine, and is monitoring the situation with appropriate professional unease.",
+  "regional_outlook": [
+    {
+      "region": "The YouTube Shorts Gorge",
+      "conditions": "Dense fog of nine-second clips with a 70% chance of a fake doorbell-cam reveal. Loop currents strong; viewers report being unable to leave."
+    },
+    {
+      "region": "The TikTok Tideflats",
+      "conditions": "Heavy absurdist precipitation, mainly trampoline-animal squalls. Surveillance-aesthetic mist reducing visibility into what is real."
+    },
+    {
+      "region": "The X Badlands",
+      "conditions": "Scattered 'leaked footage' debris circulating without provenance. Account-blue-check glare making source identification difficult through midafternoon."
+    },
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Warm, still waters of impossible interior renders. Occasional staircase that leads nowhere washing ashore."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "A new ridge of near-identical 'AI camera enhancer' utilities building offshore. Five-star reviews of suspiciously uniform temperature."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Phantom Security Feed",
+    "latin_name": "Vigilantia simulata nocturna",
+    "status": "Proliferating; recently reclassified from Curiosity to Persistent Bloom.",
+    "habitat": "Short-video corridors after dark, where it favors front porches, parking garages, and any setting that benefits from grayscale and a blinking timestamp.",
+    "field_marks": "Distinctive faux-CCTV grain, a date stamp in the corner that never quite matches the season, and a single impossible event staged dead-center for the lens. Edges of figures shimmer when frozen; shadows decline to agree on a light source.",
+    "call": "CAUGHT ON CAMERA at 3:47 AM — wait for it… you won't believe what happens next",
+    "confusion_species": "Easily mistaken for genuine doorbell footage of raccoons. Telltale difference: real raccoons obey gravity, exit frame, and do not stop to face the camera with apparent narrative intent."
+  },
+  "spotter_tip": "Pause on the timestamp. A real clock advances second by second; a synthetic one tends to jump, freeze, or quietly invent a thirteenth hour while everyone watches the trampoline.",
+  "tomorrow": "Faux-surveillance front lingers overnight; expect dawn outbreaks of 'enhanced' footage and one clip everyone swears was filmed near their house.",
+  "confirmed_sighting": {
+    "report": "A MIT Technology Review feature observes that the surge of AI-generated short clips on TikTok and Instagram — including a viral 'fake surveillance' aesthetic and absurdist trampoline-animal riffs — may be coalescing into an emerging genre of online pop culture rather than mere internet rot. The Service files this under 'weather becoming climate.'",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/2025/12/23/1130396/how-i-learned-to-stop-worrying-and-love-ai-slop/"
+  }
+}
