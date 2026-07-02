@@ -1,0 +1,40 @@
+{
+  "date": "2026-07-02",
+  "severity_level": 2,
+  "severity_name": "SLOP WATCH — HOLIDAY TRAVEL ADVISORY",
+  "headline": "SLOP WATCH ISSUED ALONG THE WANDERLUST REACHES AS SYNTHETIC TRAVEL-GUIDE FRONT SENDS HOLIDAY MOTORISTS TOWARD LANDMARKS THAT WERE NEVER BUILT",
+  "advisory": "A slow-moving system of machine-generated travel content is developing across search and social channels ahead of the long weekend, producing itineraries of impressive confidence and negligible accuracy. Residents are advised that the charming clifftop cafe with panoramic sunset views may be a parking structure, an empty lot, or nothing at all. The Service recommends confirming a destination exists before merging onto the highway toward it. Pack a paper map; it will not hallucinate a waterfall.",
+  "regional_outlook": [
+    {
+      "region": "The Wanderlust Reaches",
+      "conditions": "Dense synthetic-itinerary fog through the afternoon, reducing wayfinding visibility to zero. Expect recommendations for a 'hidden local gem' that four thousand other guides have independently invented in the same tone."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Top ten '48 Hours In' articles pooling in low-lying results, each one describing the identical fictional rooftop bar. Standing pools of the phrase 'nestled in the heart of' expected to persist into the weekend."
+    },
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Impossible turquoise coastlines washing ashore in high volume, most rendered from stitched-together locations on separate continents. Attempts to visit the pinned viewpoint will strand travelers at a fence."
+    },
+    {
+      "region": "The YouTube Shorts Gorge",
+      "conditions": "Rapid updrafts of narrated 'Top 5 Underrated Towns' clips, populated by AI voiceover and stock footage of somewhere else. Brief clearing near dawn before the algorithm reloads."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Scattered 'Your Personalized Summer Getaway' newsletters accumulating overnight, each recommending a hotel that closed in 2019 or possibly never opened."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Ghost Itinerary",
+    "latin_name": "Iter fictum peregrinatoris",
+    "status": "Seasonal; blooms aggressively at every holiday weekend and school break.",
+    "habitat": "Travel blogs, aggregated 'best of' listicles, and cheerful downloadable PDF guides sold for $4.99.",
+    "field_marks": "Suspiciously round travel times, a restaurant with no address and no phone number, and at least one attraction described as 'a must-see local secret' that no local has heard of. Frequently pairs a real city with an entirely invented neighborhood.",
+    "call": "Start your morning at the beloved family-run bakery on the picturesque cobblestone square — trust me, the locals don't want you to know about this one!",
+    "confusion_species": "Easily mistaken for a genuine travel guide written by a person who went there. Distinguishing feature: the real guide will mention the parking was terrible and it rained; the Ghost Itinerary reports flawless golden-hour weather at every stop and never once needs a restroom."
+  },
+  "spotter_tip": "Before driving anywhere a guide describes as 'tucked away,' search the exact business name in maps. If the only evidence it exists is the article recommending it, you have identified a Ghost Itinerary — and possibly a very confused cornfield.",
+  "tomorrow": "Watch conditions persist as pre-holiday synthetic content peaks; scattered fireworks-recipe slop developing overnight along the Facebook Delta."
+}
