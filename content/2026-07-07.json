@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-07",
+  "severity_level": 2,
+  "severity_name": "SLOP WATCH — HISTORICAL RECORD ADVISORY",
+  "headline": "SLOP WATCH ISSUED ACROSS THE SEARCH RESULTS BASIN AS FABRICATED-HERITAGE FRONT PRODUCES 'RARE HISTORICAL PHOTOS' OF EVENTS THAT LEFT NO NEGATIVE",
+  "advisory": "A slow-moving system of synthetic nostalgia has settled over image-heavy channels, generating sepia-toned 'archival' photographs of moments that were never photographed and, in several cases, never occurred. Residents are advised that a caption reading 'colorized, 1911' is not a chain of custody. The Service reminds the public that genuine antique photographs contain fewer than the customary number of fingers only by accident, not by manufacture. Zoom before you share.",
+  "regional_outlook": [
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Heavy fabricated-heritage accumulation, with 'unearthed' portraits drifting to the top of image results. Reverse-image visibility near zero."
+    },
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Warm and saturated, with dense boards of 'vintage everyday life' that never existed pooling in the low-lying feeds. Repinning expected to intensify overnight."
+    },
+    {
+      "region": "The Kindle Drifts",
+      "conditions": "Scattered volumes of instant 'illustrated local history' washing ashore, each priced to move and sourced to nothing."
+    },
+    {
+      "region": "The X Badlands",
+      "conditions": "Gusty confidence with a 100% chance of 'they don't teach you this in school' captions. Corrections, if any, arrive after the wind has died."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Newsletter runoff carrying 'lost photos of your hometown' subject lines. Open rates elevated; verification rates flat."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Fabricated Heirloom",
+    "latin_name": "Photographia antiqua ficta",
+    "status": "Common and spreading; nocturnal in the algorithm, diurnal in the group chat.",
+    "habitat": "History-nostalgia pages, 'the way things used to be' feeds, and any comment section that has recently used the word 'simpler.'",
+    "field_marks": "Uniform sepia wash, impossibly crisp faces, hardware and clothing from three separate decades, and background signage that reads as fluent gibberish. Often captioned with a suspiciously precise year and a suspiciously round emotion.",
+    "call": "Rare colorized photo, 1908 — they don't want you to see how life really was. Share before it's taken down.",
+    "confusion_species": "Genuinely digitized archival photographs, which carry a collecting institution, a catalog number, and a boring provenance. If the only citation is a heart emoji, it is not from the archive."
+  },
+  "spotter_tip": "Count the buttons, then count the fingers, then look for a shadow that agrees with the sun. Real history is badly lit; slop is lit like a perfume ad.",
+  "tomorrow": "Fabricated-heritage front weakens over the Basin, but a synthetic-recipe cell is developing over the Pinterest Shallows — expect casseroles that cannot physically set.",
+  "confirmed_sighting": {
+    "report": "A peer-reviewed study cataloging AI-generated 'slop' among online biomedical science education videos found the low-quality synthetic material widespread enough to pose real hazards to both learners and instructors relying on it. The Service notes that a confident narrator is not a citation.",
+    "source_name": "PMC / National Library of Medicine",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12634010/"
+  }
+}
