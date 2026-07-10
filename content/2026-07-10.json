@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-10",
+  "severity_level": 2,
+  "severity_name": "SLOP WATCH — AUDIENCE FATIGUE ADVISORY",
+  "headline": "SLOP WATCH ISSUED AS ENGAGEMENT PRESSURE PLATEAUS AND A THICK BANK OF SYNTHETIC CONTENT SETTLES OVER A VISIBLY TIRED VIEWING PUBLIC",
+  "advisory": "Conditions have stabilized at nuisance levels, but stabilization is not the same as improvement. Field instruments confirm that while slop volume remains historically high, resident interest is measurably cooling — producing a stagnant, low-pressure haze rather than the acute surges of recent weeks. The Service advises that a plateau is still a place where you can get stranded. Residents may resume scrolling with caution.",
+  "regional_outlook": [
+    {
+      "region": "The LinkedIn Plateau",
+      "conditions": "Aptly named and thoroughly saturated. Motivational vapor hangs unmoved above the ridge as the same three insights recirculate under new headshots; visibility poor, sincerity unverifiable."
+    },
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Warm and shimmering with impossible crafts. Expect widespread images of projects that cannot be built by hands that do not exist."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "A slow tidal accumulation of auto-generated newsletters nobody subscribed to. Waters brackish; unsubscribe links partially functional."
+    },
+    {
+      "region": "The Kindle Drifts",
+      "conditions": "Fine sediment of ninety-nine-cent volumes continues to settle. Titles indistinguishable at a distance; contents indistinguishable up close."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Persistent low fog of near-answers. The correct information is present but buried beneath eleven paragraphs of throat-clearing before the recipe."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Impossible Craft",
+    "latin_name": "Ars manualis irrealizabilis",
+    "status": "Abundant; thriving on hope and glue guns.",
+    "habitat": "The Pinterest Shallows and adjacent craft-tutorial wetlands, favoring pins captioned 'You won't BELIEVE what she made with a mason jar.'",
+    "field_marks": "Preternaturally symmetrical results, materials that shift shape between photographs, and a finished product possessing more fingers than the hands assembling it. Casts no shadow it hasn't invented.",
+    "call": "Only 5 easy steps! Step 6 is not shown because it does not physically exist.",
+    "confusion_species": "Genuine amateur crafting, which is charming precisely because it looks slightly wrong in ways a human made on purpose. If the seams are flawless and the tutorial links nowhere, you are looking at slop, not a hobby."
+  },
+  "spotter_tip": "Try to actually make it. Real tutorials end in a lopsided but real object; slop tutorials end with you holding a hot glue gun and a growing sense of betrayal.",
+  "tomorrow": "Continued haze with pockets of fatigue; slop volume steady, human enthusiasm slack.",
+  "confirmed_sighting": {
+    "report": "Field analysis indicates audience interest in AI slop may be approaching a ceiling, with engagement plateauing as residents show signs of fatigue with the ongoing flood of synthetic content. The Service notes that a tired audience is not the same as a cleaned-up landscape.",
+    "source_name": "Fast Company",
+    "source_url": "https://www.fastcompany.com/91568818/our-interest-in-ai-slop-is-hitting-a-ceiling"
+  }
+}
