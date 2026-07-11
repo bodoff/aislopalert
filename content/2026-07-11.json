@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-11",
+  "severity_level": 2,
+  "severity_name": "SLOP WATCH — WEEKEND LEISURE ADVISORY",
+  "headline": "SLOP WATCH ISSUED ACROSS THE PINTEREST SHALLOWS AS SYNTHETIC RECIPE FRONT MOVES IN, PROMISING DINNERS THAT CANNOT BE COOKED FROM INGREDIENTS THAT WILL NOT COMBINE",
+  "advisory": "A slow-moving band of AI-generated recipe content has settled over weekend meal-planning corridors, producing dishes whose ingredient lists and cooking instructions were assembled by separate processes that have never met. The Service advises residents to read all twelve steps before preheating anything. Conditions are non-hazardous but may result in a casserole that structurally cannot exist.",
+  "regional_outlook": [
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Saturated with pinnable recipe cards depicting a golden, photogenic dish that no listed instruction produces. Expect glossy overcast and a persistent smell of stock photography."
+    },
+    {
+      "region": "The YouTube Shorts Gorge",
+      "conditions": "Rapid-cut cooking demonstrations continue to accumulate, most showing a knife, a bowl, and hands that briefly gain and lose fingers between cuts. Visibility poor at speed."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "'Best 30-minute dinner' queries return synthetic blog posts with 1,400 words of preamble and a recipe that takes ninety minutes. Standing water expected in the comments."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Meal-kit newsletters drifting in from unfamiliar senders, all recommending the same fabricated dish. Filters holding, for now."
+    },
+    {
+      "region": "The Kindle Drifts",
+      "conditions": "A fresh sandbar of auto-generated cookbooks has surfaced, each promising 500 recipes and delivering the same four in shuffled order. Navigation not advised."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Phantom Recipe",
+    "latin_name": "Coquus fictus incongruens",
+    "status": "Abundant; peaks on weekends and holidays.",
+    "habitat": "Recipe aggregators, meal-planning boards, and the lower reaches of any search for 'easy dinner.' Nests inside long personal essays it did not live.",
+    "field_marks": "Ingredient list and instruction list do not reference one another. Mentions two cups of an item that never returns. Instructs the cook to 'fold in' a liquid. Serving count fluctuates paragraph to paragraph.",
+    "call": "Simply combine the reserved mixture from Step 3, which does not appear in Step 3, and bake until golden.",
+    "confusion_species": "Easily mistaken for a genuine home cook's recipe. Tell them apart by the crumbs: a real recipe has a mistake somewhere and a photo taken in a kitchen with bad lighting; the Phantom Recipe is immaculate, exhaustively narrated, and cannot be made."
+  },
+  "spotter_tip": "Count the ingredients, then count how many actually appear in the steps. If a butter, an onion, and 'the marinade' go unaccounted for, you are not reading a recipe — you are reading weather.",
+  "tomorrow": "Recipe front weakens by evening; a warm ridge of synthetic 'lazy Sunday brunch' content builds in behind it.",
+  "confirmed_sighting": {
+    "report": "Researchers are now arguing that AI slop deserves to be treated as a legitimate object of study rather than simply dismissed, examining how low-quality synthetic content spreads and what it does to the information ecosystem. The Service welcomes the reinforcements to the field station.",
+    "source_name": "AI Weekly",
+    "source_url": "https://aiweekly.co/alerts/researchers-reframe-ai-slop-as-a-legitimate-object-of-study"
+  }
+}
