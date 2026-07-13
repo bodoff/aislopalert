@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-13",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING",
+  "headline": "HEAVY SLOP WARNING: SELF-SUSTAINING MEMO LOOP INTENSIFIES OVER THE INBOX ESTUARY AS MACHINE-WRITTEN MESSAGES ARE MACHINE-SUMMARIZED BACK INTO THE FOG FROM WHICH THEY CAME",
+  "advisory": "The Service is tracking a closed-circuit correspondence system in which synthetic text is generated at one desk, transmitted, and immediately condensed by an unrelated system at another, producing a stable weather pattern that expends enormous energy while conveying nothing. Residents are advised that the storm is self-perpetuating and requires no human participation to maintain intensity. A brief moment of clarity is achievable by reading the original three-word request instead of the four-paragraph document it became. Bureaus experiencing 'circular fog' should ventilate by speaking to a colleague aloud.",
+  "regional_outlook": [
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Dense recursive fog through the workday as expanded pleasantries are reduced back to bullet points by the recipient's own tools. Visibility near zero; actual information content also near zero."
+    },
+    {
+      "region": "The LinkedIn Plateau",
+      "conditions": "Elevated humidity from 'humbled and honored' vapor as the memo loop is repackaged into thought-leadership updates. Expect scattered carousels celebrating the very inefficiency they created."
+    },
+    {
+      "region": "The X Badlands",
+      "conditions": "Turbulent conditions persist as crude, obviously synthetic imagery continues to circulate faster than corrections. Winds gusting toward whichever tournament is trending."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Standing water of auto-generated 'how to write a professional email' guides, themselves generated. Runoff feeds directly back into the Estuary."
+    },
+    {
+      "region": "The Spotify Lowlands",
+      "conditions": "A quiet layer of generated ambient 'focus' tracks settles over remote workers attempting to escape the loop. Harmless, repetitive, and eleven hours long."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Recursive Memo",
+    "latin_name": "Nuntius circularis inanis",
+    "status": "Abundant and increasing; now the dominant species of the workplace biome",
+    "habitat": "The Inbox Estuary, spawning wherever a two-line message can be inflated and a ten-line message can be deflated",
+    "field_marks": "Opens with 'I hope this message finds you well'; contains three paragraphs surrounding one verb; arrives with a subject line longer than its actual content. Frequently ends with an offer to 'circle back.'",
+    "call": "Per my last email, and building on our shared alignment going forward, I wanted to quickly loop you in on next steps — happy to schedule time to discuss.",
+    "confusion_species": "Easily mistaken for a memo written by a busy but sincere colleague. Distinguish by the tell: a genuine human message eventually says the thing. The Recursive Memo circles the thing, describes the region around the thing, and offers to set up a meeting about the thing."
+  },
+  "spotter_tip": "If a message takes longer to read than the task it describes takes to do, and your own summarizer produces a shorter version than the sender's original three-word request, you have witnessed the full loop. Do not feed it. It is already fed.",
+  "tomorrow": "Loop conditions persisting into Tuesday, with a mid-morning surge as quarterly 'quick syncs' are drafted, summarized, and rescheduled.",
+  "confirmed_sighting": {
+    "report": "Field reporting documents a workplace pattern in which employees use AI to write messages that recipients then use AI to summarize, generating a closed back-and-forth of low-value content that moves between parties without either fully reading it.",
+    "source_name": "Futurism",
+    "source_url": "https://futurism.com/artificial-intelligence/workplaces-bizarre-ai-back-and-forth"
+  }
+}
