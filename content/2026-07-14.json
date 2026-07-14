@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-14",
+  "severity_level": 4,
+  "severity_name": "SEVERE SLOP WARNING — SATURATION ADVISORY",
+  "headline": "SEVERE SLOP WARNING: SYNTHETIC PROSE FRONT ACHIEVES TOTAL BASIN COVERAGE AS NEW SURVEYS CONFIRM MACHINE-WRITTEN TEXT HAS SETTLED OVER THE ENTIRE INHABITED INTERNET, WITH THE LINKEDIN PLATEAU AND X BADLANDS REPORTING NEAR-ZERO VISIBILITY",
+  "advisory": "A broad, self-reinforcing system of machine-authored text has expanded to cover substantially all navigable regions of the network, reducing prose visibility to advisory minimums. Residents are urged to treat any sentence containing the phrase 'in today's fast-paced world' as a downdraft indicator. The Service, being itself an authored system, acknowledges the awkwardness of reporting on ambient text volume from inside the weather.",
+  "regional_outlook": [
+    {
+      "region": "The LinkedIn Plateau",
+      "conditions": "Zero visibility through dense professional vapor. Every post now opens with a one-line paragraph, a dramatic pause, and the word 'Agree?' — conditions expected to persist indefinitely."
+    },
+    {
+      "region": "The X Badlands",
+      "conditions": "Saturated to capacity. Reply columns rising uniformly across all threads, each contributing the same three-sentence take from a slightly different unmanned account."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Standing water of confident summary. Answers are plentiful; sources are not. Ford with caution."
+    },
+    {
+      "region": "The Kindle Drifts",
+      "conditions": "Overnight accumulation of forty-thousand-word volumes titled with the query a reader most recently typed. Spines cosmetic only."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "Light chop of near-identical utility apps, each promising to remove the slop the others generated. Circular, and worsening."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Synthetic Thought Leader",
+    "latin_name": "Auctoritas ficta profunda",
+    "status": "Overabundant; now the dominant vegetation of the LinkedIn Plateau.",
+    "habitat": "Professional feeds, conference recaps, and any surface warm enough to support a hot take.",
+    "field_marks": "Opens with a false-vulnerability confession ('I was rejected 47 times'), pivots on a single em dash, and closes with a bulleted 'lesson.' Never states which company, which job, or which year. Body temperature always described as 'humbled.'",
+    "call": "This isn't just a setback — it's a masterclass. Let that sink in. Thoughts?",
+    "confusion_species": "Easily mistaken for a genuine professional sharing hard-won experience. Distinguish by asking a follow-up question: the authentic colleague answers specifically, while the Synthetic Thought Leader thanks you for the engagement and restates the original post."
+  },
+  "spotter_tip": "If a post about failure contains a precise number of rejections but no name for the thing that was rejected, you are looking at habitat, not a person. Do not applaud.",
+  "tomorrow": "Continued blanket coverage with no clearing expected; isolated pockets of human sentences possible near unmonetized corners.",
+  "confirmed_sighting": {
+    "report": "New research reports that AI-generated writing has proliferated across the web, identifying LinkedIn and X as especially saturated platforms. The Service classifies this as consistent with observed basin-wide conditions.",
+    "source_name": "The Register",
+    "source_url": "https://www.theregister.com/ai-and-ml/2026/07/09/ai-slop-writing-has-taken-over-the-internet-particularly-linkedin-and-x/5269525"
+  }
+}
