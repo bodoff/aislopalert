@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-16",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING",
+  "headline": "HEAVY SLOP WARNING: PHANTOM-BYLINE FRONT SETTLES OVER THE NEWSWIRE FENS AS ARTICLES SIGNED BY REPORTERS WHO DO NOT EXIST FILE DISPATCHES FROM EVENTS THAT DID NOT OCCUR",
+  "advisory": "A persistent authorship inversion has developed across the news basin, in which finished articles precede the existence of anyone to have written them. Residents are advised that a warm, professional-sounding byline is no longer evidence of a warm, professional-sounding human. The Service reminds the public that a headshot rendered at 512 pixels and a bio reading 'covers technology, culture, and the human stories in between' should be treated as an unverified pressure reading. Verify sourcing before sharing; corrections issued after the fact tend to evaporate before reaching the residents they were meant to reach.",
+  "regional_outlook": [
+    {
+      "region": "The Newswire Fens",
+      "conditions": "Dense phantom-byline fog through the morning, with fabricated quotes drifting in low over the wetlands. Visibility on primary sourcing near zero until an actual editor is located."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Standing pools of near-identical 'breaking' coverage, all citing one another. Expect circular attribution and a persistent smell of aggregation."
+    },
+    {
+      "region": "The LinkedIn Plateau",
+      "conditions": "Warm updrafts of self-congratulation as synthetic correspondents announce they are 'thrilled to share' articles no one wrote. Broetry advisory remains in effect."
+    },
+    {
+      "region": "The X Badlands",
+      "conditions": "Gusty screenshot activity carrying the phantom dispatches far beyond their source. Debunks trail the originals by twelve to eighteen hours."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Newsletter runoff heavy with 'curated' links to stories that self-corrected overnight. Scattered unsubscribe fronts developing by evening."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Phantom Byline",
+    "latin_name": "Auctor nullus plausibilis",
+    "status": "Widespread and multiplying; now nesting in outlets that once employed people.",
+    "habitat": "Content farms, hollowed-out local news domains, and any masthead where the 'Our Team' page loads slightly too fast.",
+    "field_marks": "A friendly non-specific headshot; a three-clause bio promising to cover 'tech, culture, and everything in between'; an email address that bounces; and a portfolio of forty articles published in a single afternoon.",
+    "call": "With over a decade of experience, I'm passionate about bringing you the stories that matter — reach out anytime, I'd love to connect.",
+    "confusion_species": "Easily mistaken for an actual overworked freelance journalist. Tell them apart by asking a follow-up question: the freelancer replies, exhausted, at 11 p.m.; the phantom does not reply, because there is no there there."
+  },
+  "spotter_tip": "Click the byline. A real reporter has a messy trail — old bylines, a strange podcast appearance, a typo they never fixed. A phantom has forty flawless articles and no past before last Tuesday.",
+  "tomorrow": "Phantom-byline fog thinning by midday, replaced by a fast-moving correction front that few residents will ever see.",
+  "confirmed_sighting": {
+    "report": "An industry tracker continues to catalogue AI-related errors, fabrications, and scandals in journalism, documenting a running series of incidents in which AI-generated content has caused problems for publishers. The Service notes the log is described as regularly updated, which is itself a reading.",
+    "source_name": "Press Gazette",
+    "source_url": "https://pressgazette.co.uk/publishers/digital-journalism/ai-journalism-mistakes/"
+  }
+}
