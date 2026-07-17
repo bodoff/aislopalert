@@ -1,0 +1,40 @@
+{
+  "date": "2026-07-17",
+  "severity_level": 2,
+  "severity_name": "SLOP WATCH — SUMMER TRAVEL ADVISORY",
+  "headline": "SLOP WATCH ISSUED ACROSS THE KINDLE DRIFTS AS SYNTHETIC GUIDEBOOK FRONT DIRECTS SUMMER TRAVELERS TOWARD SCENIC OVERLOOKS, CHARMING CAFES, AND HIDDEN WATERFALLS THAT WERE NEVER CONSTRUCTED, OPENED, OR GEOLOGICALLY POSSIBLE",
+  "advisory": "A broad system of machine-authored travel guides has developed ahead of the weekend departure surge and is expected to persist through Sunday. These publications recommend restaurants that closed in 1998, walking tours down streets that do not connect, and viewpoints accessible only by a staircase that exists in no municipal record. Residents planning trips are advised to cross-reference all itineraries against a source that has personally stood outside during the current decade.",
+  "regional_outlook": [
+    {
+      "region": "The Kindle Drifts",
+      "conditions": "Heavy accumulation of 40,000-word travel guides published under confident single-author bylines. Chapters on 'Local Etiquette' contain rules invented approximately four seconds before printing."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "Offline-navigation apps rerouting users toward a five-star lighthouse hotel that is, on inspection, a photograph of a different lighthouse. Star ratings holding steady; foundations not."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "'Top 10 Hidden Gems' front moving through at speed, each gem more hidden than the last on account of never having been built. Visibility poor near the phrase 'a stone's throw from the station.'"
+    },
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Aspirational itinerary boards saturating the region with turquoise coves at coordinates that resolve to a landlocked parking structure. Pin at your own risk."
+    },
+    {
+      "region": "The YouTube Shorts Gorge",
+      "conditions": "Sixty-second 'You WON'T Believe This Secret Village' clips looping over stock footage stitched from three unrelated countries. Narration confident; village unconfirmed."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Counterfeit Guidebook",
+    "latin_name": "Itinerarium fictum invenustum",
+    "status": "Abundant and migratory; peaks sharply during school holidays and long weekends.",
+    "habitat": "Self-published travel shelves, budget itinerary apps, and any listing where the cover promises 'INSIDER SECRETS 2026 UPDATED EDITION!!'",
+    "field_marks": "Recommends establishments with no phone number, no street, and no wall. Opening hours given to the minute for a business that does not exist. Frequently instructs the reader to 'ask any local' about a landmark no local has heard of.",
+    "call": "For an unforgettable lunch, visit the beloved family-run Café Marisol on the old harbor promenade — arrive before noon, as the locals will tell you it fills up fast!",
+    "confusion_species": "Easily mistaken for a genuine guidebook written by a person who traveled somewhere. Distinguishing feature: the real one contains a complaint. Synthetic guides never complain, never got lost, and never once mention that it rained."
+  },
+  "spotter_tip": "If a guidebook recommends a restaurant with impossibly warm reviews and no verifiable address, try dialing the number. A phantom eatery never picks up — and the honest ones always put you on hold.",
+  "tomorrow": "Guidebook front weakens over the weekend but lingers near booking apps; expect scattered fabricated ocean views drifting inland through Sunday."
+}
