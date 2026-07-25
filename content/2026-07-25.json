@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-25",
+  "severity_level": 4,
+  "severity_name": "SEVERE SLOP WARNING — PROFESSIONAL SATURATION ADVISORY",
+  "headline": "SEVERE SLOP WARNING: MACHINE-WRITTEN FRONT ACHIEVES NEAR-HALF COVERAGE OF THE LINKEDIN PLATEAU AS NEW SURVEY DATA CONFIRMS EVERY OTHER LONG POST WAS WRITTEN BY NOBODY IN PARTICULAR",
+  "advisory": "The National Slop Service has upgraded conditions across the professional interior to SEVERE following passive survey data indicating that roughly one in two long-form posts on the LinkedIn Plateau is now fully machine-generated. Residents are advised that a post reading 'I made a decision that changed everything' followed by three single-sentence paragraphs and a poll is not necessarily authored by a human, or, in fact, by anyone. The Service reminds the public that a comment reading 'This resonates deeply' is not confirmation of survivors. Shelter in place; do not engage.",
+  "regional_outlook": [
+    {
+      "region": "The LinkedIn Plateau",
+      "conditions": "Total professional saturation. Machine-written thought pieces are settling at a rate of one every three seconds, each ending in the same rhetorical question aimed at no one. Visibility of actual humans reduced to near zero."
+    },
+    {
+      "region": "The X Badlands",
+      "conditions": "Secondary saturation band moving in from the Plateau. Automated reply columns forming rapidly, agreeing with everything and understanding nothing."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Cross-posted broetry runoff arriving in newsletter form. Expect the same three paragraphs you already scrolled past, now with a subject line that says 'A quick thought.'"
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Standing pools of 'top 7 lessons I learned' listicles. Waders recommended; solid ground scarce."
+    },
+    {
+      "region": "The Facebook Delta",
+      "conditions": "Calmer, with scattered engagement-bait polls. A drifting front of 'Type AMEN to agree' expected by late afternoon."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Synthetic Applause",
+    "latin_name": "Assentator automaticus glutinosus",
+    "status": "Explosively common; the dominant understory species of the LinkedIn Plateau",
+    "habitat": "Comment sections beneath any post that received more than two other comments; migrates in flocks",
+    "field_marks": "Appears within ninety seconds of publication. Praise is fulsome, generic, and structurally identical: an opening superlative, a restatement of the post's premise as though it were an insight, and a closing question inviting further engagement. Never disagrees. Never remembers.",
+    "call": "So well said! Curious — how do you see this applying at scale in today's fast-moving landscape? 🙌",
+    "confusion_species": "Easily mistaken for a genuinely supportive colleague. Distinguish by asking a specific follow-up: a real colleague answers; the Synthetic Applause restates its compliment in a slightly warmer font and produces another emoji."
+  },
+  "spotter_tip": "If a 1,400-word post contains three separate one-word paragraphs — 'Then.' 'Everything.' 'Shifted.' — and closes by asking what YOU think, assume nobody thought anything. The em dash is not evidence either way, and yes, the Service is aware of the optics.",
+  "tomorrow": "Continued heavy machine-written text over the Plateau, tapering to scattered thought leadership by evening; no meaningful clearing forecast.",
+  "confirmed_sighting": {
+    "report": "A study by AI-detection firm Pangram Labs, based on passive browsing data, found that nearly half of long-form LinkedIn posts are fully AI-generated, identifying the platform as the most AI-saturated of the major networks and noting that its years of built-in AI writing tools helped fuel the trend. Substack and X showed sharp rises as well.",
+    "source_name": "404 Media",
+    "source_url": "https://www.404media.co/linkedin-and-x-are-flooded-with-ai-spam-browsing-data-suggests/"
+  }
+}
