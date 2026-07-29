@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-29",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING — COORDINATED PERSONA ADVISORY",
+  "headline": "HEAVY SLOP WARNING: SYNTHETIC-PERSONA FRONT SPREADS ACROSS THE X BADLANDS AS MASS-PRODUCED ACCOUNTS PUSH LOW-GRADE INFLUENCE DEBRIS AND PHANTOM EVENT LISTINGS DIRECT RESIDENTS TOWARD GATHERINGS THAT WERE NEVER SCHEDULED",
+  "advisory": "A broad system of coordinated synthetic accounts is moving through the X Badlands and adjacent basins, generating high volumes of low-effort imagery, translated talking points, and identical opinions held by thousands of profiles created the same afternoon. The Service notes the material is voluminous but poorly assembled; residents may observe six-fingered spokespersons and captions translated through three languages back into a fourth. A secondary hazard has developed downwind, where automated event listings are directing residents toward festivals, parades, and grand openings that do not exist. Do not put on a costume until the parade is confirmed by a human with a phone number.",
+  "regional_outlook": [
+    {
+      "region": "The X Badlands",
+      "conditions": "Dense persona fog with reduced visibility. Thousands of accounts reporting identical weather in identical wording; treat all consensus as unverified until a human is located."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Steady drizzle of machine-written articles holding at roughly half of new precipitation. Human-authored ground remains, but it is increasingly hard to see through the mist."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Rising tide of personalized outreach that knows your first name and nothing else. Salutations arriving pre-generated; expect flooding around the greeting line."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "Scattered five-star reviews falling on apps that have not yet launched. Enthusiasm forecast to exceed functionality throughout the day."
+    },
+    {
+      "region": "The Kindle Drifts",
+      "conditions": "Light accumulation of 40-page 'complete guides' generated overnight. Table of contents present; contents largely not."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Phantom Festival",
+    "latin_name": "Festivitas numquam acta",
+    "status": "Locally abundant; migrates to whichever town has a photogenic main street.",
+    "habitat": "Auto-generated event calendars, algorithmic 'things to do near you' feeds, and glossy listing pages with no organizer and no cancellation policy.",
+    "field_marks": "A radiant hero image of a parade, fireworks, or lantern release rendered in impossible golden light. Look for a venue that resolves to an empty parking lot, a 'starts at dusk' with no date, and a ticket link that leads only to a longer ticket link.",
+    "call": "Join thousands this weekend for the Annual Harbor Lights Spectacular — a beloved local tradition returning for its first year!",
+    "confusion_species": "Easily mistaken for a genuine community event listing. Distinguish by the human details: a real festival has a phone number that a tired volunteer actually answers, a parking complaint from last year, and at least one photo where the weather is disappointing."
+  },
+  "spotter_tip": "Before you drive downtown in a costume, try to find one ordinary person who is annoyed about the parking. Real gatherings generate logistics; phantom ones generate only beautiful pictures.",
+  "tomorrow": "Persona fog thinning by midday, but phantom event listings expected to intensify ahead of the weekend — verify before you commute.",
+  "confirmed_sighting": {
+    "report": "Social media analytics firm Graphika reports that major state-sponsored influence operations, including ones tied to China and Russia, have increasingly adopted generative AI to mass-produce low-quality images, video, text, and translations — though researchers note the output is frequently executed poorly. The Service confirms: the propaganda is now automated, and it still cannot spell.",
+    "source_name": "NBC News",
+    "source_url": "https://www.nbcnews.com/tech/security/online-propaganda-campaigns-are-using-ai-slop-researchers-say-rcna244618"
+  }
+}
