@@ -1,0 +1,40 @@
+{
+  "date": "2026-07-30",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING — ITINERARY INTEGRITY ADVISORY",
+  "headline": "HEAVY SLOP WARNING: FABRICATED-ITINERARY FRONT SWEEPS THE KINDLE DRIFTS AND SEARCH RESULTS BASIN AS MACHINE-WRITTEN TRAVEL GUIDES DIRECT VACATIONERS TO SCENIC OVERLOOKS, HISTORIC CAFÉS, AND CHARMING VILLAGES THAT HAVE NEVER EXISTED",
+  "advisory": "A dense system of counterfeit travel guidance has settled over the Kindle Drifts and is advecting into the Search Results Basin, producing confident turn-by-turn directions to destinations with no known coordinates. Residents planning summer travel are advised that a five-star review, a plausible opening-hours table, and a heartfelt paragraph about the owner's late father do not, individually or collectively, cause a bakery to exist. The Service reminds the public that a map is a claim, not a promise. Verify all landmarks against at least one source that has personally been rained on.",
+  "regional_outlook": [
+    {
+      "region": "The Kindle Drifts",
+      "conditions": "Heavy accumulation of $3.99 city guides published this morning under three different author names sharing one headshot. Visibility poor; every guide recommends the same nonexistent rooftop bar."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Fabricated 'hidden gem' listings continue to outrank actual establishments. Motorists report arriving at empty gravel lots that scored 4.7 stars across 900 reviews."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "Cloned offline-map applications drifting in on light winds, each promising 'insider routes' that terminate in a resident's back garden."
+    },
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Aspirational travel boards saturating the region with a lavender village that photographers cannot locate and cartographers refuse to acknowledge."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Scattered promotional newsletters offering '15% off your dream trip to' a place that autocorrect cannot spell because it was never a word."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Nonexistent Landmark",
+    "latin_name": "Destinatio numquam sita",
+    "status": "Abundant and expanding; thrives wherever a search box meets a summer.",
+    "habitat": "Machine-generated travel ebooks, listicle roundups titled '11 Underrated Stops,' and the confident middle third of any AI itinerary.",
+    "field_marks": "Rich sensory description paired with a total absence of coordinates. Displays plausible opening hours, a founding year, and an owner named Giuseppe, Astrid, or 'a local family' — but no street address, no phone that rings, and a photograph in which the shadows point four directions at once.",
+    "call": "Don't miss this off-the-beaten-path favorite the tourists haven't discovered yet — because it isn't there, and neither, technically, am I.",
+    "confusion_species": "Easily mistaken for a genuine travel guide. Distinguish by authorship: a real guide names a person who ate the sandwich and got the parking ticket; the Nonexistent Landmark cites 'travelers say,' names no traveler, and lists a café whose reviews all posted on the same afternoon."
+  },
+  "spotter_tip": "Before trusting any 'must-see' stop, paste the name into a plain map with no reviews attached. If the pin lands in the middle of a reservoir, you have found a specimen, not a destination.",
+  "tomorrow": "Fabricated itineraries easing overnight; residual phantom brunch spots linger through midday before dispersing at the first attempt to make a reservation."
+}
