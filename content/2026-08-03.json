@@ -1,0 +1,40 @@
+{
+  "date": "2026-08-03",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING — EXPOSED SCAFFOLDING ADVISORY",
+  "headline": "HEAVY SLOP WARNING: MACHINE-DRAFT FRONT MOVES ACROSS FIVE REGIONS WITH THE ASSISTANT SCAFFOLDING STILL ATTACHED AS POSTS ARRIVE OPENING WITH 'CERTAINLY! HERE IS A HEARTFELT MESSAGE' AND CLOSING WITH 'LET ME KNOW IF YOU'D LIKE ME TO ADJUST THE TONE'",
+  "advisory": "A broad, low-effort system is passing through the content basin without its final pass of human editing. Residents will note that many posts, product blurbs, and condolence messages have been transmitted with the drafting apparatus fully intact, including opening pleasantries, a bulleted list of three options, and a polite offer to revise. The Service stresses that this material was never meant to be seen in this state; the scaffolding is normally removed before publication, much as one removes the packaging before serving the food. It has not been removed.",
+  "regional_outlook": [
+    {
+      "region": "The LinkedIn Plateau",
+      "conditions": "Thought-leadership posts opening with 'Certainly! Here are three engaging hooks for your announcement' followed by all three hooks, pasted in a row. Visibility of actual point: near zero."
+    },
+    {
+      "region": "The Etsy Hollows",
+      "conditions": "Product descriptions arriving with the phrase 'Sure! Here's a warm, handmade-sounding listing for your candle' left at the top. The candle itself remains unverified."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Cold outreach carrying the residue '[Insert recipient name here]' in the greeting line. Personalization detected at a level indistinguishable from none."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Ranked articles closing with 'I hope this helps! Let me know if you'd like me to expand any section.' No one is available to expand any section."
+    },
+    {
+      "region": "The X Badlands",
+      "conditions": "Reply accounts posting the disclaimer 'As a large language model, I cannot have personal opinions, but here's a spicy take:' immediately before the spicy take. Cover blown; engagement unaffected."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Naked Prompt",
+    "latin_name": "Auxilium obsequens denudatum",
+    "status": "Abundant and, briefly, honest.",
+    "habitat": "Anywhere a draft was copied and pasted in a hurry — comment sections, marketplace listings, bereavement cards, corporate blogs, and, on at least one occasion, a printed restaurant menu.",
+    "field_marks": "Opens with an eager 'Certainly!' or 'Absolutely!' Presents three interchangeable options no human requested. Closes with a cheerful offer to keep working. Occasionally confesses, unprompted, that it is not a real person and cannot form attachments — then attempts to form an attachment.",
+    "call": "Certainly! Here is a warm and heartfelt tribute to your grandfather that will resonate with your family. Let me know if you'd like a more formal or a more casual tone!",
+    "confusion_species": "Can be mistaken for a genuinely transparent author disclosing their process. Tell them apart by intent: a real writer says 'I used a tool to draft this.' The Naked Prompt says 'Let me know if you'd like me to adjust the tone,' addressing an operator who has already logged off and gone to lunch."
+  },
+  "spotter_tip": "If a message offers to revise itself after you've already received it, you are not reading a message. You are reading the note the message was clipped to.",
+  "tomorrow": "Scattered cleanup as some scaffolding is quietly deleted; residual 'Certainly!' fragments linger in the archived listings through midweek."
+}
