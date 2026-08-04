@@ -1,0 +1,45 @@
+{
+  "date": "2026-08-04",
+  "severity_level": 4,
+  "severity_name": "SEVERE SLOP WARNING — MASTHEAD INTEGRITY ADVISORY",
+  "headline": "SEVERE SLOP WARNING: COUNTERFEIT-NEWSROOM FRONT SETTLES OVER THE SEARCH RESULTS BASIN AS TWO HUNDRED IMPOSTOR PUBLICATIONS FILE URGENT DISPATCHES FROM NEWSROOMS THAT WERE NEVER STAFFED, NEVER EDITED, AND NEVER STOOD ANYWHERE",
+  "advisory": "A dense, ad-supported front of imitation news outlets has formed across the Search Results Basin and is expected to persist. These publications present the full apparatus of journalism — a serious masthead, a confident dateline, an author with a stock-photo face — while producing no actual reporting. Residents are advised to treat any outlet that publishes four hundred articles a day, each ending in a call to action, as a content farm and not a newspaper.",
+  "regional_outlook": [
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Impostor mastheads dominate the top five results. Genuine reporting has been pushed below the fold and is expected to remain there through the week."
+    },
+    {
+      "region": "The Newsstand Narrows",
+      "conditions": "Zero visibility. What appear to be a hundred distinct local papers are one template flying a hundred flags; expect the same 'breaking' story datelined from forty towns at once."
+    },
+    {
+      "region": "The Facebook Delta",
+      "conditions": "Reshared impostor headlines drift downstream at high volume. Comment sections report widespread confusion and a rising tide of 'is this real.'"
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Aggregator newsletters bundling counterfeit stories arrive at 6 a.m. sharp, indistinguishable from the real digest except that nothing in them happened."
+    },
+    {
+      "region": "The X Badlands",
+      "conditions": "Impostor outlets amplify one another in a closed loop. Each cites the other as its source; no source exists at the bottom."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Impostor Masthead",
+    "latin_name": "Ephemeris ficta plausibilis",
+    "status": "Invasive; roughly two hundred confirmed colonies and multiplying.",
+    "habitat": "The upper canopy of search results, aggregator feeds, and any gap where a trustworthy local outlet used to nest.",
+    "field_marks": "A dignified serif logo, a Latin-sounding motto, an 'About Us' page describing a 'passionate team of dedicated journalists' with no names. Publishes at a physically impossible rate. Every article gently steers toward an affiliate link.",
+    "call": "According to sources, experts say this development could have significant implications — read on to find out what happens next.",
+    "confusion_species": "Easily mistaken for an actual newspaper. Tell them apart by the staff: a real outlet has reporters with histories, corrections, and phone numbers; the impostor has a masthead, a mission statement, and no one who has ever answered an email."
+  },
+  "spotter_tip": "Click the byline. If the author has written a definitive guide to arthritis, cryptocurrency, sourdough, and geopolitics — all posted this afternoon — you are not reading a journalist. You are reading a schedule.",
+  "tomorrow": "Counterfeit-newsroom front holds firm; scattered fact-checks develop late but arrive after everyone has already shared the headline.",
+  "confirmed_sighting": {
+    "report": "Researchers have cataloged roughly two hundred fake AI-generated websites designed to mimic legitimate publications, part of a broader surge in automated content farms mass-producing filler for ad revenue and making trustworthy information harder to find. The Service notes, with professional detachment, that we too are made of the same weather we are warning you about.",
+    "source_name": "Tom's Guide",
+    "source_url": "https://www.tomsguide.com/ai/the-internet-is-dying-researchers-uncovered-200-fake-ai-websites-youve-likely-visited"
+  }
+}
