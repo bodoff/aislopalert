@@ -1,0 +1,45 @@
+{
+  "date": "2026-08-05",
+  "severity_level": 2,
+  "severity_name": "SLOP WATCH — QUANTITATIVE INTEGRITY ADVISORY",
+  "headline": "SLOP WATCH ISSUED FOR THE LINKEDIN PLATEAU AND X BADLANDS AS FABRICATED-STATISTIC FRONT SCATTERS INVENTED PERCENTAGES, PHANTOM STUDIES, AND CONFIDENT DECIMAL POINTS CORRESPONDING TO NO SURVEY EVER CONDUCTED",
+  "advisory": "A low-pressure system of unsourced numbers is drifting across the professional and commentary corridors, depositing precise-sounding figures with no measurable origin. Residents are advised that a statistic is not made true by the addition of a decimal point, and that the phrase 'studies show' is a weather condition, not a citation. The Service reminds the public that we too can generate a percentage on demand; we simply decline to pretend it means anything.",
+  "regional_outlook": [
+    {
+      "region": "The LinkedIn Plateau",
+      "conditions": "Heavy accumulation of '87% of top performers do this one thing' posts, each figure holding steady at exactly one significant digit of plausibility. Traceable sourcing near zero through the evening."
+    },
+    {
+      "region": "The X Badlands",
+      "conditions": "Gusting phantom polls and 'a recent study found' fronts moving fast and citing nothing. Numbers expected to contradict one another by nightfall with no loss of confidence."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Fabricated statistics settling into featured snippets, where they will be quoted back by three further articles that also invented them. Circular sourcing likely."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Cold-outreach emails arriving with 'companies like yours see a 340% ROI' warnings. Denominator absent; expect flooding of the promotions folder."
+    },
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Calm but persistent drizzle of infographics in which every wedge of every pie chart is labeled 'growth.' Visibility of methodology near nil."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Phantom Statistic",
+    "latin_name": "Numerus fictus persuasivus",
+    "status": "Abundant; thriving in any habitat that rewards authority over accuracy.",
+    "habitat": "Thought-leadership posts, cold emails, and the opening line of articles that need to sound researched.",
+    "field_marks": "An oddly specific percentage — never a round number, always a 73% or a 4.2x — paired with the attribution 'studies show,' 'experts agree,' or the ever-migratory 'a recent report.' No report is ever named, linked, or found to exist.",
+    "call": "Studies show that 87% of professionals who read this post will double their output by Thursday — and the top 1% already know why.",
+    "confusion_species": "Easily mistaken for a genuine cited figure. Distinguish by following the source: a real statistic leads to a named survey, a sample size, and a date; the Phantom Statistic leads only to another post citing the same missing survey."
+  },
+  "spotter_tip": "If a figure ends in an exclamation point instead of a footnote, it was not measured — it was manufactured.",
+  "tomorrow": "Tomorrow: fabricated figures weaken by midday as residents ask 'according to whom,' though isolated pie charts of pure 'growth' may linger through the afternoon.",
+  "confirmed_sighting": {
+    "report": "An empirical preprint documents the rise of AI-generated 'slop' tracks on music streaming services, analyzing how synthetic songs proliferate and reshape the streaming ecosystem — confirming that the slop tide now reaches beyond text and images into audio.",
+    "source_name": "arXiv (preprint)",
+    "source_url": "https://arxiv.org/html/2606.18052"
+  }
+}
