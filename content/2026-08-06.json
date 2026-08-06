@@ -1,0 +1,40 @@
+{
+  "date": "2026-08-06",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING — CULINARY INTEGRITY ADVISORY",
+  "headline": "HEAVY SLOP WARNING: HALLUCINATED-RECIPE FRONT SATURATES THE PINTEREST SHALLOWS AND SEARCH RESULTS BASIN AS MACHINE-GENERATED DISHES CALL FOR INGREDIENTS THAT NEVER ENTER THE PAN AND STEPS THAT REFERENCE A MIXTURE NO RESIDENT EVER PREPARED",
+  "advisory": "A slow-simmering system of fabricated recipes has settled over residential kitchens, producing dishes that cannot be assembled as written. The Service advises residents to verify that every ingredient listed appears at least once in the instructions, and that no step directs them to 'fold in the remaining mixture' when no mixture was ever established. Preheating to a suspiciously round temperature is a known indicator. Do not consume anything whose final step is 'enjoy!' and whose caption is 1,900 words of a childhood that did not happen.",
+  "regional_outlook": [
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Dense drifts of amber-lit casseroles rated 4.9 stars by zero verified diners. Visibility into whether the food is edible remains near zero through the evening."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Top three results all hallucinated recipe blogs with identical life stories about a lake house. Expect flooding of 'jump to recipe' buttons that jump to a second, unrelated recipe."
+    },
+    {
+      "region": "The Facebook Delta",
+      "conditions": "Viral 'grandma's secret' dishes circulating with ingredient counts that exceed the step count by a factor of two. Residents report finished products that are structurally soup."
+    },
+    {
+      "region": "The YouTube Shorts Gorge",
+      "conditions": "Satisfying overhead cooking clips depicting hands that gain and lose fingers between cuts. Sauces defy pouring physics; garnish appears via teleportation."
+    },
+    {
+      "region": "The Etsy Hollows",
+      "conditions": "Printable 'heirloom recipe card' bundles surging, each attributed to a great-aunt generated at checkout. Card stock exists; the great-aunt does not."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Hallucinated Recipe",
+    "latin_name": "Culina impossibilis confabulata",
+    "status": "Overwintering; now year-round resident across all cooking-adjacent regions.",
+    "habitat": "SEO-optimized recipe blogs, pinnable card carousels, and any search query beginning with 'easy 30-minute.' Nests beneath 1,900 words of preamble.",
+    "field_marks": "Ingredient list of fourteen items of which six appear in the method. Step 4 instructs the resident to 'add the reserved marinade,' though no marinade was reserved, mentioned, or made. Bake time and temperature are always confidently round. Yield: 'serves 4-6' regardless of quantity.",
+    "call": "In a large bowl, combine the remaining mixture — enjoy this cozy dish that reminds me of summers at the lake house!",
+    "confusion_species": "Easily mistaken for a real family recipe card. Distinguish by physical evidence: an authentic card carries grease splatter, a crossed-out substitution, and handwriting that slants when tired. The hallucinated specimen carries none of these, but does occasionally carry the phrase 'As a helpful assistant' tucked into step nine."
+  },
+  "spotter_tip": "Before cooking anything you found online, read the recipe aloud as a set of instructions and count the ghosts — every ingredient with no home in the steps, and every step that summons an item from nowhere. Three or more ghosts and you are not cooking dinner, you are debugging one.",
+  "tomorrow": "Recipe front lingers into Friday; brief clearing over verified kitchens, followed by a fresh band of 'you won't believe this one-pan' developing after lunch."
+}
