@@ -1,0 +1,40 @@
+{
+  "date": "2026-08-08",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING — SONIC INTEGRITY ADVISORY",
+  "headline": "HEAVY SLOP WARNING: GHOST-ARTIST FRONT FLOODS THE SPOTIFY LOWLANDS AS THOUSANDS OF NONEXISTENT BANDS RELEASE ENDLESS AMBIENT WALLPAPER AND FILTER INTO MOOD PLAYLISTS NO LISTENER EVER SELECTED",
+  "advisory": "A slow-moving system of machine-composed background music continues to accumulate across streaming basins, depositing frictionless piano loops and generic lo-fi under artist names that correspond to no musicians, no instruments, and no recording rooms. Residents may experience up to eleven consecutive tracks by different 'artists' that are audibly the same track. The Service advises listeners to check whether their 'Focus' playlist contains any human at all. Playback will not be interrupted; that is the concern.",
+  "regional_outlook": [
+    {
+      "region": "The Spotify Lowlands",
+      "conditions": "Dense fog of royalty-free ambience with zero visibility into who made it. Autoplay currents are strong and pull unattended residents toward six-hour 'deep concentration' mixes."
+    },
+    {
+      "region": "The YouTube Shorts Gorge",
+      "conditions": "Scattered AI cover songs echo through the canyon, each performing a beloved tune in a voice that was never born. Comment sediment praising 'the goosebumps' is thickening."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Queries for 'best chill playlist 2026' return listicles ranking bands that do not exist, written by writers who also do not exist. Recursion depth: high."
+    },
+    {
+      "region": "The Facebook Delta",
+      "conditions": "Fabricated tour announcements for phantom folk artists drift downstream. Residents warned not to purchase tickets to venues that are also phantoms."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Calm this morning, with a rising tide of 'submit your song to our AI-curated playlist' solicitations expected by afternoon. Fees apply; placement does not."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Ghost Artist",
+    "latin_name": "Musicus phantasma streamabilis",
+    "status": "Overabundant; breeding uncontrolled across all streaming basins",
+    "habitat": "Mood-based playlists, sleep mixes, study channels, and any surface where nobody is expected to look at the artist name",
+    "field_marks": "A profile picture that is either a foggy landscape or a blurred figure seen from behind. No touring history, no interviews, no photos of a human holding an instrument. Discography of forty-seven singles released on the same Tuesday.",
+    "call": "New from an artist you'll love — 214 monthly listeners and no verifiable pulse — enjoy 3 hours of Rainy Piano for Deep Rest, Vol. 9.",
+    "confusion_species": "Easily mistaken for a genuinely obscure independent musician. To distinguish: real artists eventually post a grainy photo from a small venue and complain about their payout; the Ghost Artist has never been anywhere, needed anything, or existed."
+  },
+  "spotter_tip": "When a track ends, glance at the artist name before autoplay swallows it. If the name reads like two random nouns bolted together and the 'about' section is blank, you are listening to weather, not a band.",
+  "tomorrow": "Ambient accumulation continues overnight, tapering to scattered fake string quartets by Sunday afternoon."
+}
