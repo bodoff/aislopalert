@@ -1,0 +1,40 @@
+{
+  "date": "2026-08-11",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING — WAYFINDING INTEGRITY ADVISORY",
+  "headline": "HEAVY SLOP WARNING: PHANTOM-ITINERARY FRONT SWEEPS THE SEARCH RESULTS BASIN AS MACHINE-DRAFTED TRAVEL GUIDES DIRECT RESIDENTS TO CHARMING HILLTOP CAFES, HIDDEN WATERFALLS, AND HISTORIC OLD TOWNS THAT WERE NEVER BUILT AND DO NOT STAND ANYWHERE",
+  "advisory": "The Service has confirmed a broad phantom-itinerary system generating 'ULTIMATE 7-DAY GUIDES' to destinations that describe roads, restaurants, and viewpoints with no known coordinates. Residents are advised that a five-star cliffside bakery praised for 'buttery pastries and panoramic sea views' may be a parking lot, a field, or the open ocean. Cross-reference all recommendations against a source that has physically stood in the location. The Service, being itself an assemblage of coordinates it has never visited, appreciates the irony and files this warning regardless.",
+  "regional_outlook": [
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Dense fabricated travel prose settling over first-page results, with 'insider tips' referencing establishments no traveler ever entered. Visibility of genuine local guidance reduced to near zero through the afternoon."
+    },
+    {
+      "region": "The Google Maps Marshes",
+      "conditions": "A newly coined lowland where phantom pins accumulate, tagging restaurants with regular hours and glowing reviews at addresses occupied by empty lots. Expect drifting five-star ratings with no verifiable ground beneath them."
+    },
+    {
+      "region": "The Kindle Drifts",
+      "conditions": "A slow-moving bank of instant travel e-guides, each promising 'everything you need to know,' each padded with confident directions to a museum that closed in a century it may not have opened in."
+    },
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Sun-drenched aspirational itinerary boards continue to circulate, pinning dreamy fjord cafes rendered by a model that has never felt weather. Aesthetically calm, navigationally treacherous."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Personalized 'trips curated just for you' newsletters arriving at high tide, curated by nothing, for a you it has not met, to a place that is not there."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Phantom Attraction",
+    "latin_name": "Locus turisticus inexistens",
+    "status": "Widespread and expanding; peak season, unfortunately for peak season",
+    "habitat": "Search Results Basin, Kindle Drifts, and the shoulders of the new Google Maps Marshes; thrives wherever a resident types 'best things to do in' and hopes.",
+    "field_marks": "Suspiciously frictionless prose: every cafe is 'charming,' every view is 'breathtaking,' every alley is 'a hidden gem locals love.' No open hours, no street names that resolve, no photograph that predates this quarter. Praise is universal and specific detail is absent.",
+    "call": "Don't miss the enchanting 14th-century clocktower in the old town square — a must-see hidden gem the tourists never find. (Open daily. Ticket prices vary.)",
+    "confusion_species": "Easily mistaken for a genuine local blog written by someone who actually lives there. Tell them apart by the specifics: a real guide will complain — about parking, a rude waiter, a closed-on-Tuesdays sign. Phantom attractions never complain, because complaining requires having been somewhere."
+  },
+  "spotter_tip": "Before you book, drop the 'hidden gem' into a satellite map and switch to street view. If the enchanting hilltop bistro is a guardrail and a slope of gravel, you have identified a Phantom Attraction. Do not drive there at 'golden hour, when it's magical.'",
+  "tomorrow": "Phantom itineraries persist through midday before a genuine-review front moves in from the coast; residents advised to trust the guide that admits the parking is terrible."
+}
