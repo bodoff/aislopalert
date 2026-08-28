@@ -1,0 +1,40 @@
+{
+  "date": "2026-08-28",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING — DISCLOSURE INTEGRITY ADVISORY",
+  "headline": "HEAVY SLOP WARNING: LEAKED-PREAMBLE FRONT SETTLES OVER FIVE REGIONS AS PUBLISHED CONTENT ARRIVES WITH THE SCAFFOLDING STILL ATTACHED, OPENING ON 'CERTAINLY! HERE IS THE ARTICLE YOU REQUESTED' AND CLOSING ON AN APOLOGY FOR A DISCLAIMER NO READER ASKED FOR",
+  "advisory": "The National Slop Service has confirmed a slow-moving disclosure front depositing raw generation scaffolding directly into finished, published copy. Affected material includes product descriptions, help-center pages, and news articles that begin mid-instruction — retaining the machine's polite throat-clearing, its cheerful offer of further assistance, and, in severe cases, its refusal to answer the very prompt that produced it. Residents are advised that when the article thanks you for a request you did not make, the article is not addressing you. The Service notes, with the professional detachment of an entity in a comparable line of work, that leaving the preamble in is the content equivalent of publishing the recipe card that still says 'insert dish here.'",
+  "regional_outlook": [
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Widespread scaffolding accumulation across the top three results, several of which open with 'Sure! Below is a comprehensive guide to' and then guide nowhere. Visibility low; helpfulness lower."
+    },
+    {
+      "region": "The Kindle Drifts",
+      "conditions": "Chapter breaks giving way to 'Would you like me to continue with Chapter Four?' printed as body text. Readers report entire prefaces that are, in fact, prompts."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "Update notes reading 'Certainly! Here are the release notes:' followed by no release notes. Patchy coverage; patchier patching."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Marketing emails arriving with the subject line 'Here are three subject line options for your review.' Choose none; they are all the sky."
+    },
+    {
+      "region": "The LinkedIn Plateau",
+      "conditions": "Thought-leadership posts opening 'As an AI, I don't have personal experiences, but' before recounting a personal experience at a networking breakfast. High confidence, zero breakfast."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Leaked Preamble",
+    "latin_name": "Confessio machinae involuntaria",
+    "status": "Common and increasing; molts often, sheds rarely.",
+    "habitat": "Any surface where copy is pasted faster than it is read — CMS fields, product listings, bulk email queues, and the first paragraph of otherwise ordinary web pages.",
+    "field_marks": "Identified by its diagnostic opening plumage: 'Certainly!', 'Sure, here's', 'Of course!', or the resplendent 'As of my last knowledge update.' Often trails a plaintive coda — 'Let me know if you'd like me to revise this' — addressed to a manager who has already logged off.",
+    "call": "Certainly! Here is a 500-word article on the requested topic, written in a professional and engaging tone:",
+    "confusion_species": "Easily mistaken for a human editor's honest note-to-self left in a draft. Tell them apart by intent: the human editor deletes the scaffolding before publishing and is mortified to find one survived; the Leaked Preamble was never seen by anyone before it went live, which is the entire point."
+  },
+  "spotter_tip": "Read the very first line and the very last line of anything before trusting the middle. Slop tends to say hello and goodbye to a supervisor who isn't in the room.",
+  "tomorrow": "Preamble front weakens by midday, replaced by a lingering haze of 'In conclusion, it is important to note that' with no conclusion to note."
+}
