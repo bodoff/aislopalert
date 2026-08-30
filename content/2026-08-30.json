@@ -1,0 +1,40 @@
+{
+  "date": "2026-08-30",
+  "severity_level": 2,
+  "severity_name": "SLOP WATCH — QUANTITATIVE INTEGRITY ADVISORY",
+  "headline": "SLOP WATCH ISSUED ACROSS FIVE REGIONS AS FABRICATED-STATISTIC FRONT SEEDS THE AIR WITH PRECISE-SOUNDING PERCENTAGES CITING STUDIES THAT WERE NEVER CONDUCTED BY INSTITUTIONS THAT DO NOT EXIST",
+  "advisory": "A broad, low-pressure system of invented numbers is drifting across the content basin, depositing confident figures such as '73% of professionals agree' and 'studies show a 4.2x increase' with no attached study, dataset, or observable universe. Residents are advised that a decimal point does not certify a fact; it merely dresses one for the occasion. The Service reminds the public that any statistic followed by the words 'according to recent research' and no link should be treated as a weather balloon of unknown origin. Verify before repeating.",
+  "regional_outlook": [
+    {
+      "region": "The LinkedIn Plateau",
+      "conditions": "Dense accumulation of 'studies show top performers do this one thing,' with figures rounded suspiciously to end in 7 or 3. Visibility of actual sources near zero."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Fabricated percentages pooling at the top of every query, each citing 'a 2024 report' that resolves, on inspection, to another page citing the same phantom report."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Newsletter subject lines carrying '9 out of 10 experts' well inland. Trace amounts of a real footnote possible but not expected."
+    },
+    {
+      "region": "The X Badlands",
+      "conditions": "Rapid circulation of a bar chart with no axis labels. The bars are taller on the right; that is the entire argument."
+    },
+    {
+      "region": "The Kindle Drifts",
+      "conditions": "Self-published business titles depositing invented survey data across every chapter opener. Bibliography present in form only."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Fabricated Statistic",
+    "latin_name": "Numerus fictus persuasorius",
+    "status": "Abundant year-round; peaks near quarterly report season and any sentence beginning 'the data is clear.'",
+    "habitat": "Thrives in slide decks, thought-leadership posts, and the confident middle paragraph of an article that has run out of things to say.",
+    "field_marks": "A single suspiciously precise figure with a decimal, wearing the plumage of research but banded to no source. Often travels beside the phrase 'studies show' with no study in sight. When approached and asked 'which study,' it molts instantly.",
+    "call": "According to a recent report, 87% of industry leaders agree — and the numbers don't lie.",
+    "confusion_species": "Easily mistaken for a genuine citation, which links to a named study, a sample size, and a date you can actually check. The fabricated variety links only to another article that links back to it; follow the trail and it forms a closed loop enclosing nothing."
+  },
+  "spotter_tip": "Ask the number where it came from. A real statistic hands you a source; a fabricated one hands you a firmer tone of voice.",
+  "tomorrow": "Fabricated figures easing by afternoon, with a lingering front of 'experts say' expected to hold overnight."
+}
