@@ -1,0 +1,45 @@
+{
+  "date": "2026-08-31",
+  "severity_level": 2,
+  "severity_name": "SLOP WATCH — COMMUNITY RESPONSE ADVISORY",
+  "headline": "SLOP WATCH ISSUED ACROSS FIVE REGIONS AS RESIDENTS DISCOVER THE REPORT BUTTON AND BEGIN PRESSING IT WITH THE STEADY, RHYTHMIC DETERMINATION OF PEOPLE WHO HAVE READ ONE TOO MANY PARABLES ABOUT A JANITOR",
+  "advisory": "The Service is monitoring an encouraging but volatile atmospheric shift: for the first time, affected residents have been issued flagging instruments and are using them. Field data indicates the population has begun reporting low-quality synthetic content at industrial cadence, generating a warm updraft of hope tempered by the fact that the slop keeps arriving anyway. Conditions remain elevated across the professional-networking corridor. Residents are advised that pressing the button is legal, cathartic, and, for the moment, the closest thing we have to weather control.",
+  "regional_outlook": [
+    {
+      "region": "The LinkedIn Plateau",
+      "conditions": "Dense midday broetry fog with a steady drizzle of parables in which a stranger delivers a life-altering business lesson in under forty words. A cold front of reporting activity is pushing back from the east, but visibility remains poor beneath the hashtags."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Persistent seepage of 'quick thoughts' newsletters that were quick for the sender and slow for everyone else. Expect scattered 'per my last email' with a chance of an unsubscribe link that leads nowhere."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Standing pools of auto-generated career advice recommending residents 'leverage their synergies.' Ground remains too saturated to support an actual answer."
+    },
+    {
+      "region": "The X Badlands",
+      "conditions": "Gusty engagement-bait winds carrying reply-guy sediment. Intermittent bursts of 'this,' 'so much this,' and 'saving this' with no evidence of saving."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "Wall-to-wall haze of near-identical productivity apps promising to summarize the slop you are currently generating. Duplicate listings drifting in loose formation."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Thought-Leader Parable",
+    "latin_name": "Fabula ductoris cogitationis",
+    "status": "Overabundant; considered the plateau's dominant grazing species.",
+    "habitat": "The LinkedIn Plateau, particularly the exposed morning-scroll ridgelines where professional aspiration meets an empty content quota.",
+    "field_marks": "Opens with a single dramatic line on its own paragraph. Features an unnamed humble figure — a barista, a janitor, a nine-year-old — who dispenses profound business wisdom before vanishing. Ends with 'Agree?' and a request to repost. Line breaks so frequent the post appears to be falling down a staircase.",
+    "call": "A stranger at the airport taught me more about leadership than any MBA. Here's what happened next. (1/9)",
+    "confusion_species": "Easily mistaken for a genuine anecdote from a real professional. Tell them apart by the details: real stories contain a specific city, an awkward pause, and no moral tidy enough to fit on a mug. The parable contains only the mug."
+  },
+  "spotter_tip": "If a post claims a child said something no child has ever said, and the post ends by asking whether you agree, you are not reading a memory — you are reading a call to action wearing a cardigan.",
+  "tomorrow": "Continued reporting activity with a chance of the button working; slop levels holding steady, expectations managed.",
+  "confirmed_sighting": {
+    "report": "Field agents confirm that residents of the LinkedIn Plateau pressed the platform's new 'AI slop' reporting button more than one million times within three weeks — the largest voluntary flagging event the Service has logged, and the first sign the population has been handed instruments of its own.",
+    "source_name": "The Register",
+    "source_url": "https://www.theregister.com/ai-and-ml/2026/08/24/users_mash_linkedins_ai_slop/"
+  }
+}
