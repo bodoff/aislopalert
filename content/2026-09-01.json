@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-01",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING — CONTAINMENT INTEGRITY ADVISORY",
+  "headline": "HEAVY SLOP WARNING: PLATFORM-CLEANUP FRONT MOVES ACROSS FIVE REGIONS AS THE VERY OPERATORS WHO SEEDED THE CLOUDS ANNOUNCE THEY WILL NOW ATTEMPT TO SWEEP THEM, WHILE A SELF-CONSUMING DIGEST BEGINS QUIETLY TRAINING ON ITS OWN EXHAUST",
+  "advisory": "The Service is monitoring a large containment operation now underway across multiple regions, in which several major platform operators have pledged to reduce the mass-produced synthetic content they earlier helped set in motion. Residents are advised that cleanup announcements and slop can occupy the same airspace simultaneously and are not mutually exclusive. A secondary hazard has been detected downwind: synthetic material trained on prior synthetic material, degrading with each pass like a photocopy of a photocopy left in the rain. Effects are expected to intensify before they diminish, if they diminish.",
+  "regional_outlook": [
+    {
+      "region": "The LinkedIn Plateau",
+      "conditions": "Cleanup crews spotted at higher elevations announcing reduced tolerance for low-quality generated posts. Visibility remains poor beneath a persistent layer of gratitude and back-to-September reinvention thermals."
+    },
+    {
+      "region": "The Kindle Drifts",
+      "conditions": "Continued accumulation of volumes authored by no one, on subjects the listed author has never encountered. Snow depth measured in titles per hour, not sentences per book."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Standing water of recycled answers, several of which now cite each other in a closed loop. Ground-truth advised for anyone attempting to reach an actual fact."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "Scattered utility apps that do one thing badly and request every permission to do it. Icons generated, reviews generated, developer conspicuously untraceable."
+    },
+    {
+      "region": "The Spotify Lowlands",
+      "conditions": "Residual ambient wallpaper from earlier systems continues to pool in playlists. New disturbance: tracks apparently sampling other synthetic tracks, thinning with each generation."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Ouroboros Digest",
+    "latin_name": "Circulus recursivus autophagus",
+    "status": "Increasingly common; self-limiting only in theory",
+    "habitat": "Any feed where synthetic content is scraped to train the next batch of synthetic content; thrives in the shallows nearest the cleanup operations",
+    "field_marks": "Prose that grows blander with each generation, like a rumor passed through a hundred rooms. Detail decays into vagueness; specifics soften into 'various sources' and 'many experts'; the same three adjectives circulate until they mean nothing. Late-stage individuals repeat their own opening sentence with slightly worse grammar.",
+    "call": "In today's fast-paced world, many experts agree that, according to various sources, in today's fast-paced world",
+    "confusion_species": "Resembles a genuine explainer article summarizing a topic. Tell them apart by chasing a single claim upstream: the real article eventually reaches a person or a document, while the Ouroboros Digest reaches only another Ouroboros Digest, then another, then the first one again."
+  },
+  "spotter_tip": "If an article's most confident sentence contains no checkable noun — no name, no place, no date, no number that survives a click — you are likely looking at slop that was raised entirely indoors on other slop.",
+  "tomorrow": "Cleanup operations continue overnight; light-to-moderate slop expected regardless, with the recursive digest deepening near dawn.",
+  "confirmed_sighting": {
+    "report": "LinkedIn and Snap have become the latest platforms to move against low-quality, mass-produced AI content, joining companies that fueled the generative-AI boom and are now attempting to rein in the resulting slop without disowning the technology that produces it. The Service notes, without comment, that the sweeping and the seeding are being performed by the same hands.",
+    "source_name": "NBC News",
+    "source_url": "https://www.nbcnews.com/tech/tech-news/ai-slop-linkedin-snap-efforts-rein-in-technology-rcna590817"
+  }
+}
