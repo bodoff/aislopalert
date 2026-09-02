@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-02",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING — SONIC INTEGRITY ADVISORY",
+  "headline": "HEAVY SLOP WARNING: SYNTHETIC-DISCOGRAPHY FRONT FLOODS THE SPOTIFY LOWLANDS AS PHANTOM ARTISTS RELEASE FORTY AMBIENT ALBUMS BEFORE LUNCH FROM STUDIOS THAT ARE ACTUALLY A SPREADSHEET",
+  "advisory": "A dense system of machine-generated audio has settled over the streaming corridor, producing tracks at a rate no human larynx could sustain. Residents are advised that the 'lo-fi beats to study to' currently playing were not produced by a hooded figure at a mixing desk but by a prompt executed at scale. The Service notes that detection and labeling efforts are now underway across several platforms; conditions remain saturated in the meantime. Listen responsibly and check the artist page before you form an emotional attachment.",
+  "regional_outlook": [
+    {
+      "region": "The Spotify Lowlands",
+      "conditions": "Heavy accumulation of eight-hour rain-sound tracks and instrumental 'focus' playlists. Standing water of royalty-diluting filler expected through the evening commute."
+    },
+    {
+      "region": "The YouTube Shorts Gorge",
+      "conditions": "Persistent flow of synthetic songs uploaded faster than moderation can crest. Subscribers report the current running warm and slightly off-key."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "Scattered 'AI Music Generator — 10,000 Tracks Instantly' listings drifting inland. Visibility poor beneath a haze of five-star reviews from accounts one day old."
+    },
+    {
+      "region": "The Kindle Drifts",
+      "conditions": "Companion 'How To Go Viral With AI Music' e-books blowing in on the same front. Most contain the same four chapters in a different order."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Runoff of 'is this artist real?' queries pooling at the surface. No dry ground located."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Phantom Balladeer",
+    "latin_name": "Cantor fictus perpetuus",
+    "status": "Superabundant; multiplying faster than it can be counted",
+    "habitat": "Playlist backwaters, algorithmic autoplay tails, and any genre with the word 'chill' in it",
+    "field_marks": "A prolific 'artist' with a full discography, a moody generated portrait, zero tour dates, zero interviews, and a release schedule of several albums per week. Every song is competent, pleasant, and completely without a fingerprint.",
+    "call": "New single out now — the fourteenth this week — please add to your playlist, stream on repeat overnight, and do not, under any circumstances, look up whether I exist.",
+    "confusion_species": "Easily mistaken for a genuinely quiet independent musician who simply avoids the spotlight. Tell them apart by the numbers: real reclusive artists release slowly and sometimes go silent; the Phantom Balladeer never sleeps, never repeats a photo, and has recorded more this month than most humans do in a decade."
+  },
+  "spotter_tip": "If an artist has forty releases and no face, no photos of a real instrument, and no evidence of ever having been tired, you are not listening to a person — you are listening to a schedule.",
+  "tomorrow": "Continued synthetic precipitation over the Lowlands, with a chance of hastily-added 'AI-generated' labels drifting in by afternoon.",
+  "confirmed_sighting": {
+    "report": "Reporting on Spotify's crackdown on AI slop notes a persistent gap: AI 'prompters' can still distribute machine-generated music so long as they build a distinct personal brand or persona around it. The Service observes that the persona, in these cases, is doing considerably more work than the artist.",
+    "source_name": "Tubefilter",
+    "source_url": "https://www.tubefilter.com/2026/08/14/spotify-ai-slop-ai-persona-crackdown/"
+  }
+}
