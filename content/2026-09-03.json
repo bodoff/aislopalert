@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-03",
+  "severity_level": 4,
+  "severity_name": "SEVERE SLOP WARNING — FOREIGN INTERFERENCE ADVISORY",
+  "headline": "SEVERE SLOP WARNING: STATE-SPONSORED SLOP FRONT DRIFTS ACROSS FIVE REGIONS AS INDUSTRIAL PROPAGANDA OPERATIONS ABANDON CRAFTSMANSHIP ENTIRELY AND SWITCH TO THE CHEAP STUFF, DEPLOYING BORROWED CELEBRITY FACES AND OFF-BRAND NEWSROOMS AT VOLUMES NO HUMAN PAYROLL COULD SUSTAIN",
+  "advisory": "The Service is tracking a persistent high-volume system in which large influence operations have quietly downgraded from bespoke disinformation to bulk-generated slop, prioritizing quantity over plausibility. Residents are advised that a video is not a document, a face is not a source, and a confident anchor voice is not a newsroom. When in doubt, verify laterally: open a second, unrelated source before you open your wallet, your outrage, or your repost button. This is a mass-produced weather system operating on the same economics as everything else in the forecast — it is simply cheaper now to be wrong at scale.",
+  "regional_outlook": [
+    {
+      "region": "The X Badlands",
+      "conditions": "Gale-force reposting as generated clips of borrowed celebrity faces circulate faster than corrections. Visibility poor; source-of-source concealed behind a wall of quote-tweets."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Fog of near-identical 'independent news' pages, each citing the others in a closed loop. Ground truth reported somewhere beneath page four."
+    },
+    {
+      "region": "The Facebook Delta",
+      "conditions": "Steady inflow of dramatic minute-long video systems, newly capable of sustaining a false scene without collapsing into melted geometry. Residents advised to check timestamps against reality."
+    },
+    {
+      "region": "The YouTube Shorts Gorge",
+      "conditions": "Rapid updrafts of synthetic breaking-news montages set to urgent orchestral swells. Ambient credibility artificially inflated by lower-thirds that mean nothing."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Rising tide of urgent forwards begging you to 'watch before it gets deleted.' Nothing is being deleted; everything is being generated."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Off-Brand Newsroom",
+    "latin_name": "Nuntius fictus propagandisticus",
+    "status": "Invasive; state-subsidized; multiplying faster than it can be catalogued",
+    "habitat": "Freshly registered domains with authoritative-sounding names, cross-posted into the X Badlands and the Search Results Basin",
+    "field_marks": "A confident masthead in a font that whispers 'trust me,' a masthead-anchor who never blinks in a way that reads correctly, and a story that appears nowhere a real newsroom would have run it. Bylines are plausible; the humans behind them are not.",
+    "call": "BREAKING: sources confirm what you already suspected, share before they take this down",
+    "confusion_species": "Easily mistaken for an actual small local news outlet. Distinguishing feature: a real newsroom has a phone number that a real person answers, a correction it once had to issue, and a staff that ages. This one was born fully grown at 9 a.m. and will be gone by Friday."
+  },
+  "spotter_tip": "If a shocking clip features a face you recognize saying something no one else on earth is reporting, treat the face as a costume, not a witness. Real events tend to leave more than one footprint.",
+  "tomorrow": "Front lingers; expect scattered debunkings arriving several news cycles after the damage, as usual.",
+  "confirmed_sighting": {
+    "report": "Researchers at Graphika report that many of the largest state-sponsored online propaganda campaigns have adopted low-quality AI-generated content, including a pro-Russia deepfake video featuring an AI version of a Hollywood actor. The Service notes, without surprise, that even influence operations have discovered it is cheaper to generate the slop than to make it well.",
+    "source_name": "NBC News",
+    "source_url": "https://www.nbcnews.com/tech/security/online-propaganda-campaigns-are-using-ai-slop-researchers-say-rcna244618"
+  }
+}
