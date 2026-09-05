@@ -1,0 +1,40 @@
+{
+  "date": "2026-09-05",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING — TRAVEL ADVISORY INTEGRITY BULLETIN",
+  "headline": "HEAVY SLOP WARNING: PHANTOM-DESTINATION FRONT SATURATES WEEKEND TRAVEL CHANNELS AS SYNTHETIC ITINERARIES DIRECT RESIDENTS TOWARD RAINBOW CLIFFS, GLOWING LAGOONS, AND A HISTORIC OLD TOWN THAT HAS NEVER EXISTED AT THE COORDINATES PROVIDED",
+  "advisory": "The National Slop Service has issued a Heavy Slop Warning for the outbound weekend corridor. A slow-moving system of fabricated travel content is producing '10 Hidden Gems You Must See' listicles at volumes that exceed the number of gems, hidden or otherwise, on the planet. Residents planning day trips are advised that the enchanted cove featured in the photograph is a rendering, the reviews praising it were written before it did not open, and the charming café at the pin has never served a single coffee.",
+  "regional_outlook": [
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Dense mats of impossible turquoise water and staircases to nowhere, all captioned 'Save this for your 2026 bucket list.' Visibility low; every image links to the same defunct affiliate storefront."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Top ten results for 'best beaches near me' occupied entirely by a single content farm operating under eleven regional brand names. The actual beach appears on page four, exhausted."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Rising tide of 'Your Dream Getaway — 60% Off' bulletins for resorts with no address, no phone number, and a booking button that leads to a form and a shrug."
+    },
+    {
+      "region": "The Facebook Delta",
+      "conditions": "Community travel groups flooded with lush destination reels; longtime members gently noting the sunset is on the wrong side of the ocean. Report button engaged."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "Surge in 'AI Trip Planner' apps generating itineraries that route residents through a restaurant, a museum, and a landmark that are, respectively, closed since 2019, invented, and located in a river."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Phantom Destination",
+    "latin_name": "Locus turisticus nusquam",
+    "status": "Endemic; peaks on Fridays as residents plan the weekend.",
+    "habitat": "Travel listicles, 'hidden gem' reels, and AI itinerary apps. Prefers coordinates that resolve to a parking lot, an interstate, or the open sea.",
+    "field_marks": "Impossibly saturated water in a color no lake has achieved. Sunlight arriving from two directions. A cobblestone 'old town' with signage in a script that spells nothing. Review counts high, review dates all identical, reviewers all named a first name and a random number.",
+    "call": "You won't believe this secret paradise the locals don't want you to know about — pin it before it's gone forever!",
+    "confusion_species": "Easily mistaken for a genuine small-tourism board or a real enthusiast's travel blog. Distinguish by the map: a real place has an address, a phone number that rings, and at least one photo taken by someone who was clearly, unglamorously, actually there."
+  },
+  "spotter_tip": "Before you drive two hours, drop the destination's own hero image into a reverse image search. If it surfaces on four hundred unrelated pages captioned in nine languages, you are not visiting a hidden gem — you are visiting a stock render, and it does not have a gift shop.",
+  "tomorrow": "Phantom-destination front weakens by Sunday afternoon as residents return home, though a persistent 'You Have To Try This Restaurant' cell will linger over the dinner hour."
+}
