@@ -1,0 +1,40 @@
+{
+  "date": "2026-09-08",
+  "severity_level": 2,
+  "severity_name": "SLOP WATCH — CULINARY INTEGRITY ADVISORY",
+  "headline": "SLOP WATCH ISSUED ACROSS FIVE REGIONS AS PHANTOM-RECIPE FRONT DEPOSITS UNCOOKABLE DINNERS INTO SEARCH RESULTS, INSTRUCTING RESIDENTS TO BAKE AT TEMPERATURES NO DOMESTIC OVEN CAN REACH FOR A CASSEROLE WHOSE KEY INGREDIENT APPEARS ONLY IN STEP FOUR",
+  "advisory": "A slow-moving band of synthetic recipe content has settled over the nation's search results and pinboards, generating dinner instructions that are grammatically flawless and structurally inedible. Residents are advised that a recipe preceded by nineteen paragraphs about a grandmother who does not exist, followed by an ingredient list that omits the ingredient the method later demands, is unlikely to yield food. The Service reminds the public that 'preheat to 875°F' and 'simmer for negative twenty minutes' are not aspirational figures but symptoms. When in doubt, do not eat the search result.",
+  "regional_outlook": [
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Zero visibility for the first six results, all of which recommend the same casserole under seven different domain names. Skies do not clear until page two, which no one has visited since 2019."
+    },
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Dense drifts of gorgeous, impossible plating. Photographed dishes bear no relationship to the linked instructions, which describe a completely different, sadder food."
+    },
+    {
+      "region": "The Facebook Delta",
+      "conditions": "Warm currents of 'my family BEGGED me to share this' carrying recipes no family has tested. Comment section reports thickening despite no one having actually made it."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Newsletter fronts pushing '30 Cozy Fall Dinners,' twenty-nine of which instruct residents to fold egg whites into a slow cooker. Unsubscribe visibility remains poor."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "Recipe apps blooming at a rate of forty per hour, each promising 'AI meal planning' while quietly assembling menus from the same three hallucinated cookbooks."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Phantom Casserole",
+    "latin_name": "Culina ficta incomestibilis",
+    "status": "Overabundant; peaks sharply on weeknights around 5 p.m.",
+    "habitat": "Top of the Search Results Basin and the reshared shallows of the Facebook Delta, wherever a hungry resident types 'easy dinner.'",
+    "field_marks": "Opens with an untraceable heartfelt anecdote of 800+ words. Ingredient list and method disagree about at least one central item. Cook times and temperatures fall outside the operating range of any physical appliance. Yields '4–6 servings' of something that cannot exist.",
+    "call": "This one-pan wonder has been in our family for generations — simply combine the ingredients above and bake until golden, then stir in the two cups of ricotta (not listed above) and serve immediately over the rice you were never told to make.",
+    "confusion_species": "Easily mistaken for a genuine home cook's blog, which also has a long preamble. Tell them apart by the comments: real recipes accumulate specific complaints about the salt; phantom casseroles accumulate only 'Can't wait to try this!' from accounts that have never tried anything."
+  },
+  "spotter_tip": "Before cooking, read the recipe backward from the last step. If an ingredient materializes in the method that was never introduced in the list — the way a stranger appears in the second act with no explanation — you are looking at a Phantom Casserole. Order the pizza.",
+  "tomorrow": "Recipe front weakens by midday; expect scattered fabricated craft tutorials moving in from the Pinterest Shallows, with a chance of glue in the frosting."
+}
