@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-09",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING — RECOMMENDATION SATURATION ADVISORY",
+  "headline": "HEAVY SLOP WARNING: ALGORITHMIC-RECOMMENDATION FRONT THICKENS ACROSS FIVE REGIONS AS ROUGHLY ONE IN THREE SURFACED CLIPS IS NOW SYNTHETIC RUNOFF, WITH THE FEED QUIETLY LEARNING TO SERVE MORE OF WHAT IT ITSELF PRODUCED",
+  "advisory": "The Service is tracking a persistent low-pressure system in which the recommendation column no longer distinguishes between content and residue. Residents are advised that the 'Up Next' rail is currently operating as a storm drain rather than a curated stream. Automated systems continue to recommend the very material they were built to demote, a condition our meteorologists classify as 'circular weather.' Autoplay is not advised without supervision.",
+  "regional_outlook": [
+    {
+      "region": "The YouTube Shorts Gorge",
+      "conditions": "Dense vertical fog with synthetic runoff comprising an estimated one-third of downstream flow. Visibility reduced to a swirling loop of narrated stock footage; expect the same clip to arrive from four unrelated channels."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Standing water where the first page used to be. Groundwater tests positive for auto-generated summaries answering questions no resident asked."
+    },
+    {
+      "region": "The Facebook Delta",
+      "conditions": "Warm sentimental air mass carrying miracle-rescue debris. Elder residents advised that the crying puppy is not real and does not require donations."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Scattered 'You may have missed' drizzle intensifying overnight. Digest currents recirculating material residents actively swam away from."
+    },
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Glossy surface haze over unbuildable craft projects. Boards saturated with rooms that cannot exist and shelving that supports nothing."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Miracle Rescue Clip",
+    "latin_name": "Servator fictus lacrimosus",
+    "status": "Invasive; thriving in warm sentimental currents",
+    "habitat": "Autoplay rails, elder-facing feeds, and any comment section containing the phrase 'so brave'",
+    "field_marks": "A small trembling animal in improbable peril, a hero arriving with cinematic timing, and a rescue that resolves in exactly the runtime required for engagement. Water reflects incorrectly; the animal's leg count fluctuates between frames.",
+    "call": "Nobody helped this poor creature — until ONE kind stranger saw what others ignored. Watch till the end. 🐾❤️",
+    "confusion_species": "Genuine animal-rescue footage, which is slower, less symmetrical, and does not resolve on the beat. Real rescuers rarely film themselves in three simultaneous camera angles, and real puppies do not shimmer at the edges."
+  },
+  "spotter_tip": "If a rescue video makes you feel exactly the intended emotion at exactly the scheduled second, count the paws. Slop cannot keep a limb budget.",
+  "tomorrow": "Recirculation continues; expect the feed to recommend today's slop back to you as if it were news.",
+  "confirmed_sighting": {
+    "report": "A study found that AI-generated 'slop' videos make up roughly a third of clips surfaced by YouTube's algorithmic recommendations, indicating synthetic low-quality content is saturating a major platform's feed.",
+    "source_name": "MediaNama",
+    "source_url": "https://www.medianama.com/2025/12/223-ai-slop-videos-youtube-algorithmic-recommendations/"
+  }
+}
