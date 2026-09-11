@@ -1,0 +1,40 @@
+{
+  "date": "2026-09-11",
+  "severity_level": 4,
+  "severity_name": "SEVERE SLOP WARNING — CITATION INTEGRITY ADVISORY",
+  "headline": "SEVERE SLOP WARNING: PHANTOM-CITATION FRONT SPREADS ACROSS FIVE REGIONS AS SYNTHETIC BRIEFS, WHITEPAPERS, AND SCHOOL REPORTS CITE COURT CASES, STUDIES, AND EXPERTS THAT DO NOT EXIST, EACH FOOTNOTE FORMATTED FLAWLESSLY AND POINTING NOWHERE",
+  "advisory": "A well-organized system of fabricated references has moved inland and is now settling into documents residents are expected to trust. Affected material is characterized by impeccable formatting, confident page numbers, and authorities that dissolve upon a single search. The Service reminds residents that a citation is not a fact; it is a promise, and this front is issuing promises it cannot keep. All footnotes should be considered unverified until independently observed in the wild.",
+  "regional_outlook": [
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Heavy accumulation of authoritative-sounding statistics attributed to institutes that have never published. Expect a persistent haze of '73% of experts agree,' source unrecoverable."
+    },
+    {
+      "region": "The LinkedIn Plateau",
+      "conditions": "Scattered whitepapers drifting through professional airspace, each anchored to a 'landmark 2021 study' that resolves to a dead link and a broken confidence. Thought-leadership advisory in effect through the weekend."
+    },
+    {
+      "region": "The Kindle Drifts",
+      "conditions": "Self-published nonfiction depositing bibliographies of forty sources, roughly six of which occurred. Visibility for actual scholarship reduced to near zero."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Newsletter runoff carrying quote attributions to historical figures who never said them, elegantly em-dashed. Residents advised not to forward until the water clears."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "A homework-helper front lifting from the region, leaving behind term papers footnoted to a journal that is itself a hallucination. Ground remains soft and unciteable."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Phantom Precedent",
+    "latin_name": "Citatio ficta juridica",
+    "status": "Widespread and multiplying; now nesting in professional habitats once thought secure.",
+    "habitat": "Legal briefs, academic footnotes, corporate whitepapers, and any document whose author needed authority faster than authority could be located.",
+    "field_marks": "Flawless formatting — volume, page, year, all present and confident. Case names ring plausible; the plaintiff sues the defendant over a matter no court has heard. Survives casual reading and collapses instantly under a search engine.",
+    "call": "As firmly established in Harrow v. Meridian Freight Holdings, 447 F.3d 1129 (9th Cir. 2019), the burden shifts to the party who cannot locate the volume.",
+    "confusion_species": "Easily mistaken for a genuine Bluebook citation or a real bibliography, which it resembles in every respect but existence. To distinguish: look it up. The genuine article returns a record; the Phantom Precedent returns a shrug, a 404, and a faint smell of ozone."
+  },
+  "spotter_tip": "If a source is quoted with a precise page number but the document itself cannot be found anywhere on Earth, you are not looking at rigor — you are looking at a very tidy hole. Confirm the load-bearing footnote before you stand on it.",
+  "tomorrow": "Citation haze lingers overnight; expect patchy fact-checking with a chance of one source, somewhere, actually holding."
+}
