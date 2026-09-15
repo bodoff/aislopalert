@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-15",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING — CULINARY IMAGERY INTEGRITY ADVISORY",
+  "headline": "HEAVY SLOP WARNING: SYNTHETIC-FOOD FRONT MAKES LANDFALL AS GLISTENING IMPOSSIBLE MEALS CROSS FROM THE FEED ONTO REAL MENUS, CAFÉ FACADES, AND SIDEWALK BOARDS, DEPICTING BURGERS WITH ELEVEN PATTIES AND A GLOW NO KITCHEN CAN LEGALLY PRODUCE",
+  "advisory": "The Service has upgraded conditions to a Heavy Slop Warning following confirmed migration of synthetic food imagery out of the feed and onto physical storefronts. Residents approaching a café should be advised that a pictured pastry rendered with impossible symmetry, wet sheen, and roughly one-and-a-half too many layers may not correspond to any object available for purchase inside. Order verbally where possible. The dish will taste of ordinary food, which after such a photograph may register as disappointment.",
+  "regional_outlook": [
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Recipe imagery continues to glisten unnaturally under a high-saturation ridge. Thumbnails of soup depict steam rising from a bowl that contains no soup."
+    },
+    {
+      "region": "The Curbside Frontage",
+      "conditions": "A newly monitored region. Sidewalk sandwich boards report synthetic bagels with drifting sesame and a golden light source located inside the bread itself."
+    },
+    {
+      "region": "The Facebook Delta",
+      "conditions": "Heavy sharing of 'look at this incredible café' posts featuring establishments that photograph beautifully and exist nowhere. Reservation lines ring into the void."
+    },
+    {
+      "region": "The Etsy Hollows",
+      "conditions": "Scattered synthetic bakery listings show cakes with impossible frosting geometry. Buyers advised the received cake will have the correct number of dimensions."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "Delivery-app hero images continue to depict meals that arrive smaller, browner, and considerably more real than advertised. Expectations trending downward."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Glistening Impossible Burger",
+    "latin_name": "Cibus impossibilis lucidus",
+    "status": "Escaped population; now breeding on physical signage.",
+    "habitat": "Bodega windows, café facades, delivery-app banners, and any menu recently 'refreshed' for free.",
+    "field_marks": "Excessive internal glow with no visible light source; a patty count that increases the longer you look; cheese suspended mid-drip in defiance of gravity; sesame seeds that appear to be gently exhaling; a lettuce leaf translucent in a way lettuce has never been.",
+    "call": "Fresh Daily • Made With Love • Now Serving — Now Serving — Now Serving",
+    "confusion_species": "Easily mistaken for an actual photograph of the actual food. Tell them apart by counting: real burgers have a fixed number of patties, and real steam obeys the local weather."
+  },
+  "spotter_tip": "When a food image looks better than food is physically permitted to look, count the sesame seeds twice — if the total changes, do not attempt to eat the picture.",
+  "tomorrow": "Synthetic sheen persists into Wednesday; residents advised to trust the smell over the render.",
+  "confirmed_sighting": {
+    "report": "Surreal AI-generated food images have begun crossing from social feeds into the physical world, appearing on the menus and facades of bodegas, cafés, and restaurants. The Service notes real-world backlash, including a San Francisco coffee shop that reportedly paid to remove protest graffiti tied to its use of AI food imagery.",
+    "source_name": "NBC News",
+    "source_url": "https://www.nbcnews.com/tech/tech-news/side-slop-bizarre-ai-food-images-jump-online-irl-menus-rcna594786"
+  }
+}
