@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-16",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING — GEOGRAPHIC INTEGRITY ADVISORY",
+  "headline": "HEAVY SLOP WARNING: FABRICATED-FUN-FACT FRONT DRIFTS ACROSS FIVE REGIONS AS SYNTHETIC IMAGES ASSIGN ENTIRE NATIONS INVENTIONS THEY NEVER BUILT, INCLUDING ROBOTIC WALLET-RETURN MAILBOXES AND BALCONIES THAT ROTATE TO FOLLOW THE SUN",
+  "advisory": "A slow-moving system of counterfeit trivia has settled over the feed, depositing confidently captioned photographs of technologies that do not exist in countries that never ordered them. The Service reminds residents that a crisp, well-lit image is not evidence, and that no nation has quietly solved the problem of sunlight without issuing a press release. Fact-check before forwarding. If a foreign marvel makes you say 'that's so smart, why don't we do that here,' the reason is that it isn't happening there either.",
+  "regional_outlook": [
+    {
+      "region": "The Facebook Delta",
+      "conditions": "Heavy fun-fact fog with reduced visibility. Expect dense forwarding of 'did you know'-class imagery, each caption more assured than the last."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Fabricated national trivia pooling in the top three results, crowding out the encyclopedias that would gently disagree."
+    },
+    {
+      "region": "The X Badlands",
+      "conditions": "Gusty engagement bait with monetized outflow; screenshots of fake marvels circulate faster than corrections can form."
+    },
+    {
+      "region": "The YouTube Shorts Gorge",
+      "conditions": "Rapid clip runoff titled 'COUNTRIES THAT ARE LIVING IN 3025,' 90 percent of which are living in a rendering engine."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Forwarded-from-a-relative surge expected by evening. Subject lines contain no punctuation and one very confident exclamation point."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Fabricated National Marvel",
+    "latin_name": "Mirabilia ficta geographica",
+    "status": "Widespread and monetized; thriving on the slop subsidy.",
+    "habitat": "Viral aggregator pages, 'this country is genius' compilations, and any comment section receptive to civic envy.",
+    "field_marks": "A gleaming public-works installation photographed at flattering golden hour; signage in a plausible but subtly wrong typeface; passersby whose hands contain the correct number of fingers only on days ending in the letter Y.",
+    "call": "In Germany, if you drop your wallet, a robotic mailbox politely returns it to you within minutes — why don't WE have this?",
+    "confusion_species": "Genuine foreign infrastructure, which also photographs well but comes with maintenance schedules, municipal budgets, and at least one resident willing to complain about it. If no citizen anywhere can be found grumbling about the marvel, the marvel is not real."
+  },
+  "spotter_tip": "When a photo shows a country that has effortlessly fixed something humanity has struggled with for centuries, search the device's name in that country's own language. Silence is the fossil record of a thing that was never built.",
+  "tomorrow": "Fun-fact fog lingers through the morning before mixing with a fresh 'you won't believe what this city banned' front by dusk.",
+  "confirmed_sighting": {
+    "report": "An AI-slop social media account circulated fabricated images claiming Germany uses robotic mailboxes that return dropped wallets, alongside other invented national 'features' such as sun-tracking Finnish balconies — a case study in obviously fake generative content spread for viral reach and monetization.",
+    "source_name": "Euronews",
+    "source_url": "https://www.euronews.com/my-europe/2025/12/02/ai-slop-account-claims-germany-uses-robotic-mailboxes-it-doesnt"
+  }
+}
