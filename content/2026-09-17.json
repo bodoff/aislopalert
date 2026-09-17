@@ -1,0 +1,40 @@
+{
+  "date": "2026-09-17",
+  "severity_level": 2,
+  "severity_name": "SLOP WATCH — ACOUSTIC INTEGRITY ADVISORY",
+  "headline": "SLOP WATCH ISSUED ACROSS FIVE REGIONS AS SYNTHETIC-AMBIENT FRONT FLOODS STREAMING PLAYLISTS WITH BULK-GENERATED 'ARTISTS' RELEASING FORTY TRACKS A DAY OF PLEASANT NOTHING, EACH DESIGNED NEVER TO BE ACTIVELY HEARD AND ONLY QUIETLY PAID",
+  "advisory": "The Service is monitoring a low, humming front of synthetic instrumental audio moving through curated relaxation, focus, and sleep playlists. Residents are advised that the calm piano loop soothing them at this moment may originate from a phantom act with a stock-photo face, four hundred releases, and no verifiable location. There is no cause for alarm; the music is not dangerous, only endless. Listeners seeking to support human musicians are urged to click the artist name and check whether anything at all is behind it.",
+  "regional_outlook": [
+    {
+      "region": "The Spotify Lowlands",
+      "conditions": "Saturated. A warm, featureless drone of 'focus beats' has settled over every study playlist, with visibility into the actual artist reduced to zero. Royalty micro-precipitation continues to fall in fractions of a cent."
+    },
+    {
+      "region": "The YouTube Shorts Gorge",
+      "conditions": "Ten-hour 'rain and lofi' loops accumulating faster than they can be indexed. Thumbnails depict a cozy room that does not exist, lit by a lamp that casts no shadow."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "A ridge of 'AI sleep sound' apps building along the free tier, each promising ocean waves and delivering the same six seconds, looped past the point of ocean."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Scattered 'submit your track to our playlist' outreach, most of it automated, addressing recipients as 'Dear Talented Artist' and one as 'Dear [FIRST NAME]'."
+    },
+    {
+      "region": "The Kindle Drifts",
+      "conditions": "Quiet by comparison, though companion 'meditation guide' ebooks continue to wash ashore bundled with the audio. Mild listicle haze at the horizon."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Phantom Ambient Artist",
+    "latin_name": "Musicus fictus perpetuus",
+    "status": "Abundant and multiplying; effectively uncountable",
+    "habitat": "Algorithmic mood playlists, sleep queues, 'chill focus' radio, and any context in which no one is listening on purpose",
+    "field_marks": "A discography of several hundred tracks accrued in months rather than decades. A single stock-photo portrait or a serene generated face. No tour dates, no interviews, no misspellings, no bandmate tagged, no evidence of a hand ever touching an instrument. Track titles assembled from a small vocabulary: 'Soft', 'Drift', 'Still', 'Rain', 'Warm', 'No. 7'.",
+    "call": "Just a little something to help you focus — don't think about where it came from, don't skip, don't look too closely, just let it play, and play, and play.",
+    "confusion_species": "Easily mistaken for a genuine independent ambient musician, of whom there are many and who deserve the stream. Tell them apart by the release cadence: a human composer does not publish forty finished works before lunch, and a human artist, asked, can name one place they have ever performed."
+  },
+  "spotter_tip": "Click the artist. A real one has a mess behind them — a botched early album, a live clip with bad sound, a human being who once had to reschedule a gig. A phantom has only more product.",
+  "tomorrow": "The ambient front lingers overnight and deepens toward the weekend; expect continued mild, monetized calm with no discernible source."
+}
