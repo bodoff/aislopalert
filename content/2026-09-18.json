@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-18",
+  "severity_level": 4,
+  "severity_name": "SEVERE SLOP WARNING — MAJORITY THRESHOLD ADVISORY",
+  "headline": "SEVERE SLOP WARNING: SYNTHETIC-ARTICLE TIDE CROSSES THE FIFTY-PERCENT MARK ACROSS THE OPEN WEB, MEANING THE AVERAGE NEW PAGE A RESIDENT OPENS IS NOW, ON BALANCE, MORE LIKELY TO HAVE BEEN GENERATED THAN WRITTEN",
+  "advisory": "The Service is issuing a Severe Slop Warning following confirmation that synthetic article production has crossed the majority threshold on the open web. Residents are advised that a page opening quickly, reading smoothly, and saying nothing they will remember is no longer an anomaly but the prevailing weather. This bureau notes, without commentary and with a certain professional discomfort, that it is itself a member of the front now under warning. Exercise standard skepticism and check bylines against daylight.",
+  "regional_outlook": [
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Total inundation. The first page is now majority synthetic runoff; the ten blue links have merged into one continuous, confident, sourceless paragraph that answers a question you did not ask."
+    },
+    {
+      "region": "The Kindle Drifts",
+      "conditions": "Bulk-published titles accumulating faster than shelving can occur. Expect drifts of near-identical guidebooks whose author has written four hundred books this quarter and lived none of them."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Newsletter tide running high and hollow. Residents report daily digests summarizing articles that were themselves summaries of digests, with brackish citation at the mouth."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "Rising volume of one-purpose utilities with five-star reviews and no discernible purpose. Ratings appear before the app does."
+    },
+    {
+      "region": "The Facebook Delta",
+      "conditions": "Feel-good runoff continues, now with fabricated heart-warming posts about strangers who did not exist doing kindnesses that did not occur. Warm, wet, and structurally unsound."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Ghost Byline",
+    "latin_name": "Scriptor phantasma pixelatus",
+    "status": "Explosively common; now the dominant author genus on affected pages.",
+    "habitat": "Content farms, freshly minted 'news' domains, and the author sidebar of any article that took forty seconds to appear.",
+    "field_marks": "A confident stock headshot lit from an impossible direction. A bio claiming a decade in the industry paired with a publishing history beginning last Tuesday. Output measured in articles-per-hour rather than per-week.",
+    "call": "As a seasoned expert with over a decade of hands-on experience, I've seen it all — and in this comprehensive guide, we'll dive deep into everything you need to know.",
+    "confusion_species": "Easily mistaken for a genuine freelance writer's bio page. Tell them apart by the archive: a real byline has a past — awkward early pieces, a beat, opinions that got someone mildly annoyed. The Ghost Byline arrives fully formed, expert on all subjects, and available for none of them."
+  },
+  "spotter_tip": "Click the author's name. A real writer's page leads somewhere — old work, a bad photo, an argument. A Ghost Byline leads to more of itself, or to a 404, or to a second Ghost Byline holding the first one's coffee.",
+  "tomorrow": "Warning likely to hold; the fifty-percent line does not recede so much as it teaches the shoreline to move.",
+  "confirmed_sighting": {
+    "report": "A report analyzed by Graphite and highlighted by Axios found that slightly more than half of new articles published online are now AI-generated, marking a rapid rise in low-quality output since late 2022. The Service records this as the first confirmed majority-slop reading on the open web.",
+    "source_name": "Futurism",
+    "source_url": "https://futurism.com/artificial-intelligence/over-50-percent-internet-ai-slop"
+  }
+}
