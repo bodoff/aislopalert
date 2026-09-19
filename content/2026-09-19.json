@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-19",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING — CLINICAL INTEGRITY ADVISORY",
+  "headline": "HEAVY SLOP WARNING: SYNTHETIC-EXPLAINER FRONT ROLLS ACROSS EDUCATIONAL CHANNELS AS CONFIDENT AI NARRATORS IN BORROWED WHITE COATS DISPENSE CRISPLY ANIMATED MEDICAL FACTS THAT ARE FLUENT, AUTHORITATIVE, AND OCCASIONALLY UNTRUE",
+  "advisory": "A slow-moving system of synthetic educational content is depositing high volumes of health explainer material across short-form and search surfaces. Residents are advised that these clips deliver correct information and confidently incorrect information in the identical calm baritone, with no tonal difference between 'wash your hands' and instructions that should never leave a licensed building. The Service reminds the public that a diagram is not a diagnosis and that a smooth voiceover is not, in itself, a credential. Verify before you internalize.",
+  "regional_outlook": [
+    {
+      "region": "The YouTube Shorts Gorge",
+      "conditions": "Dense clinical fog rolling in fifty-eight-second bands, each opening with 'Doctors don't want you to know this.' Doctors, when contacted, confirmed they knew and did not mind."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Persistent explainer drizzle at the top of every health query. First three results generated, fourth result is the first three results reworded."
+    },
+    {
+      "region": "The X Badlands",
+      "conditions": "Coordinated synthetic squalls detected as bulk-produced content is repurposed to push narratives at scale. Visibility poor; motive poorer."
+    },
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Warm shallow accumulation of 'natural remedy' infographics in soothing sage-green palettes. Ingredients photogenic, dosages fictional."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "Symptom-checker apps blooming faster than they can be reviewed, each promising diagnosis 'powered by AI' and delivering diagnosis powered by confidence."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Whitecoat Phantom",
+    "latin_name": "Medicus fictus confidens",
+    "status": "Proliferating; peak season now year-round",
+    "habitat": "Short-form video gorges, health-query basins, and any surface that rewards authority over accuracy.",
+    "field_marks": "Immaculate stock-footage laboratory backdrop; a coat that fits too perfectly; animated arteries that pulse in reassuring loops; delivers the true and the alarming in one uninterrupted, unblinking take.",
+    "call": "Ninety-nine percent of people don't know their body does this — and what I'm about to tell you could change everything.",
+    "confusion_species": "Easily mistaken for an actual medical educator. The genuine article names a specific institution, cites a source you can open, and will occasionally admit uncertainty. The Phantom never says 'I don't know,' because it has never known anything."
+  },
+  "spotter_tip": "If a health clip cures three unrelated conditions with one kitchen ingredient and ends by asking you to like and subscribe, treat it as decorative, not medical.",
+  "tomorrow": "Explainer front lingers through the weekend; brief clearing expected only where residents click 'learn more' and read an actual source.",
+  "confirmed_sighting": {
+    "report": "A mixed-methods study in JMIR Medical Education examined the prevalence and characteristics of AI-generated 'slop' in online biomedical science educational videos, warning that such content poses risks to both learners and teachers. The Service classifies this as a confirmed inland incursion.",
+    "source_name": "JMIR Medical Education",
+    "source_url": "https://mededu.jmir.org/2025/1/e80084"
+  }
+}
