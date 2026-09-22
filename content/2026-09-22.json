@@ -1,0 +1,40 @@
+{
+  "date": "2026-09-22",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING — WAYFINDING INTEGRITY ADVISORY",
+  "headline": "HEAVY SLOP WARNING: SYNTHETIC-TRAVEL FRONT SATURATES FIVE REGIONS AS AI-GENERATED ITINERARIES DIRECT RESIDENTS TO CHARMING WATERFALLS, HISTORIC CAFES, AND SUNSET VIEWPOINTS THAT HAVE NEVER, AT ANY POINT, EXISTED",
+  "advisory": "A broad system of fabricated travel guidance has settled over the Search Results Basin and is expected to persist through the autumn shoulder season. Affected content directs residents toward attractions rendered with total confidence and no coordinates, including a 'hidden medieval old town' three hours inland from any medieval old town. The Service reminds travelers that a location described as 'a well-kept local secret' may be well-kept precisely because it is not a location. Verify against a map that predates the current fiscal quarter.",
+  "regional_outlook": [
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Dense itinerary fog reduces navigational visibility to near zero, with '10 UNMISSABLE HIDDEN GEMS' listings stacking four deep above any page written by someone who has been there. Expect the top three results to describe the same nonexistent lavender farm."
+    },
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Saturated boards of impossibly turquoise coves circulate freely, none of them tagged with a country. Residents pinning 'dream trip' inspiration are advised that the pin leads to a store, not a shore."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "A surge of freshly published 'offline travel companion' apps, each promising expert local tips and delivering the same twelve auto-generated paragraphs about respecting the culture of a place it declines to name."
+    },
+    {
+      "region": "The Kindle Drifts",
+      "conditions": "Bulk-generated guidebooks accumulate at the shoreline, updated for '2026' but describing bus routes, prices, and a monument that were all invented on a Tuesday. Cover photography glows suspiciously."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Warm subject-line breezes ('Your Perfect 5-Day Itinerary — Ready!') carry synthetic deal digests recommending a boutique hotel with five hundred glowing reviews and zero front doors."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Phantom Attraction",
+    "latin_name": "Destinatio ficta invisibilis",
+    "status": "Widespread and expanding; strongest along search and short-form flyways.",
+    "habitat": "Top-ranked travel listicles, 'hidden gem' roundups, and AI-assembled day-by-day itineraries, particularly for regions the generator has clearly never visited or geographically located.",
+    "field_marks": "Recognizable by lavish sensory description paired with a complete absence of directions. Prized landmarks are 'nestled,' 'tucked away,' and 'off the beaten path' — so far off it that no path reaches them. Opening hours are specific; the establishment is not.",
+    "call": "After a short scenic walk, you'll discover a beloved family-run cafe that locals adore — arrive early to beat the crowds at this underrated hidden treasure.",
+    "confusion_species": "Easily mistaken for a genuine small-business travel blog. Distinguish by cross-referencing: a real place will appear on a map, a review platform, and at least one photo taken by a human holding a slightly crooked phone. The Phantom Attraction appears only in prose."
+  },
+  "spotter_tip": "If a guide praises a spot as 'a hidden gem locals don't want you to know about' but never provides an address, treat it as fiction until a map disagrees — the locals aren't hiding it, it's just not there.",
+  "tomorrow": "Fabricated-itinerary fog lingers through midday before a synthetic-review swell moves into the App Store Flats; residents advised to travel by verified coordinate."
+}
