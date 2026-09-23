@@ -1,0 +1,40 @@
+{
+  "date": "2026-09-23",
+  "severity_level": 2,
+  "severity_name": "SLOP WATCH — BIBLIOGRAPHIC INTEGRITY ADVISORY",
+  "headline": "SLOP WATCH ISSUED OVER THE KINDLE DRIFTS AND APP STORE FLATS AS PARASITIC 'COMPANION' VOLUMES SWARM EVERY POPULAR TITLE, SELLING RESIDENTS AN AI-GENERATED SUMMARY OF A BOOK THEY ALREADY OWN AND HAVE ALREADY BEGUN TO READ",
+  "advisory": "A slow-moving low-content system has settled over the digital shelves, generating unofficial workbooks, study guides, and companion journals that summarize books the reader has, in most cases, already purchased. The Service reminds residents that a 42-page synthetic recap of a 380-page book they are actively holding does not constitute new information. Storefronts are advised to expect near-identical covers separated only by the word 'UNOFFICIAL' in the smallest legal font. Conditions are non-severe but persistent, and are known to recur with every bestseller.",
+  "regional_outlook": [
+    {
+      "region": "The Kindle Drifts",
+      "conditions": "Dense accumulation of 'Summary & Analysis of' volumes stacking three-deep beneath every trending title. Genuine authors reporting reduced visibility beneath the drift."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "Companion 'reading journal' apps proliferating, each promising to deepen a book by adding fill-in-the-blank pages. Scattered subscription prompts through the afternoon."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Queries for a real title returning a shoal of workbook parasites before the book itself. Standing confusion expected to linger past page two."
+    },
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Generated 'aesthetic study guide' pins washing ashore, all citing chapters that were paraphrased, not read. Low tide of actual content."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Promotional runoff urging residents to 'unlock the hidden lessons' of books whose lessons were not, in fact, hidden."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Parasite Companion",
+    "latin_name": "Liber parasiticus summarium",
+    "status": "Common; blooms within hours of any title entering a bestseller list.",
+    "habitat": "Attaches to the underside of popular books across the Kindle Drifts and App Store Flats, feeding on search proximity and cover resemblance.",
+    "field_marks": "A cover nearly identical to its host, distinguished by the words 'Workbook,' 'Summary,' or 'Companion Journal,' and a page count roughly one-tenth of the original. Frequently sports a subtitle promising 'key takeaways' the host book stated plainly.",
+    "call": "This unofficial guide is not affiliated with the author, but it does contain 27 reflection prompts — start your journey to deeper insight today.",
+    "confusion_species": "May be mistaken for a legitimate study guide issued by an educator or publisher. Tell them apart by the author line: a real guide names a person and a purpose; the Parasite Companion names a brand you have never heard of and a book it did not write."
+  },
+  "spotter_tip": "If a 'companion' volume costs almost as much as the book it summarizes and was published three days later, you are looking at a parasite, not a partner. Check the publication date against the host's — the barnacle always arrives after the ship.",
+  "tomorrow": "Watch continues; expect fresh companion swarms wherever a new title trends, with isolated 'coloring book edition' cells developing by evening."
+}
