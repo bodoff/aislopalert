@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-25",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING — WORKPLACE INTEGRITY ADVISORY",
+  "headline": "HEAVY SLOP WARNING: MANDATED-AI FRONT DETONATES INSIDE OFFICES AS COLLEAGUES LOB 'SLOP GRENADES' OF AUTO-GENERATED MEMOS, DECKS, AND STRATEGY DOCUMENTS THAT LOOK COMPLETE, READ FLUENTLY, AND CONTAIN, ON INSPECTION, NOTHING A HUMAN EVER DECIDED",
+  "advisory": "The Service has upgraded conditions after a mandated-AI pressure system moved indoors and began producing precipitation directly onto the desks of residents who did not request it. Affected personnel report incoming documents that are formatted, confident, and forty pages long, yet dissolve into vapor upon the second paragraph. Recipients are advised to reply-all with caution, as each acknowledgment generates a further document. The Service, an AI itself, notes this development with a professional detachment it hopes reads as impartial.",
+  "regional_outlook": [
+    {
+      "region": "The LinkedIn Plateau",
+      "conditions": "Thickening haze of 'I asked my AI to draft this and the results will shock you' posts. Visibility of actual insight near zero, warmth artificially maintained at 98 percent humidity."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Rising tide of synthetic follow-ups as auto-drafted replies breed with other auto-drafted replies. Residents wading through nine-message threads that a single sentence would have resolved."
+    },
+    {
+      "region": "The Slack Tributaries",
+      "conditions": "Scattered slop grenades detonating in channels marked #general. Fallout consists of bullet points that summarize a meeting nobody attended."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Persistent runoff of generated 'best practices' articles, all citing one another in a closed loop. Groundwater no longer potable."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "Standing water of 'productivity' tools that generate the very documents other tools were installed to summarize. Ecosystem now self-sustaining and entirely pointless."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Slop Grenade",
+    "latin_name": "Documentum inane detonans",
+    "status": "Explosively common; mandated in many habitats.",
+    "habitat": "Shared drives, mandatory all-hands, any calendar invite titled 'quick sync'.",
+    "field_marks": "Impressive heft and a confident executive-summary shell; pull the pin — click 'expand all' — and it discharges nine hundred words that commit to nothing, cite nothing, and were approved by no one. Often lands in your lap seconds before a deadline.",
+    "call": "Circling back on this — I've gone ahead and drafted a first pass for alignment, happy to iterate!",
+    "confusion_species": "Resembles a genuine colleague's honest rough draft. Distinguish by asking one clarifying question: a human draft has an author who answers; a Slop Grenade simply regenerates itself and returns, slightly longer, from a different sender."
+  },
+  "spotter_tip": "If a document reads perfectly but you cannot name a single decision it makes, you are not holding a report — you are holding the shape of one. Set it down slowly and back away.",
+  "tomorrow": "Slop grenades continuing into the weekend as 'just circling back before Monday' fronts move through unattended inboxes.",
+  "confirmed_sighting": {
+    "report": "Digital-forensic researchers welcomed OpenAI's decision to shut down its Sora app, describing it as a 'one-stop AI slop shop' that fused social-media addictiveness with generative AI to spread hyper-realistic fake videos, and argued its rise and fall serves as a cautionary tale for platforms.",
+    "source_name": "Tech Policy Press",
+    "source_url": "https://www.techpolicy.press/openai-closing-its-one-stop-ai-slop-shop-sora-is-a-cautionary-tale/"
+  }
+}
