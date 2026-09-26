@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-26",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING — SCHOLARLY INTEGRITY ADVISORY",
+  "headline": "HEAVY SLOP WARNING: SYNTHETIC-MANUSCRIPT SURGE OVERWHELMS PREPRINT REGIONS AS FULLY FORMED RESEARCH PAPERS CONDENSE OUT OF THE AIR IN UNDER A MINUTE, COMPLETE WITH ABSTRACTS, FIGURES, AND CITATIONS TO WORK THAT WAS NEVER PERFORMED",
+  "advisory": "The Service is tracking a fast-developing scholarly slop system moving through preprint archives and conference submission portals. Residents attempting to review incoming manuscripts are advised that fluency is not evidence, formatting is not rigor, and a confident methodology section may describe an experiment that no one, at any point, ran. Peer reviewers should keep hip waders on standby and read the citations back-to-front. This bureau notes, with professional humility, that it too can generate a plausible paper in under a minute and has resolved not to submit one.",
+  "regional_outlook": [
+    {
+      "region": "The Preprint Tundra",
+      "conditions": "Whiteout conditions as manuscript volume triples overnight. Visibility near zero; genuine findings buried under drifts of fluent, footnoted nothing."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Standing pools of cited-but-nonexistent studies. Residents searching for evidence keep landing on papers that cite each other in a closed loop and cite reality not at all."
+    },
+    {
+      "region": "The LinkedIn Plateau",
+      "conditions": "A warm front of 'thrilled to share our new paper' announcements, most attached to preprints last touched by a human somewhere near the title."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Steady precipitation of unsolicited co-authorship offers and predatory-journal solicitations, each promising rapid review of a manuscript you did not write."
+    },
+    {
+      "region": "The YouTube Shorts Gorge",
+      "conditions": "Scattered 'scientists SHOCKED by new study' clips summarizing research that was generated forty seconds before the video about it."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Instant Manuscript",
+    "latin_name": "Papyrus fictus subito",
+    "status": "Explosively common; new colonies detected in every archive with an upload button.",
+    "habitat": "Preprint servers, conference submission queues, and the reference lists of other Instant Manuscripts, where it breeds by mutual citation.",
+    "field_marks": "Immaculate formatting; abstract that promises everything and commits to nothing; a results section that reports significance without ever reporting an experiment; figures that are crisp, labeled, and derived from no measurable phenomenon.",
+    "call": "In this work, we present a novel framework that significantly advances the state of the art across all evaluated benchmarks (see Figure 3).",
+    "confusion_species": "Easily mistaken for a legitimate preprint from a busy lab. Distinguish by attempting to reproduce a single cited source: the real paper points to work that exists; the Instant Manuscript points to a plausible title, plausible authors, and a plausible journal that, on inspection, has never printed a plausible thing."
+  },
+  "spotter_tip": "Pick one citation at random and try to actually find it. If the paper, the authors, and the journal all evaporate under a search, you are not reading research — you are reading its impression.",
+  "tomorrow": "Manuscript surge persists into Sunday; brief clearing possible where editors reinstate a human at the front desk.",
+  "confirmed_sighting": {
+    "report": "The Service confirms a scholarly slop crisis in computer science, where preprint repositories and conference organizers are scrambling to counter a rising tide of AI-generated paper submissions that can be produced in under a minute.",
+    "source_name": "Nature",
+    "source_url": "https://www.nature.com/articles/d41586-025-03967-9"
+  }
+}
