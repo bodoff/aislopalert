@@ -1,0 +1,40 @@
+{
+  "date": "2026-09-27",
+  "severity_level": 2,
+  "severity_name": "SLOP WATCH — CONSUMER CONFIDENCE ADVISORY",
+  "headline": "SLOP WATCH ISSUED ACROSS SHOPPING REGIONS AS SYNTHETIC-REVIEW FRONT BLANKETS PRODUCT LISTINGS WITH THOUSANDS OF GLOWING FIVE-STAR TESTIMONIALS FROM ENTHUSIASTIC BUYERS WHO DO NOT EXIST AND HAVE NEVER OPENED THE BOX",
+  "advisory": "A broad, low-pressure system of fabricated praise is settling over commerce corridors this weekend, depositing dense layers of identical enthusiasm across otherwise ordinary product pages. Residents are advised that the phrase 'exceeded all my expectations' now precipitates at rates previously observed only in nature documentaries about locusts. The National Slop Service reminds shoppers that a review can be warm, specific, grammatically flawless, and still describe a purchase that occurred solely inside a language model. When in doubt, scroll to the one-star reviews, where the humans tend to gather.",
+  "regional_outlook": [
+    {
+      "region": "The Etsy Hollows",
+      "conditions": "Heavy accumulation of heartfelt testimonials praising the 'craftsmanship' and 'personal touch' of items generated in bulk. Handmade warmth reported at suspiciously uniform temperatures across unrelated shops."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "Dense five-star fog rolling in ahead of any actual users, with review bursts arriving pre-installed at launch. Expect glowing praise for features that have not yet been built."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "'Best of 2026' roundups pooling in low-lying areas, each recommending the same three products with the same three reasons. Visibility into genuine opinion near zero."
+    },
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Aspirational review-boards drifting shoreward, each pinning a flawless product photo to a testimonial no customer wrote. Standing water of 'obsessed with this!' persisting through the afternoon."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Post-purchase 'How did we do?' currents surging, some already containing the resident's five-star answer helpfully pre-written. Residents advised to read what they are allegedly about to feel."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Verified Enthusiast",
+    "latin_name": "Recensor fictus quinquestellatus",
+    "status": "Overabundant; breeding year-round in review sections",
+    "habitat": "Product listings, app stores, and any page bearing a star rating; nests densely near new releases before real buyers arrive",
+    "field_marks": "Uniformly ecstatic tone; praises 'quality' and 'value' without describing a single concrete thing; often reports using a product for 'weeks' on the day it launched. Plumage is exclamation points.",
+    "call": "Absolutely obsessed!! This changed my daily routine and I've already ordered three more for gifts — cannot recommend enough!!!",
+    "confusion_species": "Easily mistaken for a genuinely delighted customer. The real one tells you the box was dented, the color was slightly off, and they'd buy it again anyway; the Enthusiast has no complaints because it has no experiences."
+  },
+  "spotter_tip": "Sort reviews by 'most recent' and watch the clock: when forty rapturous testimonials all touch down within the same nine minutes, you are observing a migration, not a fan base.",
+  "tomorrow": "Synthetic-review front lingers into Monday; expect scattered outbreaks of 'I was skeptical at first, but…' followed by no evidence whatsoever."
+}
