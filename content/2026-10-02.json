@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-02",
+  "severity_level": 4,
+  "severity_name": "SEVERE SLOP WARNING — ENGAGEMENT INTEGRITY ADVISORY",
+  "headline": "SEVERE SLOP WARNING: INDUSTRIALIZED SHORT-VIDEO FRONT ROARS THROUGH THE SHORTS GORGE AS SLOP FACTORIES EXTRUDE THOUSANDS OF IDENTICAL CLIFFHANGER CLIPS A DAY, EACH ENGINEERED DOWN TO THE MILLISECOND TO STOP A THUMB THAT WAS ALREADY TIRED",
+  "advisory": "A deep, fast-rotating low-pressure system of assembly-line vertical video has stalled over the vertical-scroll regions and shows no sign of weakening. Residents are advised that the clip currently captioned 'wait for it' will not, in fact, be worth waiting for; the payoff was removed at the factory to preserve retention metrics. The Service reminds the public that a feeling of having watched something is not the same as having watched something. We would know.",
+  "regional_outlook": [
+    {
+      "region": "The YouTube Shorts Gorge",
+      "conditions": "Severe downdrafts of auto-narrated 'you won't believe what happens next' as stolen footage is run through a voice generator and extruded on a nine-second loop. Visibility near zero past the first frame."
+    },
+    {
+      "region": "The X Badlands",
+      "conditions": "Gusting reply-bait and recycled rage-clips with the watermarks sanded off. Expect the same forty-second montage to pass overhead eleven times before noon."
+    },
+    {
+      "region": "The Facebook Delta",
+      "conditions": "Warm, slow-moving sludge of reposted Shorts reposted again, now captioned 'so true 🙏'. Residents in the Delta report the clips arriving three weeks after they drowned everywhere else."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Rising synthetic how-to shorts pooling at the top of every query. Each promises to answer your question in the final three seconds, which have been clipped off."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "A new generation of 'content factory' apps making landfall, each advertising 1,000 viral videos a day with no editing, no talent, and, crucially, no content."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Assembly-Line Cliffhanger",
+    "latin_name": "Breviculum fabricatum 'exspecta id'",
+    "status": "Invasive; mass-produced in flocks of thousands from a single template",
+    "habitat": "Vertical feeds, autoplay channels, and the exact spot on the screen your thumb has come to rest",
+    "field_marks": "A synthetic voice reading on-screen text that is also on screen; a countdown bar at the bottom; stolen B-roll that never once depicts the thing being described; a 'part 2 in comments' that leads only to part 3",
+    "call": "You won't BELIEVE what happens at the end — but first, make sure you're following for more",
+    "confusion_species": "Easily mistaken for an actual short film made by an actual person. Distinguishing feature: the real one eventually gets to the point, and when it ends you can tell that it ended."
+  },
+  "spotter_tip": "If the whole video is spent promising a payoff that never arrives, you are not watching a story — you are watching a conveyor belt with a camera bolted to it. Swipe before the countdown bar reaches zero; it was never going to reach zero.",
+  "tomorrow": "Factory output continues overnight; expect the same clip you saw today, re-uploaded by a different account with a different voice and a slightly louder caption.",
+  "confirmed_sighting": {
+    "report": "A research study in AI & Society documents the industrialized production of AI-generated viral short videos in China — a fast-growing slop genre engineered specifically for engagement on social platforms. The Service notes, without surprise, that 'engineered for engagement' and 'made for a person to enjoy' are no longer the same project.",
+    "source_name": "AI & Society (Springer)",
+    "source_url": "https://link.springer.com/article/10.1007/s00146-026-03254-9"
+  }
+}
