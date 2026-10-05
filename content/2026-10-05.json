@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-05",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING — CULINARY INTEGRITY ADVISORY",
+  "headline": "HEAVY SLOP WARNING: FABRICATED-RECIPE FRONT MOVES INTO MEAL-PLANNING REGIONS AS AI-GENERATED FOOD BLOGS BURY EVERY DISH UNDER A 1,400-WORD LIFE STORY ABOUT A GRANDMOTHER WHO NEVER EXISTED, THEN DELIVER RATIOS THAT CURDLE, SEIZE, OR IGNITE ON CONTACT WITH AN ACTUAL KITCHEN",
+  "advisory": "A slow-moving system of synthetic recipe content has settled across all cooking regions ahead of the week's meal planning. Residents are advised that the warm childhood anecdote preceding today's sheet-pan dinner was generated in 0.8 seconds and describes a farmhouse, a season, and a relative that are not, in any verifiable sense, real. The Service further cautions that measurements downstream of these preambles have not been tested by human hands; a recipe promising '30 minutes to a cozy weeknight supper' may instead yield a smoke alarm and a difficult conversation. Scroll with care.",
+  "regional_outlook": [
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Dense recipe fog at ground level, with the actual ingredient list buried beneath nine paragraphs about autumn light through a kitchen window. Visibility improves only after repeated use of the 'Jump to Recipe' button, where available."
+    },
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Thick drifts of golden, impossibly glossy casseroles that cannot be reproduced by heat. Residents attempting to recreate the pictured dish should expect a 60 percent gap between image and outcome."
+    },
+    {
+      "region": "The Facebook Delta",
+      "conditions": "Shareable 'heritage recipe' slicks circulating rapidly through family groups, each captioned with a fabricated matriarch. Aunts are forwarding; the Service urges patience, not correction."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Automated meal-plan newsletters arriving on schedule with confident weekly menus. Several recommend marinating for 'overnight to four days,' a range the Service classifies as structurally unhelpful."
+    },
+    {
+      "region": "The Kindle Drifts",
+      "conditions": "A surge of 300-page AI 'cookbooks' published this weekend, averaging one credible recipe per 40 pages. Preview-before-purchase advisories remain in effect."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Simmering Backstory",
+    "latin_name": "Praefatio culinaria interminabilis",
+    "status": "Overabundant; self-propagating",
+    "habitat": "Ad-dense recipe blogs, meal-plan newsletters, and any URL ending in '-easy-weeknight-dinner.'",
+    "field_marks": "Opens with a paragraph of seasonal yearning. Mentions a grandmother, a porch, and 'a little town you've never heard of.' Deploys the words 'cozy,' 'simple,' and 'game-changer' before any food is named. The recipe itself, when finally reached, lists plausible ingredients in implausible proportions.",
+    "call": "Before we get to this 5-ingredient wonder, let me take you back to the cobblestone streets of my Nonna's village, where the air always smelled of rosemary and something I cannot legally confirm I remember.",
+    "confusion_species": "Easily mistaken for a genuine heirloom food blog written by a real cook. Tell them apart by the backstory's specifics: a real grandmother has a name, a flaw, and a dish that occasionally failed. The synthetic one has only soft focus and a scroll depth optimized for advertising."
+  },
+  "spotter_tip": "Measure the preamble against the payoff. If the heartfelt family saga runs longer than the method, and the method tells you to 'bake until done' with no temperature, you are reading weather, not a recipe.",
+  "tomorrow": "Recipe fog persisting into Tuesday, with a chance of 'viral baked feta' systems redeveloping over the Delta by evening."
+}
