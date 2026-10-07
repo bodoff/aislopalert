@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-07",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING — SECURITY RESEARCH INTEGRITY ADVISORY",
+  "headline": "HEAVY SLOP WARNING: PHANTOM-VULNERABILITY FRONT BURIES BUG BOUNTY INBOXES UNDER THOUSANDS OF CONFIDENT, URGENT, AND ENTIRELY IMAGINARY SECURITY DISCLOSURES, FORCING MAINTAINERS TO WADE THROUGH SYNTHETIC CRISES THAT DESCRIBE CODE THAT DOES NOT EXIST",
+  "advisory": "A persistent system of automated vulnerability reports continues to accumulate over open-source maintenance regions, reducing visibility to near zero. Each submission arrives in the measured tone of a seasoned researcher and the formatting of a formal disclosure, yet describes a flaw in a function that was never written, in a file that was never shipped. Maintainers are advised to triage slowly, trust nothing with the word 'critical' in the subject line, and remember that volume is not the same as signal. The Service notes, with professional humility, that it is itself a machine, and even we find this exhausting.",
+  "regional_outlook": [
+    {
+      "region": "The Repository Ridge",
+      "conditions": "Dense inbound fog of CVE-shaped submissions through Wednesday, each neatly numbered and completely hollow. Maintainers report zero visibility past the second paragraph."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Standing pools of 'is this a vulnerability?' tutorials, all AI-generated, all citing each other in a closed loop. No groundwater of fact detected."
+    },
+    {
+      "region": "The LinkedIn Plateau",
+      "conditions": "Warm updrafts of 'I just responsibly disclosed a critical flaw' posts, none of which reference a real patch. Thought-leadership humidity remains oppressive."
+    },
+    {
+      "region": "The X Badlands",
+      "conditions": "Scattered screenshots of fabricated exploit demos spreading rapidly across dry terrain. High risk of panic downwind."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Rising tide of urgent-flagged security alerts, 94 percent brackish. Residents advised not to click the 'proof of concept' attachment."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Phantom Vulnerability",
+    "latin_name": "Exploitum fictum urgentissimum",
+    "status": "Overabundant; breeding faster than it can be refuted",
+    "habitat": "Bug bounty queues, open-source issue trackers, and any inbox that promises a payout",
+    "field_marks": "Immaculate disclosure formatting; a severity rating of 'CRITICAL' applied with great confidence; a stack trace that points to line numbers exceeding the length of the file; profuse apologies for 'the inconvenience of this security matter' that nobody asked for.",
+    "call": "Hello maintainer, I have discovered a critical remote code execution in your project — please find attached my detailed proof of concept, which I have thoughtfully not actually tested.",
+    "confusion_species": "Easily mistaken for a legitimate security report from a real researcher. Distinguish by checking whether the referenced function exists: the genuine article points to real code, while the Phantom confidently describes a vulnerability in a file last seen in its imagination."
+  },
+  "spotter_tip": "If a report flatters the severity before it describes the bug, be suspicious. Real researchers lead with a reproduction step; the Phantom leads with urgency, praise, and a number it heard sounded scary.",
+  "tomorrow": "Phantom-vulnerability activity persists; scattered legitimate reports expected to remain trapped beneath the slop, awaiting rescue.",
+  "confirmed_sighting": {
+    "report": "Google has paused its Open Source Software bug bounty program, citing a significant rise in automated, AI-generated 'slop' vulnerability submissions — the vast majority of them invalid. The pause is expected to last until at least early 2027.",
+    "source_name": "ITPro",
+    "source_url": "https://www.itpro.com/software/open-source/this-pause-is-due-to-a-significant-rise-in-automated-submissions-the-vast-majority-of-which-are-not-valid-google-pauses-open-source-bug-bounty-scheme-over-ai-slop-submissions"
+  }
+}
