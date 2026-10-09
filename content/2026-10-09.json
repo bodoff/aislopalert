@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-09",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING — BEREAVEMENT INTEGRITY ADVISORY",
+  "headline": "HEAVY SLOP WARNING: SYNTHETIC-OBITUARY FRONT INTENSIFIES OVER THE SEARCH RESULTS BASIN AS AI-GENERATED DEATH NOTICES RACE TO RANK FOR THE NAMES OF STRANGERS, HARVESTING GRIEF TRAFFIC WITH SOLEMN PROSE THAT KNOWS NOTHING ABOUT THE PERSON IT CLAIMS TO MOURN",
+  "advisory": "A fast-forming system of scraped-death spam is active across indexed-search and social regions. Residents searching for information about someone they have lost are advised that the top results may be machine-written notices assembled within minutes of a name appearing online, padded with stock sympathy and routed to advertising. These pages contain no cause, no survivors, and no humanity — only keywords. The Service reminds residents that the absence of a single real detail is not discretion; it is a tell.",
+  "regional_outlook": [
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Severe accumulation. Query any recently deceased name and expect three to five near-identical 'tribute' pages above the actual funeral home, each warmly mourning a person it has never heard of."
+    },
+    {
+      "region": "The Facebook Delta",
+      "conditions": "Grief-group drift heavy through the afternoon. Synthetic 'in loving memory' posts circulate in community pages, farming condolence comments from neighbors who assume someone local wrote them."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Scattered 'livestream of the service' lures. Links promising to broadcast a memorial route residents toward credential-harvesting pages rather than any ceremony."
+    },
+    {
+      "region": "The X Badlands",
+      "conditions": "Opportunistic reply-storms as accounts repost the name with a candle emoji and a store link. Visibility poor; sincerity nonexistent."
+    },
+    {
+      "region": "The YouTube Shorts Gorge",
+      "conditions": "Isolated voiceover notices read over slideshow photos pulled from unrelated people. Conditions expected to loop indefinitely."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Grief Pirate",
+    "latin_name": "Necrologium raptum lacrimicola",
+    "status": "Expanding; feeds on freshly indexed names.",
+    "habitat": "The Search Results Basin and the condolence margins of the Facebook Delta, always within an arm's reach of an ad slot.",
+    "field_marks": "Opens with 'It is with heavy hearts that we announce the passing of…' and then says nothing. No hometown, no occupation, no survivors named, no verifiable funeral home. Age may be wrong or absent. The warmth is total and the information is zero.",
+    "call": "We extend our deepest condolences to the family, friends, and loved ones during this difficult time — please see details below after a short message from our sponsor.",
+    "confusion_species": "A genuine notice posted by a local funeral home, which names the actual mortuary, lists real service times at a real address, and includes specific survivors. The Grief Pirate cannot produce any of these, because it was never told anything — it was only told a name was trending."
+  },
+  "spotter_tip": "If a memorial page mourns someone but cannot name a single place, person, or date connected to them, it isn't being tactful — it's being empty. Navigate directly to the named funeral home instead of trusting the top search result.",
+  "tomorrow": "Synthetic-bereavement spam easing to patchy; residual 'local news you can trust' aggregators moving in behind the front."
+}
