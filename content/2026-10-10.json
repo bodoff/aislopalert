@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-10",
+  "severity_level": 2,
+  "severity_name": "SLOP WATCH — LITERARY INTEGRITY ADVISORY",
+  "headline": "SLOP WATCH ISSUED FOR THE KINDLE DRIFTS AS KNOCKOFF-COMPANION FRONT CLUSTERS AROUND EVERY BESTSELLER, FLOODING LISTINGS WITH AI-GENERATED 'SUMMARIES,' 'WORKBOOKS,' AND 'UNOFFICIAL COMPANIONS' ENGINEERED TO BE BOUGHT BY MISTAKE IN THE FINAL SECONDS BEFORE CHECKOUT",
+  "advisory": "A slow-moving parasitic system has settled over the self-publishing marketplace, where synthetic volumes orbit genuine titles at a distance of roughly one search result. These companion texts share the cover palette, the keywords, and occasionally most of the actual title of the book a resident intended to purchase, differing only in that they contain nothing. The Service advises residents to confirm the author's name before checkout and to treat the phrase 'A Comprehensive Summary And Analysis Of' as a severe-weather indicator.",
+  "regional_outlook": [
+    {
+      "region": "The Kindle Drifts",
+      "conditions": "Dense accumulation of counterfeit companions around every charting title, with 'workbook' and 'study guide' editions drifting into the top listings. Visibility reduced to the first three words of any book title."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Knockoff volumes pooling under popular author names, outnumbering the originals four to one by late afternoon. Residents report reaching for the real book and closing their hand on fog."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "Companion-genre spillover detected as 'unofficial guide' apps materialize beside every trending game. Scattered in-app purchases, none of them functional."
+    },
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Mock-up cover imagery circulating widely, with reflective surfaces and extra fingers glimpsed in author photos. Heavy aesthetic, zero contents."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Automated 'you may also like' currents pushing synthetic companions toward residents who already own the real thing. Gentle but relentless."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Counterfeit Companion",
+    "latin_name": "Liber parasiticus imitator",
+    "status": "Abundant; rapid-breeding; self-shelving",
+    "habitat": "The outer orbit of any bestseller, nesting in the related-titles carousel and the autocomplete slipstream",
+    "field_marks": "Cover art one shade off the original. Title containing the host book's title plus a hyphenated modifier — 'Summary,' 'Companion,' 'Workbook,' 'Analysis.' Author credited as a plausible three-word name that returns no other results. Interior consists of chapter headings followed by one restated sentence each.",
+    "call": "EVERYTHING YOU NEED TO KNOW ABOUT THE BOOK YOU ALREADY TRIED TO BUY — NOW IN A CONVENIENT 24-PAGE FORMAT.",
+    "confusion_species": "Easily mistaken for a legitimate study guide or official companion edition. Distinguish by checking the publisher and author: a real companion names its author and cites the original; the counterfeit cites nothing, because there is nothing behind it to cite."
+  },
+  "spotter_tip": "If the book's description promises to 'unlock the key insights' of another book, you are not looking at a book — you are looking at a book-shaped shadow cast by a book. Buy the thing casting the shadow.",
+  "tomorrow": "Counterfeit-companion front holds steady overnight; expect continued knockoff accumulation, with a chance of 'Vol. 1 of 1' appearing on titles that will never see a Vol. 2."
+}
