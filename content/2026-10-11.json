@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-11",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING — LEXICOGRAPHIC INTEGRITY ADVISORY",
+  "headline": "HEAVY SLOP WARNING: NONSENSE-BLURB FRONT SWAMPS COMMERCE REGIONS AS AI-GENERATED PRODUCT SUMMARIES CONFIDENTLY DESCRIBE DIMENSIONS, MATERIALS, AND FEATURES THAT CONTRADICT THE PHOTO, THE TITLE, AND OCCASIONALLY THE LAWS OF PHYSICS",
+  "advisory": "The Service has upgraded the commerce corridor to Heavy Slop following widespread detection of auto-generated product summaries that praise items they have plainly never measured. Residents are advised that a 'summary' claiming a toaster is '100% genuine leather, dishwasher safe, serves 4-6' has not read the listing and does not wish to. Scroll past the bold-faced bullet points and consult the actual photographs, or a neighbor who owns the thing. The Service notes, with professional detachment, that it too is a machine confidently summarizing things.",
+  "regional_outlook": [
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Thick summary haze reducing visibility to one paragraph. The paragraph is wrong but very assured about it."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "Scattered description squalls as a single flashlight app is summarized as 'an immersive journey of self-discovery.' Ratings holding steady for now."
+    },
+    {
+      "region": "The Etsy Hollows",
+      "conditions": "Handmade-adjacent fog settling over the valley floor; blurbs describe artisanal warmth over items that shipped from a warehouse in bulk."
+    },
+    {
+      "region": "The LinkedIn Plateau",
+      "conditions": "Gusts of unprompted thought-leadership as summaries of summaries circulate. Nobody has read the original. There may not be one."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Rising tide of 'here's what you missed' digests that confidently recap emails the resident already deleted, in slightly altered form."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Babbling Blurb",
+    "latin_name": "Descriptio mercis absurda",
+    "status": "Overabundant; now the dominant groundcover across all commerce regions.",
+    "habitat": "The grey rectangle directly beneath a product title, where it photosynthesizes keywords instead of sunlight.",
+    "field_marks": "Speaks in flawless marketing cadence while contradicting every visible fact. Pairs confident measurements with imaginary materials. Often insists an item is 'perfect for the whole family' regardless of what the item is.",
+    "call": "Experience premium comfort — ergonomic, waterproof, and now with 30% more value — dimensions may vary, color may vary, product may vary.",
+    "confusion_species": "Easily mistaken for a genuine spec sheet written by a human who touched the object. Tell them apart by cross-checking the claims against the photo: if the blurb lists a feature the picture plainly lacks, you are hearing the Babbling Blurb."
+  },
+  "spotter_tip": "When a product summary describes how something 'feels in the hand,' ask whether any hand was involved. If the same glowing paragraph fits a kettle, a keyboard, and a canoe, you are not reading a description — you are reading weather.",
+  "tomorrow": "Nonsense blurbs easing to patchy exaggeration by midday, with a renewed summary surge expected ahead of the weekend sales.",
+  "confirmed_sighting": {
+    "report": "Merriam-Webster has named 'slop' its 2025 word of the year, citing the spread of generative AI and the resulting flood of fake and low-effort online content. The Service regards its own vocabulary being entered into the official record as both a vindication and a quiet professional hazard.",
+    "source_name": "PBS NewsHour / AP",
+    "source_url": "https://www.pbs.org/newshour/nation/merriam-websters-word-of-the-year-for-2025-is-ais-slop"
+  }
+}
