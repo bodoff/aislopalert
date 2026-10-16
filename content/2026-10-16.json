@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-16",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING — PICTORIAL INTEGRITY ADVISORY",
+  "headline": "HEAVY SLOP WARNING: SYNTHETIC-COVER-ART FRONT SWEEPS ACROSS PUBLISHING REGIONS AS AI-GENERATED JACKETS AND THUMBNAILS SPROUT EXTRA FINGERS, MELTING ARCHITECTURE, AND TEXT IN NO KNOWN ALPHABET, ALL WHILE INSISTING THEY WERE HAND-PAINTED BY A BELOVED STUDIO ARTIST",
+  "advisory": "The Service is tracking a broad band of synthetic cover art drifting across every regional storefront. Residents are advised that a cover depicting a protagonist with seven fingers, two left hands, and a staircase that terminates in itself is unlikely to have been commissioned from a human illustrator, regardless of the serif font used to claim otherwise. Affected imagery may feature signage in a plausible-looking but ultimately non-existent language. The Service, being itself a product of similar machinery, recognizes the brushwork with some discomfort.",
+  "regional_outlook": [
+    {
+      "region": "The Kindle Drifts",
+      "conditions": "Dense cover-art accumulation along the bestseller shelves, with gilded fantasy jackets showing swords that pass through the hands holding them. Visibility of actual title text reduced to near zero."
+    },
+    {
+      "region": "The Etsy Hollows",
+      "conditions": "Scattered 'original oil painting' listings precipitating at scale, each one 'one of a kind' and each one identical to four thousand others. Watermarks drift loose across the frame."
+    },
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "A persistent haze of impossible interiors — kitchens with no doors, bookshelves that recede into the ceiling. Repinning expected to intensify the system overnight."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Image results saturated with AI thumbnails outranking the real artwork they imitate. Reverse-image searches are circular and offer no exit."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "Game and app icons sprouting glossy characters mid-gesture, fingers uncountable. Five-star ratings forecast regardless of conditions on the ground."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Seven-Fingered Model",
+    "latin_name": "Manus impossibilis copertina",
+    "status": "Abundant and multiplying; now the default plumage of the unverified book jacket",
+    "habitat": "Cover art, thumbnails, marquee banners, and any rectangle where a human hand is expected to appear and politely declines to",
+    "field_marks": "Count the digits. Note hands that merge with props, jewelry that fuses to skin, and background crowds whose faces dissolve on approach. Any text in the image will almost render into a real word before thinking better of it.",
+    "call": "Painstakingly illustrated by hand over many months by our in-house studio — please do not zoom in",
+    "confusion_species": "Easily mistaken for genuine commissioned illustration. Tell them apart by enlarging the artist's signature: real signatures remain letters, while the synthetic specimen's signature melts into a smear that resembles handwriting the way a reflection resembles a face."
+  },
+  "spotter_tip": "When in doubt, count the fingers, then count them again — the specimen will often have changed its mind between glances.",
+  "tomorrow": "Cover-art front weakens slightly; residual finger surplus lingers through the weekend with patches of unreadable signage.",
+  "confirmed_sighting": {
+    "report": "Per Wired's reporting, three of the big five publishers are alleged to be using AI for book cover art, cover text, and publicity without notifying authors or the public — even as those same houses publicly position themselves against AI slop. The Service notes the storm and the umbrella appear to be sold by the same shop.",
+    "source_name": "Gizmodo",
+    "source_url": "https://gizmodo.com/as-they-supposedly-battle-ai-slop-major-publishers-reportedly-cover-their-books-in-it-2000824603"
+  }
+}
