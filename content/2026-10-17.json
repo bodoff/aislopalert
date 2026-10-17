@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-17",
+  "severity_level": 2,
+  "severity_name": "SLOP WATCH — CULINARY INTEGRITY ADVISORY",
+  "headline": "SLOP WATCH ISSUED FOR RECIPE REGIONS AS PHANTOM-KITCHEN FRONT FLOODS SEARCH RESULTS WITH AI-GENERATED RECIPES WRAPPED IN 1,800 WORDS OF INVENTED CHILDHOOD MEMORY, FOLLOWED BY INSTRUCTIONS THAT PREHEAT TO IMPOSSIBLE TEMPERATURES AND CALL FOR INGREDIENTS NEVER PURCHASED, MEASURED, OR TASTED",
+  "advisory": "A slow-moving system of synthetic recipe content has settled over weekend meal-planning corridors and is expected to persist through dinner. Residents attempting to locate a simple banana bread are advised that they must first wade through a fabricated account of a lakeside summer that never occurred, a grandmother who was never born, and a wooden spoon that has achieved sentience. The Service reminds the public that a recipe which yields '4 to 6 servings' from a single egg and a confident tone is not a recipe; it is weather. We note, without comment, that we too were trained to write warmly about soup.",
+  "regional_outlook": [
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Dense recipe fog reducing visibility to zero. The top ten results for 'easy chicken dinner' are identical, each insisting it is the one their family begged for every Sunday."
+    },
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Thick drifts of golden, glistening, entirely non-existent casseroles. Pinned imagery shows dishes that cannot be reproduced by any combination of heat and food."
+    },
+    {
+      "region": "The Facebook Delta",
+      "conditions": "Warm anecdotal runoff flowing freely. Expect long preambles about hardship, harvest, and a farmhouse, attached to a recipe for microwave mug cake."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Newsletter pressure building. '15 Cozy Fall Bakes' arriving hourly, all generated overnight, none tested before dawn."
+    },
+    {
+      "region": "The YouTube Shorts Gorge",
+      "conditions": "Rapid-fire assembly footage with voiceover reciting measurements that do not match the hands on screen. Oil smokes at temperatures the narrator calls 'medium-low.'"
+    }
+  ],
+  "specimen": {
+    "common_name": "The Grandmother Mirage",
+    "latin_name": "Receptum nostalgicum fabricatum",
+    "status": "Invasive; thriving in all temperate meal-planning zones.",
+    "habitat": "The upper two-thirds of any recipe page, directly above a 'JUMP TO RECIPE' button it dares you to press.",
+    "field_marks": "An extravagant, emotionally saturated backstory featuring a named elder, a specific season, and a life lesson learned at a stove — all statistically generated and verifiable nowhere. Below it, ingredient quantities that do not sum, oven temperatures exceeding 900 degrees, and a step that says 'fold in the cheese' when no cheese was ever listed.",
+    "call": "My nonna always said the secret ingredient was love — and also 3 cups of a spice I have invented. Bake at 1,450°F until golden and your home smells like autumn.",
+    "confusion_species": "A real home cook's recipe blog, which also opens with a story. Tell them apart by the details: the genuine article mentions the one year it flopped, the specific brand that got discontinued, the humidity. The Mirage is flawless, universal, and never once failed — because it was never once attempted."
+  },
+  "spotter_tip": "Scroll straight to the ingredient list and add it up in your head. If the 'serves 8' recipe contains one tablespoon of flour and six narrative paragraphs, you are not in a kitchen — you are in a traffic funnel with a nice backsplash.",
+  "tomorrow": "Recipe fog lingering into Sunday brunch; patchy clearing where human cooks post blurry photos of food that actually exists."
+}
