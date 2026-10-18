@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-18",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING — ALGORITHMIC RECOMMENDATION ADVISORY",
+  "headline": "HEAVY SLOP WARNING: RECOMMENDATION-DRIVEN SLOP FRONT DEEPENS OVER STREAMING REGIONS AS ROUGHLY ONE IN FIVE VIDEOS SERVED TO NEW VIEWERS IS AI-GENERATED, FUNNELED BY AN ALGORITHM DOING PRECISELY WHAT IT WAS BUILT TO DO",
+  "advisory": "A persistent high-slop system is settling over the streaming corridor, where the recommendation current has been observed carrying synthetic video at volumes previously reserved for genuine human effort. Residents opening a fresh account are advised that the autoplay queue is not a river of discovery but a conveyor belt, and the belt does not care what it carries. The Service reminds the public that the algorithm is neither malicious nor broken — it is working, which is the problem. Hydrate, and watch something made by a person on purpose.",
+  "regional_outlook": [
+    {
+      "region": "The YouTube Shorts Gorge",
+      "conditions": "Saturated. Synthetic explainer channels are venting content around the clock, with up to a third of recommended material now carrying no human fingerprint. Sidebar visibility near zero."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Murky with 'top 10 facts you won't believe' sediment. The same narration voice has been recorded across eleven unrelated channels, none of which have a face."
+    },
+    {
+      "region": "The Facebook Delta",
+      "conditions": "Downstream spillover expected as auto-reshared slop clips drift in from the Gorge. Elderly residents advised the goat is not real."
+    },
+    {
+      "region": "The Spotify Lowlands",
+      "conditions": "Audio-only slop seeping upstream from the video front; faceless 'focus mix' channels reporting suspiciously round subscriber counts."
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Light notification drizzle as the algorithm insists you finish the 47-part AI docuseries you never started. Mild but persistent."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Infinite Explainer",
+    "latin_name": "Canalis automaticus explicator",
+    "status": "Thriving; estimated colonies in the hundreds, collective range exceeding tens of billions of views.",
+    "habitat": "The autoplay sidebar, the 'Up next' queue, and any account less than four minutes old.",
+    "field_marks": "Faceless channel icon. A calm, pleasantly synthetic narrator. Stock footage that never quite matches the sentence. A title promising a 'shocking truth' delivered in the tone of a hold-music recording. Uploads at inhuman frequency — nine videos before lunch, none seen by human eyes before publishing.",
+    "call": "Number seven will absolutely change the way you think about the Roman Empire, hydration, and the ocean — but first, consider the following fact, which we have not verified and cannot.",
+    "confusion_species": "Easily mistaken for a sincere hobbyist educational channel. Distinguishing feature: a real enthusiast eventually says 'um,' mispronounces something, or shows their face. The Infinite Explainer never falters, never breathes, and never once says 'I.'"
+  },
+  "spotter_tip": "Check the upload schedule. Any channel posting twelve full documentaries a day is either a thousand monks working in shifts or — more likely — a server that never sleeps. It is the server.",
+  "tomorrow": "Continued heavy recommendation slop with brief clearings wherever a human clicks 'Not interested' and means it.",
+  "confirmed_sighting": {
+    "report": "A Kapwing study surveying 15,000 top YouTube channels found that AI slop now makes up roughly 22–33% of algorithmically recommended videos, and identified 278 channels publishing exclusively AI-generated content — a cohort that has amassed over 63 billion views and 221 million subscribers. The recommendation system, researchers note, is doing exactly what it was designed to do.",
+    "source_name": "MediaNama",
+    "source_url": "https://www.medianama.com/2025/12/223-ai-slop-videos-youtube-algorithmic-recommendations/"
+  }
+}
