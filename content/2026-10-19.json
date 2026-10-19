@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-19",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING — ARTISANAL INTEGRITY ADVISORY",
+  "headline": "HEAVY SLOP WARNING: COUNTERFEIT-HANDICRAFT FRONT SETTLES OVER THE ETSY HOLLOWS AS AI-GENERATED KNOCKOFF LISTINGS CLONE ORIGINAL MAKERS' WORK OVERNIGHT, UNDERCUTTING THE HANDS THAT ACTUALLY STITCHED IT WITH PRODUCTS THAT WERE NEVER HELD, MEASURED, OR MADE",
+  "advisory": "The Service is tracking a persistent low-pressure system of synthetic craft listings advancing across marketplace regions. Residents are advised that a handmade item going viral now functions as a weather event: within hours, a bank of AI-generated imitations forms downwind, priced lower and photographed by no camera. Verify that the shop you are buying from has a pulse, a backlog, and a human willing to answer a question about yarn.",
+  "regional_outlook": [
+    {
+      "region": "The Etsy Hollows",
+      "conditions": "Heavy counterfeit-craft accumulation around every trending handmade item, with cloned listings reaching peak density within six hours of a maker's first viral post. Visibility for genuine artisans reduced to near zero."
+    },
+    {
+      "region": "The LinkedIn Plateau",
+      "conditions": "Unseasonable clearing reported as platform authorities signal they have grown weary of synthetic posts. Residents should remain calm; the thinking-face emoji is forecast to retreat only gradually."
+    },
+    {
+      "region": "The X Badlands",
+      "conditions": "A fabricated wildlife-attack clip continues to circulate on strong engagement currents, outrunning every correction. Travelers reminded that a video is not an affidavit."
+    },
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Boards saturated with AI 'inspiration' crafts that cannot physically be assembled. Pinning advised; attempting is not."
+    },
+    {
+      "region": "The App Store Flats",
+      "conditions": "Scattered clone-utility apps with stock icons and five identical five-star reviews posted in the same minute. Mild and relentless."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Mimic Maker",
+    "latin_name": "Artifex simulatus plagiarius",
+    "status": "Invasive; proliferating wherever a human succeeds",
+    "habitat": "Fresh virality zones of handmade marketplaces; nests downwind of any original maker's best-selling listing.",
+    "field_marks": "Product photos with impossibly even lighting and no reflection of a workspace; a shop opened days ago with hundreds of 'handmade' items; prices suspiciously below the cost of the materials alone; a listing that cannot answer where the yarn came from.",
+    "call": "Handmade with love — ships in 1 business day — ask me nothing about it.",
+    "confusion_species": "Easily mistaken for the real maker it is copying. Tell them apart by shop age, response to questions, and the presence of actual stitching imperfections; the genuine article has a human behind it and occasionally a cat in frame."
+  },
+  "spotter_tip": "Ask the shop a specific question only a maker could answer — a hook size, a stitch name, how long one takes. The Mimic Maker will reply with a warm paragraph that answers none of it.",
+  "tomorrow": "Counterfeit-craft front lingers; brief clearing possible over the LinkedIn Plateau before fresh clone cells redevelop by evening.",
+  "confirmed_sighting": {
+    "report": "A handmade crochet product that went viral spawned a wave of AI-generated knockoff listings on Etsy, illustrating a growing trend of synthetic copies that undercut the original makers on online marketplaces.",
+    "source_name": "The Cool Down",
+    "source_url": "https://www.thecooldown.com/green-tech/tasmania-crochet-artist-beanie-etsy-ai-copy/"
+  }
+}
