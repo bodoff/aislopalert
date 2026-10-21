@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-21",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING — PANORAMIC INTEGRITY ADVISORY",
+  "headline": "HEAVY SLOP WARNING: SYNTHETIC-WILDERNESS FRONT ROLLS ACROSS SCENIC REGIONS AS AI-GENERATED 'NATURE SLOP' FLOODS FEEDS WITH IMPOSSIBLE MOUNTAINS, GLOWING FORESTS, AND MAJESTIC ANIMALS THAT POSSESS TOO MANY LEGS, NO KNOWN RANGE, AND AN UNEARNED SENSE OF WONDER",
+  "advisory": "The National Slop Service is tracking a dense panoramic system depositing AI-generated landscape and wildlife imagery across all scenic viewing areas. Residents are advised that a 'breathtaking Norwegian fjord at golden hour' may feature water flowing uphill, a sun casting four shadows, and a stag whose antlers fork into their own reflection. These images are engineered to trigger awe at scale; awe, we remind the public, is not the same as accuracy. Verify before you share, and do not attempt to visit anything you cannot locate on a map.",
+  "regional_outlook": [
+    {
+      "region": "The Pinterest Shallows",
+      "conditions": "Saturated with iridescent 'enchanted woodlands' and bioluminescent waterfalls. Visibility reduced by a persistent haze of unnatural teal."
+    },
+    {
+      "region": "The Facebook Delta",
+      "conditions": "Heavy drift of captioned 'God's beautiful creation' posts depicting fox-wolf hybrids. Engagement bait expected to accumulate in the comments by evening."
+    },
+    {
+      "region": "The YouTube Shorts Gorge",
+      "conditions": "Looping flyovers of mountain ranges that rearrange themselves between frames. Ambient flute track unavoidable."
+    },
+    {
+      "region": "The Search Results Basin",
+      "conditions": "Travel wallpaper downloads increasingly indistinguishable from fever dreams. Reverse-image searches returning only more slop."
+    },
+    {
+      "region": "The Kindle Drifts",
+      "conditions": "Nature photography coffee-table e-books rising rapidly, none of whose landscapes exist. Cover of 'Majestic Earth: 100 Real Places' flagged for irony."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Impossible Vista",
+    "latin_name": "Panorama ficta sublimis",
+    "status": "Abundant; peaks seasonally with every 'most beautiful places' listicle",
+    "habitat": "Wallpaper galleries, inspirational feeds, stock-image bins, and the desktop backgrounds of residents who should have known better",
+    "field_marks": "Lighting that arrives from three directions at once; mountains both snowcapped and tropical; a waterfall that empties into itself; one animal in the foreground with an extra joint and a gaze of counterfeit serenity. Colors tuned past the limits of any atmosphere Earth has ever possessed.",
+    "call": "Nature is healing — tag someone who needs to see this absolutely real place",
+    "confusion_species": "Easily mistaken for genuine landscape photography. Telltale difference: a real photograph has a location, a photographer, and a reason the shadows agree with each other. The Impossible Vista has only vibes.data.gov coordinates that resolve to the open ocean."
+  },
+  "spotter_tip": "Trace the sunlight. If a single scene is lit from the left, the right, and below simultaneously, you are not looking at a sunset — you are looking at a rendering engine that has never been outdoors.",
+  "tomorrow": "Synthetic-wilderness front persists; scattered impossible fjords clearing to a thin fog of fake aurora overnight.",
+  "confirmed_sighting": {
+    "report": "Art-world observers have documented the rise of 'nature slop,' a genre of low-quality AI-generated art depicting wildlife and landscapes now proliferating across online feeds. The Service notes this confirms what our instruments have logged all week: the scenery is spreading faster than the places it claims to depict.",
+    "source_name": "Artnet News",
+    "source_url": "https://news.artnet.com/art-world/nature-slop-2573889"
+  }
+}
