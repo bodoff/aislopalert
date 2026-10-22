@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-22",
+  "severity_level": 3,
+  "severity_name": "HEAVY SLOP WARNING — INTERACTIVE INTEGRITY ADVISORY",
+  "headline": "HEAVY SLOP WARNING: PHANTOM-DEMO FRONT INUNDATES GAMING REGIONS AS THOUSANDS OF AI-ASSEMBLED GAME DEMOS FLOOD STOREFRONT SHOWCASES WITH POLISHED TRAILERS, UNPLAYABLE BUILDS, AND STUDIOS THAT HAVE NEVER SHIPPED, STAFFED, OR EXISTED",
+  "advisory": "A broad, slow-moving system of placeholder game demos has settled over interactive regions, raising storefront demo density to levels not previously recorded. Residents are advised that a confident trailer, a wishlist button, and a 'coming soon' banner are not, by themselves, evidence of a game. The Service reminds the public that a demo which crashes on the main menu is still technically interactive, in the way that a locked door is technically a door.",
+  "regional_outlook": [
+    {
+      "region": "The App Store Flats",
+      "conditions": "Thick demo haze through the afternoon, with visibility reduced by near-identical survival-crafting titles. Expect roughly nine storefronts showing the same inventory grid photographed from the same impossible angle."
+    },
+    {
+      "region": "The Steam Delta",
+      "conditions": "Severe overcrowding as an estimated eight-thousand-title showcase saturates to capacity. Human-made entries remain submerged beneath a thick layer of procedurally generated placeholder builds; dredging advised."
+    },
+    {
+      "region": "The YouTube Shorts Gorge",
+      "conditions": "Gusty trailer activity pushing 'gameplay' footage that was never rendered in any playable engine. Residents report wishlisting games that do not run."
+    },
+    {
+      "region": "The LinkedIn Plateau",
+      "conditions": "Scattered announcements of 'solo studios' shipping forty titles a quarter. Pressure dropping on the phrase 'AI-native game development.'"
+    },
+    {
+      "region": "The Inbox Estuary",
+      "conditions": "Rising tide of launch-day newsletters for products still in a pre-playable state. Unsubscribe links functional; games not confirmed to be."
+    }
+  ],
+  "specimen": {
+    "common_name": "The Phantom Demo",
+    "latin_name": "Ludus demonstratio inexistens",
+    "status": "Overabundant and spreading; dominant in showcase season.",
+    "habitat": "Storefront festivals, wishlist pages, and the exact top of the 'new and trending' row where it blocks the sun from living games below.",
+    "field_marks": "A gorgeous key-art banner mated to a build that opens, stutters, and closes. Watch for a 'Start Game' button that leads only to a second 'Start Game' button, and credits listing one team member repeated under eleven invented roles.",
+    "call": "Add to Wishlist! Demo available now — full release coming Q-soon™ — your journey begins the moment we finish making it",
+    "confusion_species": "Easily mistaken for a genuine early-access indie demo, which is also unfinished. Tell them apart by the patch notes: a real demo apologizes for a specific bug; a Phantom Demo apologizes for nothing because no human has yet played it.car"
+  },
+  "spotter_tip": "Before wishlisting, open the demo and walk your character into a wall. A real game stops you. A Phantom Demo lets you walk through the wall, out of the level, and into the grey void where its budget should have been.",
+  "tomorrow": "Demo haze lingers overnight, thinning slightly as storefront curation teams begin manual dredging; residual placeholder fog in low-moderation basins.",
+  "confirmed_sighting": {
+    "report": "Coverage reports that Valve's Steam Next Fest was overwhelmed by a wave of low-effort AI-generated game demos across its roughly 8,000-title lineup, diluting the showcase and crowding out human-made games. The Service classifies this as a textbook phantom-demo inundation event.",
+    "source_name": "FRVR",
+    "source_url": "https://frvr.com/blog/news/steam-next-fest-has-become-next-to-worthless-as-ai-slop-infests-a-list-of-8000-demos/"
+  }
+}
